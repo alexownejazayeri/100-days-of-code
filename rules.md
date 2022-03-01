@@ -4,25 +4,27 @@
 ### *I will code for at least an hour every day for the next 100 days.*
 
 #### Start Date
-June 25th, 2016. [PUT YOUR DATE HERE]
+28 February 2022
 
 ## Additional Rules
-1. I will tweet about my progress every day -> using the hashtag #100DaysOfCode
-2. If I code at work, that time won't count towards the challenge.
-3. I will push code to GitHub every day so that anyone can see my progress.
-4. I will update the (Log)[log.md] with the day's progress and provide a link so that others can see my progress.
-5. I will work on real projects, facing real challenges. The time spent doing tutorials, online courses and other similar resources will NOT count towards this challenge. (If you've just started learning to code, read [FAQ](FAQ.md))
+1. I'll tweet my progress every day using the #100DaysOfCode.
+2. Time spent coding for work won't count towards the challenge.
+3. I'll push code to GitHub every day so my progress is public.
+4. I will update the [log](https://github.com/alexownejazayeri/100-days-of-code/blob/de5a1611c1e2e72295047197f378f17be6c513a7/log.md) with the day's progress and provide a link for others to see.
+5. I will work on real projects, facing real challenges. Time spent on:
+   - tutorials 
+   - online courses 
+   - other similar resources 
+   - ...will NOT count towards this challenge. 
 
 
 ## Ideas to make this challenge more effective
-1. To increase the chances of success, it's a requirement that you add a link to each of the day posts in the [log](log.md). It can be a link to a commit on GitHub, a link to a blog post
-2. If you get upset or stuck, read this article: [Learning to Code: When It Gets Dark](https://www.freecodecamp.org/news/learning-to-code-when-it-gets-dark-e485edfb58fd/)
-3. If you don't know why there is such an emphasis on working on the projects vs doing tutorials or online courses, read this: [How to Get a Developer Job in Less Than a Year](https://www.freecodecamp.org/news/how-to-get-a-developer-job-in-less-than-a-year-c27bbfe71645/)
-4. If you can't push your code to GitHub for some reason (e.g. if you're only starting to code and doing interactive exercises), provide a link to a tweet. You can think of something else as long as your challenge stays public - and you get the benefit of being committed to it and accountable for your progress.
-5. Another good bonus of forking this repo -> if you haven't worked with Markdown before, it's a good way to practice.
+- Add a link to each of the day posts in the [log](log.md). It can be a link to a commit on GitHub, a link to a blog post
+- If you get upset or stuck, read this article: [Learning to Code: When It Gets Dark](https://www.freecodecamp.org/news/learning-to-code-when-it-gets-dark-e485edfb58fd/)
+- **Done** Benefits of projects vs tutorials or online courses: [How to Get a Developer Job in Less Than a Year](https://www.freecodecamp.org/news/how-to-get-a-developer-job-in-less-than-a-year-c27bbfe71645/)
+- Provide a link to a tweet if you can't push your code to GitHub.
 
 ## Contents
 * [Rules](rules.md)
-* [Log - click here to see my progress](log.md)
-* [FAQ](FAQ.md)
+* [Log](log.md)
 * [Resources](resources.md)
