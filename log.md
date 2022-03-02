@@ -24,43 +24,62 @@ In 2022, I decided to come back full-on with this schedule:
 
 ### 8am - 4pm 
 
-freelance as a paid social media marketer 
+freelance as a paid social media marketer
+
 optimize ads across facebook, pinterest, instagram, tiktok, and snapchat 
+
 work with cool people at a cool agency
+
 be grateful for the opportunity, yet know I want to code instead (sigh)
 
 ### 4pm - 630pm
 exercise
+
 skate 
+
 dread the potential of nuclear war 
+
 dine 
+
 consume coffee 
+
 wish I already knew what I need to get hired 
+
 hope coffee helps me focus 
+
 have a lot of ~thoughts~
+
 regret drinking coffee late in the day
+
 etc...
 
 *takes a deep breath* 
 
 ### ...and from 630pm to 1030pm (sometimes later)
-try my darndest to self-teach programming with lots of help from friends and the internet (so much help, thank you all).
 
-In late February, even with the support of a close friend and mentor, I felt hesitant and that there was too much ground to make up. I started to rationalize moving on in exchange for the thrill of occasionally automating work tasks with Python. Then it happened...
+try my darndest to self-teach programming with lots of help from friends and the internet (so much help, thank you all)
+
+### So where did that go?
+
+In late February, even with the support of a close friend and mentor, I felt hesitant - there was too much ground to make up. I started to rationalize moving on in exchange for the thrill of occasionally automating work tasks with Python. Then it happened...
 
 On Valentine's Day, a Douglass Fir up in Mt. Tamalpais shed a tree-sized limb that nearly crushed me to death. The sound was so loud I immediately jolted awake to find the branch just a few feet from my tent. I didn't know how to feel: shocked, relieved, concerned? 
 
-After processing, reality pulled back into focus...this near-death experience reset my perspective and reminded me that there's no sense in waiting for the "perfect" time. Good things are worth patience and persistence.
+After processing, reality pulled back into focus...this near-death experience had reset my perspective almost instantly and reminded me that there's no sense in waiting for the "perfect" time. Good things are worth patience and persistence.
 
-I decided to take a chance - to leave my full-time role and pursue a career as a dev as aggressively as possible with this renewed appreciation for the possible brevity of life. YOLO, right? (sorry)
+I decided to take a chance - to leave my full-time role and pursue a career as a dev. With this renewed appreciation for the brevity of life...YOLO, right? 
+
+(sorry)
 
 My last day is 3.14.22 (pi day, woot). While I'll miss my team and the incredible people I got to work with, I'd regret not doing this with everything I have.
 
-Then I came across the #100DaysOfCode. It's hard to miss when you're connected to FCC, but I hadn't dug into it. After a quick glance over the site and seeing how active the community is, it was a no-brainer. As of 1 March 2022, I'm comitted to the rules!
+Recently, I came across the #100DaysOfCode again - hard to miss when you're connected to FCC's community. After a dive into the site and seeing how active the community is, it was a no-brainer. As of 1 March 2022, I'm comitted to the rules!
 
 As of 3.14, I'm committed to coding and applying to jobs full-time with the 'reach' goal of getting hired by the end of the challenge. 
 
-With tempered expecations, I'm excited to connect with and support challengers, join a community, get/give mentorship, and - if I learn enough to be valuable to someone's business - attain the holy grail: a career creatively writing directions for computers and mostly figuring out why they don't want to listen!
+(hire me if you want)
+
+With tempered expecations, I'm excited to connect with and support challengers, join a community, get/give mentorship, and - if I learn enough to be valuable to someone's business - attain the holy grail: a career solving problems with computers and mostly figuring out why they don't want to listen!
 
 Not sure if anyone will ever lay eyes on this, but if it helps you, catches your attention, inspires you, makes you cringe, or anything in between - reach out to me and tell me about it.
 
