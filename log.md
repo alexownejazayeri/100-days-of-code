@@ -9,21 +9,21 @@ ___
 ## Hello world
 I'm Alex, h e l l o. See that purple glory? The unpacked monitors? The mic stand, the RedBull (not glorifying this awful habit), the water (to feel less bad about the RedBull), and the headphones?
 
-Like many in this WFH world, I've gently placed my caboose in this chair every day for the last month, but with a new resolve.
+This is my workspace. Like many in this WFH world, I've emerged from bed to gently place my caboose in this chair and interacted with the world through these screens every day for months. I started learning JavaScript early on in the pandemic, and the more time I spent in front of these screens - the more I wanted to build bits of the internet, the more I wanted to play an active role in developing it.
 
-From 8am - 4pm: freelancing as a paid social media marketer
+So starting in 2022 I decided on this schedule:
 
-From 4pm - 630pm: exercising, skating, dreading the potential of nuclear war, thinking about how to be more helpful, consuming coffee, wishing I knew more, hoping coffee helps me focus, having a lot of ~thoughts~, etc...
+8am - 4pm: freelancing as a paid social media marketer; optimizing video ads across various social platforms, working with cool people at a cool agency, loving the opportunity, but knowing I want to be coding 
+
+4pm - 630pm: exercising, skating, dreading the potential of nuclear war, dining, trying to be more helpful, consuming coffee, wishing I knew more, hoping coffee helps me focus, having a lot of ~thoughts~, etc...
 
 *takes a deep breath* 
 
 ...and from 630pm to 1030pm: trying my darndest to self-teach programming with lots of help from friends and the internet (so much help, thank you all).
 
-After feeling a bit defeated last week, I saw a bunch of cool peeps on Twitter using the #100DaysOfCode and immediately knew it was what I needed. 
+This was after a long hiatus and a lot of support and encouragement from a dear friend of mine who made this leap years ago and hasn't looked back since. After feeling intimidated by the lost progress and amount of work to make up toward the end of February, I saw a bunch of cool peeps on Twitter using the #100DaysOfCode and immediately knew it was what I needed. I resolved to take on the challenge!
 
-I have no expectation that this will be easy, but it seems objectively worthwhile. 
-
-As of 3.14 (pi day, woo!), I'm comitting to learning and applying to open positions full-time with the reach goal of getting hired by the end of my 100 days. I'm excited to connect with and support challengers, feel a sense of community, get mentorship, and - if I learn enough to be valuable to someone's company - the holy grail: a career doing what makes my heart sing.
+As of 3.14 (pi day, woo!), I'm comitting to learning to code and applying to job (full-time) with the 'reach' goal of getting hired by the end of my 100 days. I'm excited to connect with and support challengers, feel a sense of community, get mentorship, and with tempered expecations - if I learn enough to be valuable to someone's company - attain the holy grail: a career doing what makes my heart sing.
 
 Not sure if anyone will ever lay eyes on this, but if it helps you, catches your attention, inspires you, makes you cringe, or anything in between - reach out to me and tell me about it!
 
