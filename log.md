@@ -15,14 +15,18 @@ ___
 - Worked on the React [tic-tac-toe](https://reactjs.org/tutorial/tutorial.html) tutorial to review and build up best practices in markdown. 
   - Key concepts: React components (subclasses, functions), managing state (passing, lifting), dynamically rendering components with functional methods like map.
 - Customized #100DaysOfCode resources e.g.(hello world story, tightened up readme, resources, and log).
-- Spruced up my GitHub README.md
+
+Next steps:
+- Spruce up my GitHub README.md
+- Finalize best practices doc
+- Review MDN's JS refresher and play with example in node to review
 
 ### Journal
 
 Seung was right, the React docs are great. Excited to dive into the TypeScript docs at his recommendation too. Generally, feeling good and looking forward to putting more hours into this challenge. It feels a bit slow to start since I'm parsing through the intro stuff, but that's par for the course - gotta start somewhere!
 
 
-**Link(s) to work:** ['Hello World' - My #100DaysOfCode Story](http://www.example.com)
+**Link(s) to work:** ['Hello World' - My #100DaysOfCode Story](https://github.com/alexownejazayeri/100-days-of-code/blob/master/hello-world.md)
 
 **Link to Tweet:** [@alexjazayeri d0](https://twitter.com/alexjazayeri/status/1498935032336973824?s=20&t=fnMCXFMjjcgMvCgOBG2rFQ)
 
