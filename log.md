@@ -15,9 +15,9 @@ Like many in this WFH world, I've emerged from bed every day to gently place my 
 
 For context, early on in 2020 I took FCC's frontend certs and fell in love with programming - the endless learning, possibilities, and problem solving of it all. I used to practice math on Khan Academy in the off hours, but coding quickly filled that position - it was what I did to blow off steam at day's end. 
 
-The more time I spend in front of those screens, the more I want to **build** bits of the internet and play an active role in developing it.
+The more time I spent in front of those screens interacting with the digital world, the more I wanted to **build** bits of the internet and play an active role in developing it.
 
-And again, like many of us, life threw me a load of curveballs 2020 - 2021. This forced me to take a long hiatus (you can see it on my GitHub activity). 
+But again, like many of us, life threw me a load of curveballs in the last couple years. This forced me to take a hiatus from coding (you can see it on my GitHub activity).
 
 In 2022, I decided to come back full-on with this schedule:
 
@@ -43,8 +43,7 @@ etc...
 *takes a deep breath* 
 
 ### ...and from 630pm to 1030pm (sometimes later)
-try
-my darndest to self-teach programming with lots of help from friends and the internet (so much help, thank you all).
+try my darndest to self-teach programming with lots of help from friends and the internet (so much help, thank you all).
 
 In late February, even with the support of a close friend and mentor, I felt hesitant and that there was too much ground to make up. I started to rationalize moving on in exchange for the thrill of occasionally automating work tasks with Python. Then it happened...
 
