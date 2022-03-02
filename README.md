@@ -31,5 +31,5 @@
 - [x] Delete the examples in the log, or comment them out, and start filling it with your own content.
 - [x] Follow [Alex, creator of #100DaysOfCode](https://twitter.com/ka11away) & [100DaysOfCode](https://twitter.com/_100DaysOfCode) Twitter Bot that retweets the tweets that contain the #100DaysOfCode hashtag. It's a great way to keep yourself motivated and to participate in the community. Thanks [@amanhimself](https://twitter.com/amanhimself) for creating it!
 - [x] 💌 [SUBSCRIBE to Alex's 'Do The Opposite' newsletter.](https://dotheopposite.substack.com/)
-- [ ] **Opted out of Slack since I avoid it all costs** 
+- [ ] **Opted out of Slack** 
   - [Here's](https://www.100daysofcode.com/slack) the invite link to the 100DaysOfCode Slack channel for onlookers.
