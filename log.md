@@ -67,7 +67,7 @@ On Valentine's Day, a Douglass Fir up in Mt. Tamalpais shed a tree-sized limb th
 
 After processing, reality pulled back into focus...this near-death experience had reset my perspective almost instantly and reminded me that there's no sense in waiting for the "perfect" time. Good things are worth patience and persistence.
 
-I decided to take a chance - to leave my full-time role and pursue a career as a dev. With this renewed appreciation for the brevity of life...YOLO, right? 
+I decided to take a chance - to leave my full-time role and pursue a career as a dev. YOLO, right? 
 
 (sorry)
 
