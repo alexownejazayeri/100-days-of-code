@@ -9,7 +9,7 @@ ___
 ## Hello world
 I'm Alex, h e l l o. See that purple glory? The unpacked monitors? The mic stand, the RedBull (not glorifying this awful habit), the water (to feel less bad about the RedBull), and the headphones?
 
-This is my workspace. Like many in this WFH world, I've emerged from bed to gently place my caboose in a chair and interact with the world almost exclusively through screens. Early in the 2022 I took FCC's frontend certs and fell in love with coding - the endless learning, possibilities, and problem solving of it all. I used to practice math on Khan Academy in the off hours, but coding quickly filled that position - it was what I did to blow off steam at day's end. 
+This is my workspace. Like many in this WFH world, I've emerged from bed to gently place my caboose in a chair and interact with the world almost exclusively through screens. Early on in 2020 I took FCC's frontend certs and fell in love with coding - the endless learning, possibilities, and problem solving of it all. I used to practice math on Khan Academy in the off hours, but coding quickly filled that position - it was what I did to blow off steam at day's end. 
 
 The more time I spent in front of screens - the more I wanted to **build** bits of the internet, the more I wanted to play an active role in developing it.
 
