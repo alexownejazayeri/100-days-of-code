@@ -9,6 +9,12 @@
 
 ### Podcasts
 
+## Job Readiness
+
+### GitHub
+
+- [Customizing Your Profile](https://docs.github.com/en/account-and-profile/setting-up-and-managing-your-github-profile/customizing-your-profile)
+
 # Additional Resources on the #100DaysOfCode
 
 ## Communities
