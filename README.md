@@ -3,6 +3,7 @@
 ## Contents
 
 - [Log - click to see my progress!](log.md)
+- [Hello World - My #100DaysOfCode Story](hello-world.md)
 - [Rules](rules.md)
 - [Resources](resources.md)
 
