@@ -9,19 +9,42 @@ ___
 ## Hello world
 I'm Alex, h e l l o. See that purple glory? The unpacked monitors? The mic stand, the RedBull (not glorifying this awful habit), the water (to feel less bad about the RedBull), and the headphones?
 
-This is my workspace. Like many in this WFH world, I've emerged from bed to gently place my caboose in a chair and interact with the world almost exclusively through screens. Early on in 2020 I took FCC's frontend certs and fell in love with coding - the endless learning, possibilities, and problem solving of it all. I used to practice math on Khan Academy in the off hours, but coding quickly filled that position - it was what I did to blow off steam at day's end. 
+This is my workspace. 
 
-The more time I spent in front of screens - the more I wanted to **build** bits of the internet, the more I wanted to play an active role in developing it.
+Like many in this WFH world, I've emerged from bed every day to gently place my caboose in a chair and interact with the world almost exclusively through those screens. I don't code for a living, but I fiercely want to.
 
-And again, like many of us, life threw me a load of curveballs 2020 - 2021 forcing me to take a long hiatus (you can see it on my GitHub activity). In 2022 I decided to come back full-on with this schedule:
+For context, early on in 2020 I took FCC's frontend certs and fell in love with programming - the endless learning, possibilities, and problem solving of it all. I used to practice math on Khan Academy in the off hours, but coding quickly filled that position - it was what I did to blow off steam at day's end. 
 
-8am - 4pm: freelancing as a paid social media marketer; optimizing ads across various social platforms, working with cool people at a cool agency, loving the opportunity, but knowing I want to code for a living
+The more time I spend in front of those screens, the more I want to **build** bits of the internet and play an active role in developing it.
 
-4pm - 630pm: exercising, skating, dreading the potential of nuclear war, dining, trying to be more helpful, consuming coffee, wishing I knew more, hoping coffee helps me focus, having a lot of ~thoughts~, etc...
+And again, like many of us, life threw me a load of curveballs 2020 - 2021. This forced me to take a long hiatus (you can see it on my GitHub activity). 
+
+In 2022, I decided to come back full-on with this schedule:
+
+### 8am - 4pm 
+
+freelance as a paid social media marketer 
+optimize ads across facebook, pinterest, instagram, tiktok, and snapchat 
+work with cool people at a cool agency
+be grateful for the opportunity, yet know I want to code instead (sigh)
+
+### 4pm - 630pm
+exercise
+skate 
+dread the potential of nuclear war 
+dine 
+consume coffee 
+wish I already knew what I need to get hired 
+hope coffee helps me focus 
+have a lot of ~thoughts~
+regret drinking coffee late in the day
+etc...
 
 *takes a deep breath* 
 
-...and from 630pm to 1030pm (sometimes later): trying my darndest to self-teach programming with lots of help from friends and the internet (so much help, thank you all).
+### ...and from 630pm to 1030pm (sometimes later)
+try
+my darndest to self-teach programming with lots of help from friends and the internet (so much help, thank you all).
 
 I was hesitant and felt like I had too much ground to make up, but still chased the thrill of sitting down and automating work tasks. Then it happened...
 
