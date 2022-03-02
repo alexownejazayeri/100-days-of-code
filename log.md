@@ -7,6 +7,7 @@ ___
 ___
 
 ## Hello world
+
 I'm Alex, h e l l o. See that purple glory? The unpacked monitors? The mic stand, the RedBull (not glorifying this awful habit), the water (to feel less bad about the RedBull), and the headphones?
 
 This is my workspace. 
@@ -47,7 +48,9 @@ try my darndest to self-teach programming with lots of help from friends and the
 
 In late February, even with the support of a close friend and mentor, I felt hesitant and that there was too much ground to make up. I started to rationalize moving on in exchange for the thrill of occasionally automating work tasks with Python. Then it happened...
 
-On Valentine's Day, a Douglass Fir up in Mt. Tamalpais shed a tree-sized limb that nearly crushed me to death. The sound was so loud I immediately jolted awake to find the branch just a few feet from my tent. I didn't know how to feel: shocked, relieved, concerned? After processing things pulled into focus...this near-death experience reset my perspective and reminded me that there's no sense in waiting for the "perfect" time. Good things are worth patience and persistence.
+On Valentine's Day, a Douglass Fir up in Mt. Tamalpais shed a tree-sized limb that nearly crushed me to death. The sound was so loud I immediately jolted awake to find the branch just a few feet from my tent. I didn't know how to feel: shocked, relieved, concerned? 
+
+After processing, reality pulled back into focus...this near-death experience reset my perspective and reminded me that there's no sense in waiting for the "perfect" time. Good things are worth patience and persistence.
 
 I decided to take a chance - to leave my full-time role and pursue a career as a dev as aggressively as possible with this renewed appreciation for the possible brevity of life. YOLO, right? (sorry)
 
@@ -67,7 +70,7 @@ Not sure if anyone will ever lay eyes on this, but if it helps you, catches your
 
 [GitHub](https://github.com/alexownejazayeri)
 
-Constructive feedback, commiseration, and comments welcome!
+Constructive feedback, commiseration, and comments welcome. Let's do the thing!
 
 ___
 
