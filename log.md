@@ -1,6 +1,10 @@
 <h1 align="center">Life Log - #100DaysOfCode</h1>
 
+___
+
 ![workspace](assets/IMG_4044.png)
+
+___
 
 ## Hello world
 I'm Alex, h e l l o. See that purple glory? The unpacked monitors? The mic stand, the RedBull (not glorifying this awful habit), the water (to feel less bad about the RedBull), and the headphones?
@@ -29,18 +33,17 @@ Not sure if anyone will ever lay eyes on this, but if it helps you, catches your
 
 [GitHub](https://github.com/alexownejazayeri)
 
-Constructive feedback, questions, 
-
-
+___
 
 ## Day 0: 01 March 22
 
 ### Progress
-Fixed CSS, worked on canvas functionality for the app.
+
+**In progress...**
 
 ### Daily Log 
 
-I really struggled with CSS, but, overall, I feel like I am slowly getting better at it. Canvas is still new for me, but I managed to figure out some basic functionality.
+**In progress...**
 
 **Link to work:** [Calculator App](http://www.example.com)
 
@@ -55,3 +58,4 @@ I really struggled with CSS, but, overall, I feel like I am slowly getting bette
   - [ ] fcc discord
   - [ ] linkedin in (starts day 30)
 - [x] engaged with ≥2 challengers
+___
