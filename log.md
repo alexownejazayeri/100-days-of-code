@@ -33,7 +33,7 @@ Seung was right, the React docs are great. Excited to dive into the TypeScript d
 - [x] push work to github
 - [x] post to
   - [x] twitter using #100DaysOfCode (w/ link to repo or commit)
-  - [ ] fcc discord
+  - [x] fcc discord
   - [ ] linkedin in (starts day 30)
 - [x] engaged with ≥2 challengers
 ___
