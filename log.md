@@ -14,7 +14,7 @@ This is my workspace.
 
 Like many in this WFH world, I've emerged from bed every day to gently place my caboose in a chair and interact with the world almost exclusively through those screens. I don't code for a living, but I fiercely want to.
 
-For context, early on in 2020 I took FCC's frontend certs and fell in love with programming - the endless learning, possibilities, and problem solving of it all. I used to practice math on Khan Academy in the off hours, but coding quickly filled that position - it was what I did to blow off steam at day's end. 
+For context, early on in 2020 I took FCC's frontend certs and fell in love with programming - the endless learning, possibilities, and problem solving of it all. I used to do math on Khan Academy in the off hours, but coding quickly filled that position - it was what I did to blow off steam at day's end. 
 
 The more time I spent in front of those screens interacting with the digital world, the more I wanted to **build** bits of the internet and play an active role in developing it.
 
