@@ -4,7 +4,7 @@
 ### *I will code for at least an hour every day for the next 100 days.*
 
 #### Start Date
-28 February 2022
+01 March 2022
 
 ## Additional Rules
 1. I'll tweet my progress every day using the #100DaysOfCode.

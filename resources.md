@@ -11,6 +11,27 @@
 
 # Additional Resources on the #100DaysOfCode
 
+## Communities
+
+### Discord
+
+- [FreeCodeCamp #100DaysOfCode Accountability]()
+
+### Subreddits
+
+- [ProgrammingBuddies( )](https://www.reddit.com/r/ProgrammingBuddies/)
+- [FreeCodeCamp](https://www.reddit.com/r/FreeCodeCamp/)
+
+### Twitter
+
+- [Twitter 'Latest' #100DaysOfCode Feed](https://twitter.com/search?q=%23100DaysOfCode&src=typd&f=live&vertical=default)
+- [Twitter 'Top' #100DaysOfCode Feed](https://twitter.com/search?q=%23100DaysOfCode&src=typd&vertical=default)
+- [Official 100DaysOfCode Twitter Bot](https://twitter.com/_100DaysOfCode)
+
+### Facebook Community
+
+- [The #100DaysOfCode Official Community](https://www.facebook.com/groups/100DaysOfCode/)
+
 ## Helpful Articles
 1. [Gentle Explanation of 'this keyword in JavaScript](http://rainsoft.io/gentle-explanation-of-this-in-javascript/)
 2. [Build a Laravel CRUD Application from scratch](https://www.codewall.co.uk/laravel-crud-demo-with-resource-controller-tutorial/)
@@ -38,5 +59,6 @@
 ## Contents
 * [Rules](rules.md)
 * [Log - click here to see my progress](log.md)
-* [FAQ](FAQ.md)
-* [Resources](resources.md)
+
+## More Resources
+[100DaysOfCode Website - Resources Page](https://www.100daysofcode.com/resources/)
