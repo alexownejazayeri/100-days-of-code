@@ -23,13 +23,17 @@ And again, like many of us, life threw me a load of curveballs 2020 - 2021 forci
 
 ...and from 630pm to 1030pm (sometimes later): trying my darndest to self-teach programming with lots of help from friends and the internet (so much help, thank you all).
 
-I got a lot of support and encouragement from a friend of mine who made this leap years ago and hasn't looked back since. I was hesitant and felt like I had too much ground to make up, but still loved sitting down and automating work tasks. Then it happened...
+I was hesitant and felt like I had too much ground to make up, but still chased the thrill of sitting down and automating work tasks. Then it happened...
 
-On Valentine's Day, a massive Douglass Fir up in Mt. Tamalpais shed a tree-sized limb that nearly crushed me to death. The sound was so loud I immediately jolted awake to find the branch just a few feet from where my head was. Oddly enough, this near-death experience reset my perspective and reminded me that there's no sense in waiting for the "perfect" time and that progress was to be made.
+On Valentine's Day, a massive Douglass Fir up in Mt. Tamalpais shed a tree-sized limb that nearly crushed me to death. The sound was so loud I immediately jolted awake to find the branch just a few feet from where my tent. Oddly enough, this near-death experience reset my perspective and reminded me that there's no sense in waiting for the "perfect" time. Good things are worth the patience.
 
 I decided to take a chance - to leave my full-time role and pursue a career as a dev as aggressively as possible with this renewed appreciation for the possible brevity of life. YOLO, right? (sorry)
 
-My last day is 3.14.22 (pi day, woo!). From then on (through the 100 days), I'm comitted to coding and applying to jobs full-time with the 'reach' goal of getting hired by the end of the challenge. With tempered expecations, I'm excited to connect with and support challengers, join a community, get/give mentorship, and - if I learn enough to be valuable to someone's business - attain the holy grail: a career doing what keeps me up to the wee hours staring at more screens!
+My last day is 3.14.22 (pi day, woot). 
+
+From 1 March 2022 thru my last day and to the end of the 100 days, I'm comitted to coding and applying to jobs full-time with the 'reach' goal of getting hired by the end of the challenge. 
+
+With tempered expecations, I'm excited to connect with and support challengers, join a community, get/give mentorship, and - if I learn enough to be valuable to someone's business - attain the holy grail: a career doing what keeps me up to the wee hours staring at more screens!
 
 Not sure if anyone will ever lay eyes on this, but if it helps you, catches your attention, inspires you, makes you cringe, or anything in between - reach out to me and tell me about it.
 
