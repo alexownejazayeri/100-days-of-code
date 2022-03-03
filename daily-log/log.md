@@ -41,3 +41,43 @@ Seung was right, the React docs are great. Excited to dive into the TypeScript d
   - [ ] linkedin in (starts day 30)
 - [x] engaged with ≥2 challengers
 ___
+## Day 1: 02 March 22
+
+### Daily Log
+
+- Rejigged 100-days-of-code repo for cleanliness; added subdirectories to organize daily logs and project work
+- Spruced up my Github README.md based with inspiration from [Thai Braga](https://github.com/Thaiane/Thaiane).
+- Solved problems on Edabit
+  - Reviewed: Builtin Date object, modular arithmetic, truthiness with !!
+
+Next steps:
+- Refactor old FreeCodeCamp React projects
+- Complete, review, and revise React 'best practices' log
+
+
+### Journal
+
+I felt pretty good today, but realized I spent almost all my time "sprucing" and not as much time writing JS & React as intended. If I'm being honest, was torn between whether or not I was bikeshedding or getting valuable experience with markdown. 
+
+Spent most of my time revising the README.md and hello-world.md the last couple days. Even more honesty: I think I'm spending too much time trying to stand out with personality (the marketer in me) to make up for not having enough "good" code and projects.
+
+That said, I feel good about the new repo organization with subdirectories for daily log and projects. Got a bit of JavaScript in on Edabit before wrapping up -- excited to dig into the meaty goals tomorrow now that all the "personality" is in place. The value in doing all this was to take ownership of my story and -- in full open source spirit -- live through this experience as transparently as possible for others who want to learn.
+
+That's enough feelings for now I guess. Tomorrow's a new day!
+
+**Link(s) to work:** 
+- [GitHub README.md](https://github.com/alexownejazayeri/100-days-of-code/blob/master/hello-world.md)
+- [React Tutorial & Best Practices](alxo.io)
+
+**Link to Tweet:** [@alexjazayeri d1](insert link here))
+
+### Daily Commitments
+- [x] hacked on projects for ≥1hr 👾
+- [x] update daily log 
+- [x] update journal - important! share feelings 🌈
+- [ ] push work to github
+- [ ] post to
+  - [ ] twitter using #100DaysOfCode (w/ link to repo or commit)
+  - [ ] fcc discord
+  - [ ] linkedin in (starts day 30)
+- [ ] engaged with ≥2 challengers
