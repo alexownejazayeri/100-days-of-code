@@ -14,6 +14,7 @@
 ### GitHub
 
 - [Customizing Your Profile](https://docs.github.com/en/account-and-profile/setting-up-and-managing-your-github-profile/customizing-your-profile)
+- [Megathread by @Amit_T18 on Git](https://twitter.com/Amit_T18/status/1499000373154963456?s=20&t=nZr64-GQcBZs8IhldQZFmg)
 
 # Additional Resources on the #100DaysOfCode
 

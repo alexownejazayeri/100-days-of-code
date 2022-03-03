@@ -75,9 +75,9 @@ That's enough feelings for now I guess. Tomorrow's a new day!
 - [x] hacked on projects for ≥1hr 👾
 - [x] update daily log 
 - [x] update journal - important! share feelings 🌈
-- [ ] push work to github
-- [ ] post to
+- [x] push work to github
+- [x] post to
   - [ ] twitter using #100DaysOfCode (w/ link to repo or commit)
-  - [ ] fcc discord
+  - [x] fcc discord
   - [ ] linkedin in (starts day 30)
-- [ ] engaged with ≥2 challengers
+- [x] engaged with ≥2 challengers
