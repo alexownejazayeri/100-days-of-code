@@ -94,6 +94,6 @@ Not sure if anyone will ever lay eyes on this, but if it helps you, catches your
 Constructive feedback, commiseration, and comments welcome. Let's do the thing!
 
 ## Contents
-* [Rules](rules.md)
-* [Log - click here to see my progress](log.md)
+* [Rules](/daily-log/rules.md)
+* [Log - click here to see my progress](/daily-log/log.md)
 * [README](README.md)

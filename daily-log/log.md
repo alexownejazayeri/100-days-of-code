@@ -1,9 +1,9 @@
-<h1 align="center">Life Log - #100DaysOfCode</h1>
+<h1 align="center">Daily Log - #100DaysOfCode</h1>
 
 ## Contents
-* [Hello World - My #100DaysOfCode Story](hello-world.md)
+* [Hello World - My #100DaysOfCode Story](../hello-world.md)
 * [Rules](rules.md)
-* [README](README.md)
+* [README](../README.md)
 * [Resources](resources.md)
 ___
 

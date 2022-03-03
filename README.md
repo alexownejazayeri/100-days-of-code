@@ -2,10 +2,10 @@
 
 ## Contents
 
-- [Log - click to see my progress!](log.md)
+- [Log - click to see my progress!](/daily-log/log.md)
 - [Hello World - My #100DaysOfCode Story](hello-world.md)
-- [Rules](rules.md)
-- [Resources](resources.md)
+- [Rules](/daily-log/rules.md)
+- [Resources](/daily-log/resources.md)
 
 ## My commitment
 
@@ -16,9 +16,9 @@
 
 ## Hierarchy of Goals
 
-- [ ] Earn an offer as an associate or jr. software dev || engineer
+- [ ] Earn an offer as an associate or jr. software engineer
 - [ ] Build 3 Portfolio projects using MERNG
-- [ ] Firm up JavaScript knowledge by reading MDN wrestling with fundamentals in real world projects e.g.(Primitives, Async/Await, Promises, etc.)
+- [ ] Firm up JavaScript knowledge by reading MDN wrestling with fundamentals in real world projects
 - [ ] Learn TypeScript thru the docs and application in personal projects
 - [ ] Build 30 static web pages i.e.(tech inspirations, friends, landing pages, etc.)
 
@@ -26,8 +26,8 @@
 
 - [x] Check out [the Official Site](http://100daysofcode.com/) for the #100DaysOfCode movement. Connect with others on the platform of your choice from this list: www.100DaysOfCode.com/connect
 - [x] Read [Join the #100DaysOfCode](https://medium.freecodecamp.com/join-the-100daysofcode-556ddb4579e4)
-- [x] **Fork yeah!** Fork this repo and commit to the [Log](log.md) or to the Alternative, rapid [R1 Log](r1-log.md) (R1 stands for Round 1) daily. [Example](https://github.com/Kallaway/100-days-kallaway-log).
-- [x] Change the date in [Rules](rules.md) to my start date (28 Feb 2022).
+- [x] **Fork yeah!** Fork this repo and commit to the [Log](/daily-log/log.md)
+- [x] Change the date in [Rules](/daily-log/rules.md) to my start date (28 Feb 2022).
 - [x] Delete the examples in the log, or comment them out, and start filling it with your own content.
 - [x] Follow [Alex, creator of #100DaysOfCode](https://twitter.com/ka11away) & [100DaysOfCode](https://twitter.com/_100DaysOfCode) Twitter Bot that retweets the tweets that contain the #100DaysOfCode hashtag. It's a great way to keep yourself motivated and to participate in the community. Thanks [@amanhimself](https://twitter.com/amanhimself) for creating it!
 - [x] 💌 [SUBSCRIBE to Alex's 'Do The Opposite' newsletter.](https://dotheopposite.substack.com/)
