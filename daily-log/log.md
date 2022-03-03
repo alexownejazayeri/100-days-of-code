@@ -67,9 +67,9 @@ That's enough feelings for now I guess. Tomorrow's a new day!
 
 **Link(s) to work:** 
 - [GitHub README.md](https://github.com/alexownejazayeri/100-days-of-code/blob/master/hello-world.md)
-- [React Tutorial & Best Practices](alxo.io)
+- [React Tutorial & Best Practices](update later)
 
-**Link to Tweet:** [@alexjazayeri d1](insert link here))
+**Link to Tweet:** [@alexjazayeri d1](https://twitter.com/alexjazayeri/status/1498893834469580800?s=20&t=FzzurS4rB8T2OGRmQ8j8tg)
 
 ### Daily Commitments
 - [x] hacked on projects for ≥1hr 👾
@@ -77,7 +77,7 @@ That's enough feelings for now I guess. Tomorrow's a new day!
 - [x] update journal - important! share feelings 🌈
 - [x] push work to github
 - [x] post to
-  - [ ] twitter using #100DaysOfCode (w/ link to repo or commit)
+  - [x] twitter using #100DaysOfCode (w/ link to repo or commit)
   - [x] fcc discord
   - [ ] linkedin in (starts day 30)
 - [x] engaged with ≥2 challengers
