@@ -10,7 +10,6 @@
 ## My commitment
 
 - [ ] **WIP: Code ≥ 1hr / day for the next 100 days.**
-- [ ] **WIP: Encourage at least two other people in the challenge on Twitter every day! Pay it forward!**
 - [ ] **WIP: Tweet my progress every day using #100DaysOfCode.**
 - [ ] **WIP: Encourage ≥2 other challengers on Twitter every day.**
 - [ ] **OPTIONAL: Submit a Pull Request and add helpful resources that others can benefit from to the repo. Alt: Tweet Alex Kallaway**
@@ -19,8 +18,8 @@
 
 - [ ] Earn an offer as an associate or jr. software dev || engineer
 - [ ] Build 3 Portfolio projects using MERNG
-- [ ] Firm up JavaScript foundations by reading MDN and implementing foundational concepts in real world projects e.g.(Primitives, Async/Await, Promises, etc.)
-- [ ] Learn TypeScript through reading the docs and implementing in personal projects (in tandem with JS foundations)
+- [ ] Firm up JavaScript knowledge by reading MDN wrestling with fundamentals in real world projects e.g.(Primitives, Async/Await, Promises, etc.)
+- [ ] Learn TypeScript thru the docs and application in personal projects
 - [ ] Build 30 static web pages i.e.(tech inspirations, friends, landing pages, etc.)
 
 ## Getting started
