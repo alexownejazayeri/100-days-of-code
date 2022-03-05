@@ -12,14 +12,14 @@ ___
 
 ### Daily Log
 
-- Worked on the React [tic-tac-toe](https://reactjs.org/tutorial/tutorial.html) tutorial to review and build up best practices in markdown. 
+- Worked on the React [tic-tac-toe](https://reactjs.org/tutorial/tutorial.html) tutorial to review and take note of best practices. 
   - Key concepts: React components (subclasses, functions), managing state (passing, lifting), dynamically rendering components with functional methods like map.
 - Customized #100DaysOfCode resources e.g.(hello world story, tightened up readme, resources, and log).
 
 Next steps:
-- Spruce up my GitHub README.md
+- Spruce up GitHub README.md
 - Finalize best practices doc
-- Review MDN's JS refresher and play with example in node to review
+- Review [MDN's JS refresher](https://developer.mozilla.org/en-US/docs/Web/JavaScript/A_re-introduction_to_JavaScript) and wrestle with examples in node to firm up fundamentals
 
 ### Journal
 
@@ -47,14 +47,13 @@ ___
 ### Daily Log
 
 - Rejigged 100-days-of-code repo for cleanliness; added subdirectories to organize daily logs and project work
-- Spruced up my Github README.md based with inspiration from [Thai Braga](https://github.com/Thaiane/Thaiane).
+- Spruced up my Github README.md; inspired by [Thai Braga](https://github.com/Thaiane/Thaiane).
 - Solved problems on Edabit
-  - Reviewed: Builtin Date object, modular arithmetic, truthiness with !!
+  - Reviewed: Builtin Date object, modular arithmetic, truthiness with '!!'
 
 Next steps:
 - Refactor old FreeCodeCamp React projects
-- Complete, review, and revise React 'best practices' log
-- Review MDN's JS refresher and play with example in node to review
+- Review the intro tutorial and parse for best practices - make a markdown doc with my own examples to firm up knowledge
 
 
 
@@ -70,7 +69,8 @@ That's enough feelings for now I guess. Tomorrow's a new day!
 
 **Link(s) to work:** 
 - [GitHub README.md](https://github.com/alexownejazayeri/100-days-of-code/blob/master/hello-world.md)
-- [React Tutorial & Best Practices]()
+- [React Tutorial](https://github.com/alexownejazayeri/100-days-of-code/tree/master/projects/react-sandbox/intro-to-react)
+- [Tutorial Notes & Best Practice WIP](https://github.com/alexownejazayeri/100-days-of-code/blob/master/projects/react-sandbox/best-practices.md)
 
 **Link to Tweet:** [@alexjazayeri d1](https://twitter.com/alexjazayeri/status/1498893834469580800?s=20&t=FzzurS4rB8T2OGRmQ8j8tg)
 
@@ -85,14 +85,14 @@ That's enough feelings for now I guess. Tomorrow's a new day!
   - [ ] linkedin in (starts day 30)
 - [x] engaged with ≥2 challengers
 
--- 
+___
 
 ## Day 2: 03 March 22
 
 ### Daily Log
 
 - Spent time reviewing JS basics i.e.(var, let, const -- scoping, redeclaration, and reassignment)
-- Added React 
+- Added React intro tutorial and work in progress notes to repo
 
 Next steps:
 - Refactor old FreeCodeCamp React projects
@@ -110,7 +110,7 @@ Note for future days.
 **Link(s) to work:** 
 - [Variable Declaration Practice]()
 
-**Link to Tweet:** [@alexjazayeri d1](https://twitter.com/alexjazayeri/status/1498893834469580800?s=20&t=FzzurS4rB8T2OGRmQ8j8tg)
+**Link to Tweet:** [@alexjazayeri d2]()
 
 ### Daily Commitments
 - [ ] hacked on projects for ≥1hr 👾
