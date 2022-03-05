@@ -37,13 +37,4 @@ console.log(z); // expect: 1.618
 
 z = "Strum that string! I'm bored of numbers..."; // Reassigns z to this string
 
-console.log(z); // expect: Give me...
-
-// https://nodejs.org/api/globals.html#globals_global
-
-var x = 'global';
-
-this.prop = "I'm a property";
-this.func = funkyFunc = () => console.log("If I give you the funk, you gonna...take it?");
-
-console.log(this.func);
+console.log(z); // expect: Strum that...
