@@ -41,6 +41,7 @@ Seung was right, the React docs are great. Excited to dive into the TypeScript d
   - [ ] linkedin in (starts day 30)
 - [x] engaged with ≥2 challengers
 ___
+
 ## Day 1: 02 March 22
 
 ### Daily Log
@@ -53,6 +54,8 @@ ___
 Next steps:
 - Refactor old FreeCodeCamp React projects
 - Complete, review, and revise React 'best practices' log
+- Review MDN's JS refresher and play with example in node to review
+
 
 
 ### Journal
@@ -67,7 +70,7 @@ That's enough feelings for now I guess. Tomorrow's a new day!
 
 **Link(s) to work:** 
 - [GitHub README.md](https://github.com/alexownejazayeri/100-days-of-code/blob/master/hello-world.md)
-- [React Tutorial & Best Practices](update later)
+- [React Tutorial & Best Practices]()
 
 **Link to Tweet:** [@alexjazayeri d1](https://twitter.com/alexjazayeri/status/1498893834469580800?s=20&t=FzzurS4rB8T2OGRmQ8j8tg)
 
@@ -81,3 +84,72 @@ That's enough feelings for now I guess. Tomorrow's a new day!
   - [x] fcc discord
   - [ ] linkedin in (starts day 30)
 - [x] engaged with ≥2 challengers
+
+-- 
+
+## Day 2: 03 March 22
+
+### Daily Log
+
+- Spent time reviewing JS basics i.e.(var, let, const -- scoping, redeclaration, and reassignment)
+- Added React 
+
+Next steps:
+- Refactor old FreeCodeCamp React projects
+- Complete, review, and revise React 'best practices' log
+- Review MDN's JS refresher and play with example in node to review
+
+### Journal
+
+Today wasn't as productive as I wanted it to be. Worked an 8-hour shift and had friends visiting from out of town, so minimal time between work and commuting to Oakland to get any coding done. My girlfriend is leaving for a month, so tonight was a short 20-minute sprint to play with var, let, and const via node in my terminal.
+
+Feeling confident about the differences in scope, declaration, and assignment. Going to make up for lost time tonight tomorrow by doubling my time and then it's time to hold steady to the challenge! I really want to grow as quickly as possible to nail down a gig and do what I love for a living. This dream gets more motivating with each day in the challenge -- been having a blast, but maybe that's because I haven't dived in and really struggled with a challenging problem yet.
+
+Note for future days. 
+
+**Link(s) to work:** 
+- [Variable Declaration Practice]()
+
+**Link to Tweet:** [@alexjazayeri d1](https://twitter.com/alexjazayeri/status/1498893834469580800?s=20&t=FzzurS4rB8T2OGRmQ8j8tg)
+
+### Daily Commitments
+- [ ] hacked on projects for ≥1hr 👾
+- [x] update daily log 
+- [x] update journal - important! share feelings 🌈
+- [ ] push work to github
+- [ ] post to
+  - [ ] twitter using #100DaysOfCode (w/ link to repo or commit)
+  - [x] fcc discord
+  - [ ] linkedin in (starts day 30)
+- [x] engaged with ≥2 challengers
+
+___
+
+## Day 3: 04 March 22
+
+### Daily Log
+
+- 
+
+Next steps:
+- 
+
+### Journal
+
+ 
+
+**Link(s) to work:** 
+- [React Tutorial & Best Practices](update later)
+
+**Link to Tweet:** [@alexjazayeri d1](https://twitter.com/alexjazayeri/status/1498893834469580800?s=20&t=FzzurS4rB8T2OGRmQ8j8tg)
+
+### Daily Commitments
+- [ ] hacked on projects for ≥1hr 👾
+- [ ] update daily log 
+- [ ] update journal - important! share feelings 🌈
+- [ ] push work to github
+- [ ] post to
+  - [ ] twitter using #100DaysOfCode (w/ link to repo or commit)
+  - [ ] fcc discord
+  - [ ] linkedin in (starts day 30)
+- [ ] engaged with ≥2 challengers
