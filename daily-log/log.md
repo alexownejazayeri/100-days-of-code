@@ -94,7 +94,7 @@ ___
 - Spent time reviewing JS basics i.e.(var, let, const -- scoping, redeclaration, and reassignment)
 - Added React intro tutorial and work in progress notes to repo
 
-Next steps:
+Next steps
 - Refactor old FreeCodeCamp React projects
 - Complete, review, and revise React 'best practices' log
 - Review MDN's JS refresher and play with example in node to review
@@ -105,20 +105,20 @@ Today wasn't as productive as I wanted it to be. Worked an 8-hour shift and had 
 
 Feeling confident about the differences in scope, declaration, and assignment. Going to make up for lost time tonight tomorrow by doubling my time and then it's time to hold steady to the challenge! I really want to grow as quickly as possible to nail down a gig and do what I love for a living. This dream gets more motivating with each day in the challenge -- been having a blast, but maybe that's because I haven't dived in and really struggled with a challenging problem yet.
 
-Note for future days. 
+Note for future days.
 
 **Link(s) to work:** 
 - [Variable Declaration Practice]()
 
-**Link to Tweet:** [@alexjazayeri d2]()
+**Link to Tweet:** [@alexjazayeri d2](https://twitter.com/alexjazayeri/status/1500000913775206401?s=20&t=7-EkVliwk89TUYvqhytKsQ)
 
 ### Daily Commitments
-- [ ] hacked on projects for ≥1hr 👾
+- [ ] hacked on projects for ≥1hr 👾 (only ~20m)
 - [x] update daily log 
 - [x] update journal - important! share feelings 🌈
-- [ ] push work to github
-- [ ] post to
-  - [ ] twitter using #100DaysOfCode (w/ link to repo or commit)
+- [x] push work to github
+- [x] post to
+  - [x] twitter using #100DaysOfCode (w/ link to repo or commit)
   - [x] fcc discord
   - [ ] linkedin in (starts day 30)
 - [x] engaged with ≥2 challengers
@@ -129,9 +129,20 @@ ___
 
 ### Daily Log
 
-- 
+Going to start defining the goal before the task to keep the big picture in mind.
+- \[OFFER\]
+  - Scheduled an initial interview with a super cool company - will be ecstatic if it works out.
+  - Hard at work preparing over the coming days -- at least want to feel like I gave it my all.
+- \[MERNG\]
+  - none
+- \[FUJSK\]
+  - Dove deep into MDN docs on variables, local vs. global scope, blocks, block-scope befor and after ES6, let and const vs. var, and wrestled with code run on node to test different examples. 
+- \[LTSFD\]
+  - none
+- \[B30WP\]
+  - none
 
-Next steps:
+Up next:
 - 
 
 ### Journal
@@ -139,9 +150,9 @@ Next steps:
  
 
 **Link(s) to work:** 
-- [React Tutorial & Best Practices](update later)
+- [JavaScript Variables Practice & Notes]()
 
-**Link to Tweet:** [@alexjazayeri d1](https://twitter.com/alexjazayeri/status/1498893834469580800?s=20&t=FzzurS4rB8T2OGRmQ8j8tg)
+**Link to Tweet:** [@alexjazayeri d3](https://twitter.com/alexjazayeri/status/1498893834469580800?s=20&t=FzzurS4rB8T2OGRmQ8j8tg)
 
 ### Daily Commitments
 - [ ] hacked on projects for ≥1hr 👾

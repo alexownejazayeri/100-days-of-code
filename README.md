@@ -16,11 +16,11 @@
 
 ## Hierarchy of Goals
 
-- [ ] Earn an offer as an associate or jr. software engineer
-- [ ] Build 3 Portfolio projects using MERNG
-- [ ] Firm up JavaScript knowledge by reading MDN wrestling with fundamentals in real world projects
-- [ ] Learn TypeScript thru the docs and application in personal projects
-- [ ] Build 30 static web pages i.e.(tech inspirations, friends, landing pages, etc.)
+- [ ] \[Tag: OFFER\] Earn an offer as an associate or jr. software engineer
+- [ ] \[Tag: MERNG\] Build 3 Portfolio projects using MERNG
+- [ ] \[Tag: FUSJK\] Firm up JavaScript knowledge by reading MDN wrestling with fundamentals in real world projects
+- [ ] \[Tag: LTSFD\] Learn TypeScript from the docs and application in personal projects
+- [ ] \[Tag: B30WP\] Build 30 static web pages i.e.(tech inspirations, friends, landing pages, etc.)
 
 ## Getting started
 

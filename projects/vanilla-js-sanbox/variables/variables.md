@@ -30,19 +30,25 @@ Variables in JS are declared with one of 3 keywords:
 
 ### let
 
-- block-level scope 
-- variable available in block it's declared in
+- block-scoped local variable 
+- available in block it's declared in
 
 
 ## Resources
 
 ### MDN
 
-- ['re-introduction to javascript' - Variables](https://developer.mozilla.org/en-US/docs/Web/JavaScript/A_re-introduction_to_JavaScript)
+- ['Re-introduction to javascript' - Variables](https://developer.mozilla.org/en-US/docs/Web/JavaScript/A_re-introduction_to_JavaScript#variables)
 - [Statments and declaration > let](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements/let)
 - [Statements and declarations > const](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements/const)
+- [Glossary > Local scope](https://developer.mozilla.org/en-US/docs/Glossary/Local_scope)
 - [Statements and declarations > var](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements/var)
+- [Glossary > Global scope](https://developer.mozilla.org/en-US/docs/Glossary/Global_scope)
 
 ### FCC
 
 - [freeCodeCamp JavaScript and Data Structures](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures)
+
+### Wikipedia
+
+- [Scope (computer science)](https://en.wikipedia.org/wiki/Scope_(computer_science))
