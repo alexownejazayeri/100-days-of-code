@@ -143,24 +143,31 @@ Going to start defining the goal before the task to keep the big picture in mind
   - none
 
 Up next:
-- 
+- Refactor old FreeCodeCamp React projects
+- Complete, review, and revise React 'best practices' log
+- Review MDN's JS refresher and play with example in node to review
 
 ### Journal
 
+I stayed up really late working on this to make up for lost time. The dust is starting to shake off and I'm feeling the same sense of curiosity and wonder that hooked me on programming in the first place. Feeling good about scope, blocks, pre- and post-ES6 variable declaration and stuff, and hungry for more.
+
+Taking a bit to ramp up, but I'm generally excited and looking forward to more of this challenge. It's still early days as I review the fundamentals, but it almost feels like now that I'm coming back from a bit of a hiatus, that I can go a level deeper than when I began to understand a bit more of what's happening under the hood of JavaScript when you're declaring variables, writing functions, thinking of scope, and so on.
+
+Started to feel a lot better about scope, global variables and objects, and the 'this' keyword. I want to dive into the DOM and better understand how JavaScript works cross-platform (from browser to server-side js). Feels good to have a growing curiosity again!
  
 
 **Link(s) to work:** 
-- [JavaScript Variables Practice & Notes]()
+- [JavaScript Variables Practice & Notes](https://github.com/alexownejazayeri/100-days-of-code/tree/master/projects/vanilla-js-sanbox)
 
-**Link to Tweet:** [@alexjazayeri d3](https://twitter.com/alexjazayeri/status/1498893834469580800?s=20&t=FzzurS4rB8T2OGRmQ8j8tg)
+**Link to Tweet:** [@alexjazayeri d3](https://twitter.com/alexjazayeri/status/1500056064036773891?s=20&t=nTYUFWFSvS-4FhVMVmHEgQ)
 
 ### Daily Commitments
-- [ ] hacked on projects for ≥1hr 👾
-- [ ] update daily log 
-- [ ] update journal - important! share feelings 🌈
-- [ ] push work to github
-- [ ] post to
-  - [ ] twitter using #100DaysOfCode (w/ link to repo or commit)
-  - [ ] fcc discord
+- [x] hacked on projects for ≥1hr 👾
+- [x] update daily log 
+- [x] update journal - important! share feelings 🌈
+- [x] push work to github
+- [x] post to
+  - [x] twitter using #100DaysOfCode (w/ link to repo or commit)
+  - [x] fcc discord
   - [ ] linkedin in (starts day 30)
-- [ ] engaged with ≥2 challengers
+- [x] engaged with ≥2 challengers
