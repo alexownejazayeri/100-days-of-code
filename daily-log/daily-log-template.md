@@ -5,11 +5,15 @@ ___
 ### Daily Log
 
 Going to start defining the goal before the task to keep the big picture in mind.
-- \[OFFER\]
-- \[MERNG\]
-- \[FUJSK\]
-- \[LTSFD\]
-- \[B30WP\]
+**\[OFFER\]**
+
+**\[MERNG\]**
+
+**\[FUJSK\]**
+
+**\[LTSFD\]**
+
+**\[B30WP\]**
 
 Up next:
 - more stuff 

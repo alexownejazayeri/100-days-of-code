@@ -38,7 +38,7 @@ Seung was right, the React docs are great. Excited to dive into the TypeScript d
 - [x] post to
   - [x] twitter using #100DaysOfCode (w/ link to repo or commit)
   - [x] fcc discord
-  - [ ] linkedin in (starts day 30)
+  - [ ] linkedin in (starts day 29)
 - [x] engaged with ≥2 challengers
 ___
 
@@ -82,7 +82,7 @@ That's enough feelings for now I guess. Tomorrow's a new day!
 - [x] post to
   - [x] twitter using #100DaysOfCode (w/ link to repo or commit)
   - [x] fcc discord
-  - [ ] linkedin in (starts day 30)
+  - [ ] linkedin in (starts day 29)
 - [x] engaged with ≥2 challengers
 
 ___
@@ -120,7 +120,7 @@ Note for future days.
 - [x] post to
   - [x] twitter using #100DaysOfCode (w/ link to repo or commit)
   - [x] fcc discord
-  - [ ] linkedin in (starts day 30)
+  - [ ] linkedin in (starts day 29)
 - [x] engaged with ≥2 challengers
 
 ___
@@ -169,7 +169,7 @@ Started to feel a lot better about scope, global variables and objects, and the 
 - [x] post to
   - [x] twitter using #100DaysOfCode (w/ link to repo or commit)
   - [x] fcc discord
-  - [ ] linkedin in (starts day 30)
+  - [ ] linkedin in (starts day 29)
 - [x] engaged with ≥2 challengers
 
 ___
@@ -182,29 +182,14 @@ Going to start defining the goal before the task to keep the big picture in mind
 - \[OFFER\]
   - [x] Reached out to interviewers on LinkedIn
   - [x] Prepped for behavioral and technical questions
-  - [ ] Git basics
-    - [ ] Branches
-    - [ ] Pull requests
 - \[MERNG\]
-  - React
-    - [ ] Hooks e.g.(useState(), useEffect())
 - \[FUJSK\]
   - [x] JS fundamentals
     - [x] variables: let, const, var
     - [x] scope: local vs. global
     - [x] block statements
     - [x] data types: undefined, null, boolean, string, symbol, bigint, number, and object
-  - [ ] Functional methods
-    - [ ] map 
-    - [ ] filter 
-    - [ ] reduce 
-    - [ ] arrow functions 
-    - [ ] alternatives to for loops
-  - [ ] Reviewed DOM & Global Object (node)
-  - [ ] Reviewed Promises, Async / Await, HTTP
 - \[LTSFD\]
-  - [ ] What is a type/interface?
-  - [ ] How to use them
 - \[B30WP\]
   - none
 
@@ -223,17 +208,17 @@ Going to keep working tonight!
 **Link(s) to work:** 
 - [Vanilla JS Sandbox](https://github.com/alexownejazayeri/100-days-of-code/tree/master/projects/vanilla-js-sanbox)
 
-**Link to Tweet:** [@alexjazayeri d4]()
+**Link to Tweet:** [@alexjazayeri d4](https://twitter.com/alexjazayeri/status/1500396506737565702?s=20&t=RXqNPSnmE3w9FJw8MtA7LA)
 
 ### Daily Commitments
 - [x] hacked on projects for ≥1hr 👾
 - [x] update daily log 
 - [x] update journal - important! share feelings 🌈
-- [ ] push work to github
-- [ ] post to
-  - [ ] twitter using #100DaysOfCode (w/ link to repo or commit)
+- [x] push work to github
+- [x] post to
+  - [x] twitter using #100DaysOfCode (w/ link to repo or commit)
   - [x] fcc discord
-  - [ ] linkedin in (starts day 30)
+  - [ ] linkedin in (starts day 29)
 - [x] engaged with ≥2 challengers
 
 ___
@@ -243,26 +228,33 @@ ___
 ### Daily Log
 
 Going to start defining the goal before the task to keep the big picture in mind.
-- \[OFFER\]
-  - [ ] Git basics
-    - [ ] Branches
-    - [ ] Pull requests
-- \[MERNG\]
-  - React
-    - [ ] Hooks e.g.(useState(), useEffect())
-- \[FUJSK\]
-  - [ ] Functional methods
-    - [ ] map 
-    - [ ] filter 
-    - [ ] reduce 
-    - [ ] arrow functions 
-    - [ ] alternatives to for loops
-  - [ ] Reviewed DOM & Global Object (node)
-  - [ ] Reviewed Promises, Async / Await, HTTP
-- \[LTSFD\]
-  - [ ] What is a type/interface?
-  - [ ] How to use them
-- \[B30WP\]
+
+**\[OFFER\]**
+- Git basics
+  - [ ] Branches
+  - [ ] Pull requests
+
+**\[MERNG\]**
+React
+- [ ] Hooks e.g.(useState(), useEffect())
+
+**\[FUJSK\]**
+
+- [ ] Functional methods
+  - [ ] map 
+  - [ ] filter 
+  - [ ] reduce 
+  - [ ] arrow functions 
+  - [ ] alternatives to for loops
+- [ ] Reviewed DOM & Global Object (node)
+- [ ] Reviewed Promises, Async / Await, HTTP
+
+**\[LTSFD\]**
+
+- [ ] What is a type/interface?
+- [ ] How to use them
+
+**\[B30WP\]**
   - none
 
 Up next:
@@ -274,9 +266,9 @@ Words
  
 
 **Link(s) to work:** 
-- [JavaScript Variables Practice & Notes](https://github.com/alexownejazayeri/100-days-of-code/tree/master/projects/vanilla-js-sanbox)
+- [Insert tomorrow's work here]()
 
-**Link to Tweet:** [@alexjazayeri d{n}]()
+**Link to Tweet:** [@alexjazayeri d5]()
 
 ### Daily Commitments
 - [ ] hacked on projects for ≥1hr 👾
@@ -286,5 +278,5 @@ Words
 - [ ] post to
   - [ ] twitter using #100DaysOfCode (w/ link to repo or commit)
   - [ ] fcc discord
-  - [ ] linkedin in (starts day 30)
+  - [ ] linkedin in (starts day 29)
 - [ ] engaged with ≥2 challengers
