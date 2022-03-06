@@ -95,21 +95,28 @@ Variables in JS are declared with one of 3 keywords:
 
 - declares a block-scoped local variable
 - optionally initialize to value
-- available from block it's enclosed in
+- can be reassigned
 - initialized to a value only when evaluted by parser
 
 
 ### const
 
-- something 
-- something else
+- block-scoped constant
+- can't be changed through reassignment
+- can't be redeclared
+- if object or array, properties or items can be updated or removed
+- for dedicated constants e.g.(sensitive user data), common practice to use an all caps identifier
+- needs to be initialized
 
 
 ### var
 
-- declares variable globally or locally to a function
+- declares function-scoped or globally-scoped variable
   - visible to entire function regardless of block scope
+  - optionally initialize to value
+- can be redeclared and reassigned
 - pre-ES6
+- best practice to avoid use where possible to reduce unintended behavior
 
 ### WARNING DON'T USE - assigning a value to a variable
 
@@ -124,12 +131,13 @@ Variables in JS are declared with one of 3 keywords:
 - ['Re-introduction to javascript' - Variables](https://developer.mozilla.org/en-US/docs/Web/JavaScript/A_re-introduction_to_JavaScript#variables)
 - [Statments and declaration > let](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements/let)
 - [Statements and declarations > const](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements/const)
+- [Statements and declarations > var](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements/var)
 - [Glossary > Local scope](https://developer.mozilla.org/en-US/docs/Glossary/Local_scope)
 - [Glossary > Global scope](https://developer.mozilla.org/en-US/docs/Glossary/Global_scope)
 - [Glossary > Block](https://developer.mozilla.org/en-US/docs/Glossary/Block)
-- [Statements and declarations > var](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements/var)
 - [Glossary > Global scope](https://developer.mozilla.org/en-US/docs/Glossary/Global_scope)
-- [Desctructuring Assignment](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/Destructuring_assignment)
+- [Operators > Assignment](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/Assignment)
+- [Reference > Desctructuring Assignment](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/Destructuring_assignment)
 
 ### FCC
 

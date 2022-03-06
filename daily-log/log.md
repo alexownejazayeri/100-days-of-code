@@ -189,11 +189,11 @@ Going to start defining the goal before the task to keep the big picture in mind
   - React
     - [ ] Hooks e.g.(useState(), useEffect())
 - \[FUJSK\]
-  - [ ] JS fundamentals
-    - [ ] variables: let, const, var
+  - [x] JS fundamentals
+    - [x] variables: let, const, var
     - [x] scope: local vs. global
     - [x] block statements
-    - [ ] data types: undefined, null, boolean, string, symbol, bigint, number, and object
+    - [x] data types: undefined, null, boolean, string, symbol, bigint, number, and object
   - [ ] Functional methods
     - [ ] map 
     - [ ] filter 
@@ -221,8 +221,7 @@ Going to keep working tonight!
  
 
 **Link(s) to work:** 
-- [JavaScript Variables Practice & Notes](https://github.com/alexownejazayeri/100-days-of-code/tree/master/projects/vanilla-js-sanbox)
-- [JavaScript General Practice & Notes]()
+- [Vanilla JS Sandbox](https://github.com/alexownejazayeri/100-days-of-code/tree/master/projects/vanilla-js-sanbox)
 
 **Link to Tweet:** [@alexjazayeri d4]()
 
@@ -236,3 +235,56 @@ Going to keep working tonight!
   - [x] fcc discord
   - [ ] linkedin in (starts day 30)
 - [x] engaged with ≥2 challengers
+
+___
+
+## Day 5: 06 March 22
+
+### Daily Log
+
+Going to start defining the goal before the task to keep the big picture in mind.
+- \[OFFER\]
+  - [ ] Git basics
+    - [ ] Branches
+    - [ ] Pull requests
+- \[MERNG\]
+  - React
+    - [ ] Hooks e.g.(useState(), useEffect())
+- \[FUJSK\]
+  - [ ] Functional methods
+    - [ ] map 
+    - [ ] filter 
+    - [ ] reduce 
+    - [ ] arrow functions 
+    - [ ] alternatives to for loops
+  - [ ] Reviewed DOM & Global Object (node)
+  - [ ] Reviewed Promises, Async / Await, HTTP
+- \[LTSFD\]
+  - [ ] What is a type/interface?
+  - [ ] How to use them
+- \[B30WP\]
+  - none
+
+Up next:
+- more stuff 
+
+### Journal
+
+Words
+ 
+
+**Link(s) to work:** 
+- [JavaScript Variables Practice & Notes](https://github.com/alexownejazayeri/100-days-of-code/tree/master/projects/vanilla-js-sanbox)
+
+**Link to Tweet:** [@alexjazayeri d{n}]()
+
+### Daily Commitments
+- [ ] hacked on projects for ≥1hr 👾
+- [ ] update daily log 
+- [ ] update journal - important! share feelings 🌈
+- [ ] push work to github
+- [ ] post to
+  - [ ] twitter using #100DaysOfCode (w/ link to repo or commit)
+  - [ ] fcc discord
+  - [ ] linkedin in (starts day 30)
+- [ ] engaged with ≥2 challengers
