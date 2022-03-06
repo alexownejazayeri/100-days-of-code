@@ -171,3 +171,68 @@ Started to feel a lot better about scope, global variables and objects, and the 
   - [x] fcc discord
   - [ ] linkedin in (starts day 30)
 - [x] engaged with ≥2 challengers
+
+___
+
+## Day 4: 05 March 22
+
+### Daily Log
+
+Going to start defining the goal before the task to keep the big picture in mind.
+- \[OFFER\]
+  - [x] Reached out to interviewers on LinkedIn
+  - [x] Prepped for behavioral and technical questions
+  - [ ] Git basics
+    - [ ] Branches
+    - [ ] Pull requests
+- \[MERNG\]
+  - React
+    - [ ] Hooks e.g.(useState(), useEffect())
+- \[FUJSK\]
+  - [ ] JS fundamentals
+    - [ ] variables: let, const, var
+    - [x] scope: local vs. global
+    - [x] block statements
+    - [ ] data types: undefined, null, boolean, string, symbol, bigint, number, and object
+  - [ ] Functional methods
+    - [ ] map 
+    - [ ] filter 
+    - [ ] reduce 
+    - [ ] arrow functions 
+    - [ ] alternatives to for loops
+  - [ ] Reviewed DOM & Global Object (node)
+  - [ ] Reviewed Promises, Async / Await, HTTP
+- \[LTSFD\]
+  - [ ] What is a type/interface?
+  - [ ] How to use them
+- \[B30WP\]
+  - none
+
+Up next:
+- Deep dive into name binding, call stack, 
+
+### Journal
+
+As I make through JavaScript fundamentals and brush up on the basics, I'm getting more curious about the underlying "under-the-hood" behaviors of the browser. I'm also interested in NetWorkding and reading more resources on how to write clean, readable JavaScript.
+
+I'm happy to be spending time re-learning and firming up my JS skills, but it's definitely taken a bit to get over the hump of feeling "behind". Very cool how quickly things come back though. That's part of the beauty of programming I guess: it's logical. Sometimes things seem to behave in weird ways, but it's nice that things are sort of meant to be understood and standardized (thanks ECMA & Brandon Eich!).
+
+Going to keep working tonight!
+ 
+
+**Link(s) to work:** 
+- [JavaScript Variables Practice & Notes](https://github.com/alexownejazayeri/100-days-of-code/tree/master/projects/vanilla-js-sanbox)
+- [JavaScript General Practice & Notes]()
+
+**Link to Tweet:** [@alexjazayeri d4]()
+
+### Daily Commitments
+- [x] hacked on projects for ≥1hr 👾
+- [x] update daily log 
+- [x] update journal - important! share feelings 🌈
+- [ ] push work to github
+- [ ] post to
+  - [ ] twitter using #100DaysOfCode (w/ link to repo or commit)
+  - [x] fcc discord
+  - [ ] linkedin in (starts day 30)
+- [x] engaged with ≥2 challengers

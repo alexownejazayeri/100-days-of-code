@@ -38,3 +38,21 @@ console.log(z); // expect: 1.618
 z = "Strum that string! I'm bored of numbers..."; // Reassigns z to this string
 
 console.log(z); // expect: Strum that...
+
+// Destructuring assignment syntax
+
+const arr = ['i', 'am', 'an', 'array'];
+
+let [a, b] = arr;
+console.log("i think therfore " + a + " " + b); // expects: i think therefore i am
+
+const dwight = {
+    firstName: "Dwight",
+    lastName: "Schrute",
+    employer: "Dunder Mifflin",
+    title: "Assitant to The Regional Manager",
+    skills: ['sales', 'beet farming', 'recorder']
+}
+
+let { firstName, skills } = dwight;
+console.log(firstName, skills); // expects: Dwight ['sales', 'beet farming', 'recorder'] 
