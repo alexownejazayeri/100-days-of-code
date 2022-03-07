@@ -268,20 +268,20 @@ I can feel all the JS knowledge from before my hiatus coming back, which has act
  
 
 **Link(s) to work:** 
-- [Insert tomorrow's work here]()
+- [Code sandbox for strict and regular (in)equality](https://github.com/alexownejazayeri/100-days-of-code/tree/master/projects/vanilla-js-sandbox/operators)
 
-**Link to Tweet:** [@alexjazayeri d5]()
+**Link to Tweet:** [@alexjazayeri d5](https://twitter.com/alexjazayeri/status/1500737928456196100?s=20&t=jPXwO9QCqiHJ1K3qXzy51g)
 
 ### Daily Commitments
 - [x] hacked on projects for ≥1hr 👾
 - [x] update daily log 
 - [x] update journal - important! share feelings 🌈
-- [ ] push work to github
-- [ ] post to
-  - [ ] twitter using #100DaysOfCode (w/ link to repo or commit)
-  - [ ] fcc discord
+- [x] push work to github
+- [x] post to
+  - [x] twitter using #100DaysOfCode (w/ link to repo or commit)
+  - [x] fcc discord
   - [ ] linkedin in (starts day 29)
-- [ ] engaged with ≥2 challengers
+- [x] engaged with ≥2 challengers
 
 ___
 
