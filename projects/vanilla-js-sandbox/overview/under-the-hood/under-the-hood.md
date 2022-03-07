@@ -84,6 +84,12 @@ console.log(obj2.age); // expects: 25
   -  both `obj1` and `obj2` reference this object
   -  expected output for both is `25`
 
+## Data Storage
+
+https://dev.to/stevealila/3-typical-ways-to-store-data-using-javascript-1m1f
+https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Client-side_web_APIs/Client-side_storage
+
+
 ## Resources
 
 ### Blog posts

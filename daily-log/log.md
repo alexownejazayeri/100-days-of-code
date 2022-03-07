@@ -300,7 +300,7 @@ ___
 - [ ] Hooks e.g.(useState(), useEffect(), useRef())
 
 **\[FUJSK\]**
-- [ ] ES6+
+- [ ] Review
   - [ ] map 
   - [ ] filter 
   - [ ] reduce 
