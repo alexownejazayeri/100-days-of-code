@@ -194,7 +194,7 @@ Going to start defining the goal before the task to keep the big picture in mind
   - none
 
 Up next:
-- Deep dive into name binding, call stack, 
+- Review the "under the hood" stuff e.g.(call stack, heap, execution context, javascript engine, Google V8)
 
 ### Journal
 
@@ -227,35 +227,92 @@ ___
 
 ### Daily Log
 
-Going to start defining the goal before the task to keep the big picture in mind.
-
 **\[OFFER\]**
-- Git basics
-  - [ ] Branches
-  - [ ] Pull requests
 
 **\[MERNG\]**
-React
-- [ ] Hooks e.g.(useState(), useEffect())
 
 **\[FUJSK\]**
+- [x] Review data types
+  - [x] Objects
+  - [x] Primitives
+- [x] Review operators
+  - [x] Compound assignment
+  - [x] Incrementing/Decrementing
+  - [x] Strict v. Regular Equality
+- [x] Dig into JavaScript "under the hood"
+  - [x] Call stack v. heap
+  - [x] Google V8 (+ generally JavaScript) engine
+  - [x] Value Type v. Reference Type
+  - [x] Hoisting
+  - [x] Stack overflows
 
-- [ ] Functional methods
+**\[LTSFD\]**
+
+**\[B30WP\]**
+
+Up next:
+- Git basics e.g.(branches and pull requests)
+- Getting started with open source contributions
+- Review and practice React hooks
+- Review and practice immutable array methods e.g.(map, filter, reduce, concat, slice) 
+
+### Journal
+
+Today, I was reacquainted with the beauty of JavaScript (ooh, ahh). To get a better sense of what was happening with hoisting, JS behavior around the equality of objects, and mutability of variables declared with let and const.
+
+There's a lot to learn about what's happening under the hood, but at this early stage I think I've learned enough for a bit. I feel curious about what's happening here, but also that I'm not coding at an advanced enough level to need to know about how data is handled by JavaScript engines like Google V8, since I'm not writing super complicated projects.
+
+Upward and onward, I'm going to continue working through the fundamentals and keep these things in mind, but not spend too much more time on them. Need to strike up a balance between theoretical and practical knowledge, but I'm sure that never goes away -- still excited and getting more energized by the day!
+
+I can feel all the JS knowledge from before my hiatus coming back, which has actually served as a nice springboard into aiming for a deeper understanding of JS this go around.
+ 
+
+**Link(s) to work:** 
+- [Insert tomorrow's work here]()
+
+**Link to Tweet:** [@alexjazayeri d5]()
+
+### Daily Commitments
+- [x] hacked on projects for ≥1hr 👾
+- [x] update daily log 
+- [x] update journal - important! share feelings 🌈
+- [ ] push work to github
+- [ ] post to
+  - [ ] twitter using #100DaysOfCode (w/ link to repo or commit)
+  - [ ] fcc discord
+  - [ ] linkedin in (starts day 29)
+- [ ] engaged with ≥2 challengers
+
+___
+
+## Day {n}: dd mm yy
+
+### Daily Log
+
+**\[OFFER\]**
+- [ ] Git basics
+  - [ ] Branches
+  - [ ] Pull requests
+- [ ] Resume
+  - [ ] Send updated version
+
+**\[MERNG\]**
+- [ ] Hooks e.g.(useState(), useEffect(), useRef())
+
+**\[FUJSK\]**
+- [ ] ES6+
   - [ ] map 
   - [ ] filter 
   - [ ] reduce 
   - [ ] arrow functions 
-  - [ ] alternatives to for loops
-- [ ] Reviewed DOM & Global Object (node)
-- [ ] Reviewed Promises, Async / Await, HTTP
+  - [ ] alternatives to for loops (forEach, for...in)
+- [ ] Review Promises, Async / Await, HTTP
 
 **\[LTSFD\]**
-
 - [ ] What is a type/interface?
-- [ ] How to use them
+- [ ] How to use them?
 
 **\[B30WP\]**
-  - none
 
 Up next:
 - more stuff 
@@ -266,9 +323,9 @@ Words
  
 
 **Link(s) to work:** 
-- [Insert tomorrow's work here]()
+- [JavaScript Variables Practice & Notes](https://github.com/alexownejazayeri/100-days-of-code/tree/master/projects/vanilla-js-sanbox)
 
-**Link to Tweet:** [@alexjazayeri d5]()
+**Link to Tweet:** [@alexjazayeri d{n}]()
 
 ### Daily Commitments
 - [ ] hacked on projects for ≥1hr 👾
@@ -278,5 +335,5 @@ Words
 - [ ] post to
   - [ ] twitter using #100DaysOfCode (w/ link to repo or commit)
   - [ ] fcc discord
-  - [ ] linkedin in (starts day 29)
+  - [ ] linkedin in (starts day 30)
 - [ ] engaged with ≥2 challengers
