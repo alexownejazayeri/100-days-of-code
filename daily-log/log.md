@@ -285,7 +285,7 @@ I can feel all the JS knowledge from before my hiatus coming back, which has act
 
 ___
 
-## Day {n}: dd mm yy
+## Day 6: 07 March 2022
 
 ### Daily Log
 
@@ -297,7 +297,9 @@ ___
   - [ ] Send updated version
 
 **\[MERNG\]**
-- [ ] Hooks e.g.(useState(), useEffect(), useRef())
+- [x] Practice building tic-tac-toe to review
+- [ ] Project 1
+  - [ ] Practice Hooks e.g.(useState(), useEffect(), useRef())
 
 **\[FUJSK\]**
 - [ ] Review
@@ -315,25 +317,25 @@ ___
 **\[B30WP\]**
 
 Up next:
-- more stuff 
+- Try to hit the empty boxes by Friday!
 
 ### Journal
 
-Words
+Today I was less focused because I slept poorly last night. Feeling good, but also like I'll never be prepared enough and that's just a feeling that's going to stick around. Hope to keep working and keep a cool head through this. Can be real hard when you just want that job so bad, but best to let that passion shine through in preparation and projects. Gotta prioritize sleep and make sure not to burn out before starting. 
  
 
 **Link(s) to work:** 
 - [JavaScript Variables Practice & Notes](https://github.com/alexownejazayeri/100-days-of-code/tree/master/projects/vanilla-js-sanbox)
 
-**Link to Tweet:** [@alexjazayeri d{n}]()
+**Link to Tweet:** [@alexjazayeri d6](https://twitter.com/alexjazayeri/status/1501125015655182341?s=20&t=BzJNzm3BA0iA-9tF4vuYjA)
 
 ### Daily Commitments
-- [ ] hacked on projects for ≥1hr 👾
-- [ ] update daily log 
-- [ ] update journal - important! share feelings 🌈
+- [x] hacked on projects for ≥1hr 👾
+- [x] update daily log 
+- [x] update journal - important! share feelings 🌈
 - [ ] push work to github
-- [ ] post to
-  - [ ] twitter using #100DaysOfCode (w/ link to repo or commit)
-  - [ ] fcc discord
+- [x] post to
+  - [x] twitter using #100DaysOfCode (w/ link to repo or commit)
+  - [x] fcc discord
   - [ ] linkedin in (starts day 30)
-- [ ] engaged with ≥2 challengers
+- [x] engaged with ≥2 challengers

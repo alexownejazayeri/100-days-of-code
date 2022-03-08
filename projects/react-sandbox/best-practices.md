@@ -77,9 +77,10 @@ The three parts:
   - enables data to pass between the views and model as an intermediary
   - no logic, processes data from model and send to the 'view'
 
-So if a view is somethiing that gets data from a controller in MVC - the stuff that gets rendered in response to some data collected somewhere - then what's a view hierarchy? 
+So if a view is something that gets data from a controller in MVC - the stuff that gets rendered in response to some data collected somewhere - then what's a view hierarchy? 
 
-**View hierarchy** 
+**View hierarchy**
+
 According to Apple's developer [subdomain](https://developer.apple.com/library/archive/documentation/General/Conceptual/Devpedia-CocoaApp/View%20Hierarchy.html) (it's pretty retro you should check it out) a view hieirarchy is how views are ordered in a window in relation to each other - how your views are composed as 'subviews' (sort of like constituent views?) under a 'superview'.
 
 So in the context of a web app, we can think of one superview as being the main app component housing all of its subcomponents. Note that you can use some, all, or no React and that your 'superview' might be a div housing a widget for your larger site built on other tooling and libraries.
