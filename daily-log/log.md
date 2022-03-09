@@ -333,9 +333,111 @@ Today I was less focused because I slept poorly last night. Feeling good, but al
 - [x] hacked on projects for ≥1hr 👾
 - [x] update daily log 
 - [x] update journal - important! share feelings 🌈
-- [ ] push work to github
+- [x] push work to github
 - [x] post to
   - [x] twitter using #100DaysOfCode (w/ link to repo or commit)
   - [x] fcc discord
   - [ ] linkedin in (starts day 30)
 - [x] engaged with ≥2 challengers
+
+___
+
+## Day 7: 08 March 2022
+
+### Daily Log
+
+**\[OFFER\]**
+
+**\[MERNG\]**
+- [x] React Intro Tic-Tac-Toe (more)
+  - [x] Display the location for each move in the format (col, row) in the the move history list.
+  - [x] Bold the currently selected item in the move list.
+
+**\[FUJSK\]**
+
+**\[LTSFD\]**
+
+**\[B30WP\]**
+
+Up next:
+- See tomorrow's log!
+
+### Journal
+
+Today...
+
+**Link(s) to work:** 
+- [Complete later]()
+
+**Link to Tweet:** [@alexjazayeri d7]()
+
+### Daily Commitments
+- [ ] hacked on projects for ≥1hr 👾
+- [ ] update daily log 
+- [ ] update journal - important! share feelings 🌈
+- [ ] push work to github
+- [ ] post to
+  - [ ] twitter using #100DaysOfCode (w/ link to repo or commit)
+  - [ ] fcc discord
+  - [ ] linkedin in (starts day 30)
+- [ ] engaged with ≥2 challengers
+
+___
+
+## Day 7: 08 March 2022
+
+### Daily Log
+
+**\[OFFER\]**
+- [ ] Git basics
+  - [ ] Branches
+  - [ ] Pull requests
+- [ ] Resume
+  - [ ] Send updated version
+
+**\[MERNG\]**
+- [ ] React Intro Tic-Tac-Toe (more)
+  - [ ] Rewrite Board to use two loops to make the squares instead of hardcoding them
+  - [ ] Add a toggle button that lets you sort the moves in either ascending or descending order
+  - [ ] When someone wins, highlight the three squares that caused the win
+  - [ ] When no one wins, display a message about the result being a draw
+- [ ] Project 1
+  - [ ] Practice Hooks e.g.(useState(), useEffect(), useRef())
+
+**\[FUJSK\]**
+- [ ] Review
+  - [ ] map 
+  - [ ] filter 
+  - [ ] reduce 
+  - [ ] arrow functions 
+  - [ ] alternatives to for loops (forEach, for...in)
+- [ ] Review Promises, Async / Await, HTTP
+
+**\[LTSFD\]**
+- [ ] What is a type/interface?
+- [ ] How to use them?
+
+**\[B30WP\]**
+
+Up next:
+- Try to hit the empty boxes by Friday!
+
+### Journal
+
+Today...
+
+**Link(s) to work:** 
+- [Complete later]()
+
+**Link to Tweet:** [@alexjazayeri d7]()
+
+### Daily Commitments
+- [ ] hacked on projects for ≥1hr 👾
+- [ ] update daily log 
+- [ ] update journal - important! share feelings 🌈
+- [ ] push work to github
+- [ ] post to
+  - [ ] twitter using #100DaysOfCode (w/ link to repo or commit)
+  - [ ] fcc discord
+  - [ ] linkedin in (starts day 30)
+- [ ] engaged with ≥2 challengers
