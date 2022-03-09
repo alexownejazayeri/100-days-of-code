@@ -364,23 +364,23 @@ Up next:
 
 ### Journal
 
-Today...
+Today I worked on the 'Time Travel' section of React's tic-tac-toe tutorial. Felt a bit lost on this one at times, but I think it's because I'm rushing, which is problematic. That said, I'm glad that this one left exercises to the reader (see: 'MERNG' above). Felt really good to get my feet wet thinking about how to work with data between components like this. Going to take that momentum and apply it to upcoming portfolio projects!
 
 **Link(s) to work:** 
-- [Complete later]()
+- [React Tic-Tac-Toe Tutorial](https://github.com/alexownejazayeri/100-days-of-code/blob/master/projects/react-sandbox/intro-to-react/src/index.js)
 
-**Link to Tweet:** [@alexjazayeri d7]()
+**Link to Tweet:** [@alexjazayeri d7](https://twitter.com/alexjazayeri/status/1501452838316097537?s=20&t=w7Ds-Hd_9ZeT5Bkz9RTnHA)
 
 ### Daily Commitments
-- [ ] hacked on projects for ≥1hr 👾
-- [ ] update daily log 
-- [ ] update journal - important! share feelings 🌈
-- [ ] push work to github
-- [ ] post to
-  - [ ] twitter using #100DaysOfCode (w/ link to repo or commit)
-  - [ ] fcc discord
+- [x] hacked on projects for ≥1hr 👾
+- [x] update daily log 
+- [x] update journal - important! share feelings 🌈
+- [x] push work to github
+- [x] post to
+  - [x] twitter using #100DaysOfCode (w/ link to repo or commit)
+  - [x] fcc discord
   - [ ] linkedin in (starts day 30)
-- [ ] engaged with ≥2 challengers
+- [x] engaged with ≥2 challengers
 
 ___
 
