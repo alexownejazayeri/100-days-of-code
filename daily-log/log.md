@@ -384,7 +384,55 @@ Today I worked on the 'Time Travel' section of React's tic-tac-toe tutorial. Fel
 
 ___
 
-## Day 7: 08 March 2022
+## Day 8: 09 March 2022
+
+### Daily Log
+
+**\[OFFER\]**
+
+- [x] Resume
+  - [x] Send updated version
+
+**\[MERNG\]**
+
+- [-] Project 1
+  - [x] Component management
+  - [x] UI wrapper components (using {props.children} to avoid div soup)
+  - [x] CSS Modules and React styles
+  - [x] Made components responsive with flexbox 
+
+**\[FUJSK\]**
+
+**\[LTSFD\]**
+
+**\[B30WP\]**
+
+Up next:
+- Finish project 1 (get a working prototype) and review Promises + Async / Await functions.
+
+### Journal
+
+Felt really good to pull all my React knowledge into a fully fledged app. I feel like there's still so much to learn, but I'm looking forward to giving this project a brain tomorrow with hooks. Full steam ahead.
+
+**Link(s) to work:** 
+- [Link Pending Project Completeion]()
+
+**Link to Tweet:** [@alexjazayeri d7](https://twitter.com/alexjazayeri/status/1502082400230076417?s=20&t=7JNcO4AyX3p4sa4Qsd2h0Q)
+
+### Daily Commitments
+- [x] hacked on projects for ≥1hr 👾
+- [x] update daily log 
+- [x] update journal - important! share feelings 🌈
+- [x] push work to github
+- [x] post to
+  - [x] twitter using #100DaysOfCode (w/ link to repo or commit)
+  - [x] fcc discord
+  - [ ] linkedin in (starts day 30)
+- [x] engaged with ≥2 challengers
+
+___
+
+## Day 9: 10 March 2022
 
 ### Daily Log
 
@@ -392,8 +440,8 @@ ___
 - [ ] Git basics
   - [ ] Branches
   - [ ] Pull requests
-- [ ] Resume
-  - [ ] Send updated version
+- [x] Resume
+  - [x] Send updated version
 
 **\[MERNG\]**
 - [ ] React Intro Tic-Tac-Toe (more)
@@ -402,7 +450,7 @@ ___
   - [ ] When someone wins, highlight the three squares that caused the win
   - [ ] When no one wins, display a message about the result being a draw
 - [ ] Project 1
-  - [ ] Practice Hooks e.g.(useState(), useEffect(), useRef())
+  - [ ] Give app a brain with hooks e.g.(useState(), useEffect())
 
 **\[FUJSK\]**
 - [ ] Review
