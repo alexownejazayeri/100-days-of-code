@@ -437,11 +437,60 @@ ___
 ### Daily Log
 
 **\[OFFER\]**
+- [x] Resume
+  - [x] Send updated version
+
+**\[MERNG\]**
+- [-] Project 1 - WIP
+  - [x] Give app a brain with hooks e.g.(useState(), useEffect())
+    - [x] useEffect for listening keystrokes
+    - [x] passing props and lifting state throughout game keyboard and tile components
+
+**\[FUJSK\]**
+
+
+**\[LTSFD\]**
+
+
+**\[B30WP\]**
+
+Up next:
+- Work with Promises and APIs
+- Get a better understanding of async / await
+- Dig into GraphQL
+
+### Journal
+
+Today was productive, I'm starting to feel a little less like an imposter. It's really amazing how much progress you can make in a week with a bit of focus and dedication. Excited to keep hacking away at this project and put it out there for the world to see.
+
+Lots of exciting changes coming down the pike.
+
+**Link(s) to work:** 
+- [c0dle](https://github.com/alexownejazayeri/c0dle)
+
+**Link to Tweet:** [@alexjazayeri d7](https://twitter.com/alexjazayeri/status/1502525101048172545?s=20&t=oTpTJXNqyNFqfMkG4snVeQ)
+
+### Daily Commitments
+- [x] hacked on projects for ≥1hr 👾
+- [x] update daily log
+- [x] update journal - important! share feelings 🌈
+- [x] push work to github
+- [x] post to
+  - [x] twitter using #100DaysOfCode (w/ link to repo or commit)
+  - [x] fcc discord
+  - [ ] linkedin in (starts d14)
+- [x] engaged with ≥2 challengers
+
+___
+
+## Day 10: 11 March 2022
+
+### Daily Log
+
+**\[OFFER\]**
 - [ ] Git basics
   - [ ] Branches
   - [ ] Pull requests
-- [x] Resume
-  - [x] Send updated version
 
 **\[MERNG\]**
 - [ ] React Intro Tic-Tac-Toe (more)
