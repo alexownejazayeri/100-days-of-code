@@ -488,6 +488,52 @@ ___
 ### Daily Log
 
 **\[OFFER\]**
+
+**\[MERNG\]**
+- [x] Project 1
+  - [x] Manage keys in state with map
+  - [x] Review RegEx
+  - [x] Update keydown function to handle 'Enter'
+
+**\[FUJSK\]**
+
+**\[LTSFD\]**
+
+**\[B30WP\]**
+
+Up next:
+- Work with Promises and APIs
+- Get a better understanding of async / await
+- Dig into GraphQL
+
+
+### Journal
+
+Today was a great day! Had my first proper interview and got some great feedback. Moved on to the next phase of the process -- psyched to dig into the take-home project. 
+
+**Link(s) to work:** 
+- [C0dle 0.0.3](https://github.com/alexownejazayeri/c0dle)
+
+**Link to Tweet:** [@alexjazayeri d10](https://twitter.com/alexjazayeri/status/1502564460023623680?s=20&t=S4fr4Bl1kZ4EmWmwLNjg9g)
+
+### Daily Commitments
+- [x] hacked on projects for ≥1hr 👾
+- [x] update daily log 
+- [x] update journal - important! share feelings 🌈
+- [x] push work to github
+- [x] post to
+  - [x] twitter using #100DaysOfCode (w/ link to repo or commit)
+  - [x] fcc discord
+  - [ ] linkedin in (starts day 30)
+- [x] engaged with ≥2 challengers
+
+___
+
+## Day 11: 12 March 2022
+
+### Daily Log
+
+**\[OFFER\]**
 - [ ] Git basics
   - [ ] Branches
   - [ ] Pull requests
