@@ -417,7 +417,7 @@ Felt really good to pull all my React knowledge into a fully fledged app. I feel
 **Link(s) to work:** 
 - [Link Pending Project Completeion]()
 
-**Link to Tweet:** [@alexjazayeri d7](https://twitter.com/alexjazayeri/status/1502082400230076417?s=20&t=7JNcO4AyX3p4sa4Qsd2h0Q)
+**Link to Tweet:** [@alexjazayeri d8](https://twitter.com/alexjazayeri/status/1502082400230076417?s=20&t=7JNcO4AyX3p4sa4Qsd2h0Q)
 
 ### Daily Commitments
 - [x] hacked on projects for ≥1hr 👾
@@ -468,7 +468,7 @@ Lots of exciting changes coming down the pike.
 **Link(s) to work:** 
 - [c0dle](https://github.com/alexownejazayeri/c0dle)
 
-**Link to Tweet:** [@alexjazayeri d7](https://twitter.com/alexjazayeri/status/1502525101048172545?s=20&t=oTpTJXNqyNFqfMkG4snVeQ)
+**Link to Tweet:** [@alexjazayeri d9](https://twitter.com/alexjazayeri/status/1502525101048172545?s=20&t=oTpTJXNqyNFqfMkG4snVeQ)
 
 ### Daily Commitments
 - [x] hacked on projects for ≥1hr 👾
@@ -526,7 +526,7 @@ Today...
 **Link(s) to work:** 
 - [Complete later]()
 
-**Link to Tweet:** [@alexjazayeri d7]()
+**Link to Tweet:** [@alexjazayeri d10]()
 
 ### Daily Commitments
 - [ ] hacked on projects for ≥1hr 👾
