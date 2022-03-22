@@ -22,7 +22,7 @@ I'm going to try to compile a list of notes from different resources here and ac
   
 - Paths into software engineering roles
   - Self Study
-    - This is my path; going to take rejection until someone hires me.
+    - This is my path; going to take rejection until someone hires me!
     - If can't do this by the end of #100DaysOfCode then reassess
 - Getting first job
   - Don't play the numbers games

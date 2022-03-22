@@ -1,0 +1,26 @@
+.event {
+    margin: 1rem;
+    padding: 1rem;
+    background-color: #c4b76f;
+    box-shadow: 0 2px 8px rgba(0, 0, 0, 0.26);
+    border-radius: 12px;
+    text-align: center;
+    color: rgb(24, 24, 24);
+  }
+  
+  .event h2 {
+    font-size: 2rem;
+    color: #000000;
+  }
+  
+  .event h3 {
+    color: #000000;
+    margin: 0;
+    font-size: 1rem;
+  }
+  
+  .event img {
+    border-radius: 25%;
+    max-width: 300px;
+    height: auto;
+  }

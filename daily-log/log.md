@@ -534,9 +534,84 @@ ___
 ### Daily Log
 
 **\[OFFER\]**
-- [ ] Git basics
-  - [ ] Branches
-  - [ ] Pull requests
+- [x] Git basics
+  - [x] Branches
+  - [x] Pull requests
+
+**\[MERNG\]**
+- [ ] React Intro Tic-Tac-Toe (more)
+  - [ ] Rewrite Board to use two loops to make the squares instead of hardcoding them
+  - [ ] Add a toggle button that lets you sort the moves in either ascending or descending order
+  - [ ] When someone wins, highlight the three squares that caused the win
+  - [ ] When no one wins, display a message about the result being a draw
+- [x] Project 1
+  - [x] Give app a brain with hooks e.g.(useState(), useEffect())
+
+**\[FUJSK\]**
+- [x] Review
+  - [x] map 
+  - [x] filter 
+  - [x] reduce 
+  - [x] arrow functions 
+  - [x] alternatives to for loops (forEach, for...in)
+- [x] Review Promises, Async / Await, HTTP
+
+**\[LTSFD\]**
+- [ ] What is a type/interface?
+- [ ] How to use them?
+
+**\[B30WP\]**
+
+Up next:
+- Try to hit the empty boxes by Friday!
+
+### Journal
+
+The interview went well yesterday and today I worked loads on trying to wrap my head around GraphQL. I think I may be burning the candle at both ends this week and am going to direct all my focus into building this interview project. I feel good, but also like I'll never "know enough" in the sense that there's simply so much to be across and so much depth to this industry that I can spend and entire lifetime and still only scratch the surface. The reason software is exciting is the same reason it can be overwhelming: the learning and ideas are virtually limitless.
+
+Fighting the overwhelm and taking things one GraphQL resolver at a time!
+
+**Link(s) to work:** 
+- Worked in local node terminal; no link
+
+**Link to Tweet:** no d11 tweet
+
+### Daily Commitments
+- [x] hacked on projects for ≥1hr 👾
+- [x] update daily log 
+- [x] update journal - important! share feelings 🌈
+- [-] push work to github
+- [-] post to
+  - [-] twitter using #100DaysOfCode (w/ link to repo or commit)
+  - [-] fcc discord
+  - [ ] linkedin in (starts day 30)
+- [x] engaged with ≥2 challengers
+
+___ 
+
+## Intermission
+
+...it's 03/21 (it's technically d20 wow) and while I haven't been updating this, I've been coding non-stop.
+
+Here's a quick update:
+
+-  Friday March 11, I got an first-round interview with an events company. 
+-  Out of sheer excitement to ace my first take-home and work with their (very cool) team, I started working tirelessly to learn GraphQL (2 #100DaysOfCode goals in 1 project, woot!)
+-  Due to this bout of rapid learning, I stopped posting about my progress, but seeing as I'll continue this even after getting hired (if) - have to keep the habit up through interviews and all!
+
+TL;DR - got busy with interviews, kept coding, didn't document and interact with the community as much.
+
+Continuing that today and picking up on day 20 (0-indexed ofc).
+
+___
+
+## Day 20: 21 March 2022
+
+### Daily Log
+
+**\[OFFER\]**
+- [x] Final frontend interview with events co. (woo!)
+- [x] Project and portfolio prep for Friday interview (LIDAR/Self-driving startup)
 
 **\[MERNG\]**
 - [ ] React Intro Tic-Tac-Toe (more)
@@ -545,16 +620,10 @@ ___
   - [ ] When someone wins, highlight the three squares that caused the win
   - [ ] When no one wins, display a message about the result being a draw
 - [ ] Project 1
-  - [ ] Give app a brain with hooks e.g.(useState(), useEffect())
+  - [ ] f
 
 **\[FUJSK\]**
-- [ ] Review
-  - [ ] map 
-  - [ ] filter 
-  - [ ] reduce 
-  - [ ] arrow functions 
-  - [ ] alternatives to for loops (forEach, for...in)
-- [ ] Review Promises, Async / Await, HTTP
+- [ ] 
 
 **\[LTSFD\]**
 - [ ] What is a type/interface?

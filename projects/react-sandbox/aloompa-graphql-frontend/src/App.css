@@ -1,0 +1,43 @@
+section {
+    display: flex;
+    justify-content: center;
+    margin: 1rem auto;
+    width: 90%;
+    max-width: 40rem;
+    text-align: center;
+    background-color: transparent;
+    padding: 2rem;
+    border-radius: 12px;
+    color: white;
+  }
+  
+  button {
+    font: inherit;
+    cursor: pointer;
+    background: #11c07d;
+    border: 1px solid #230052;
+    color: white;
+    padding: 0.75rem 2rem;
+    border-radius: 10px;
+  }
+  
+  button:focus {
+    outline: none;
+  }
+  
+  button:hover,
+  button:active {
+    background-color: #089767;
+    border-color: #460897;
+  }
+  
+  input {
+    max-width: 500px;
+    width: 500px;
+    max-height: 25px;
+    height: 25px;
+    border: 2px greenyellow solid;
+    border-radius: 15px;
+    padding: 15px;
+    font-size: 20px;
+  }
