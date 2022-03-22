@@ -57,4 +57,7 @@ body {
   .game-info {
     margin-left: 20px;
   }
-  
+
+  .toggle {
+    margin: 10px;
+  }

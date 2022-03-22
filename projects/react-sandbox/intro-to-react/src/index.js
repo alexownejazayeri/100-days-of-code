@@ -1,6 +1,13 @@
-import React, { Component } from "react";
+import React, { Component,  useEffect } from "react";
 import ReactDOM from "react-dom";
 import "./index.css";
+
+/*
+  - [x] Rewrite Board to use two loops to make the squares instead of hardcoding them
+  - [ ] Add a toggle button that lets you sort the moves in either ascending or descending order
+  - [ ] When someone wins, highlight the three squares that caused the win
+  - [ ] When no one wins, display a message about the result being a draw 
+  */
 
 function Square(props) {
   return (
@@ -11,6 +18,8 @@ function Square(props) {
 }
 
 class Board extends Component {
+  
+  
   renderSquare(i) {
     return (
       <Square
@@ -21,23 +30,19 @@ class Board extends Component {
   }
 
   render() {
+    const layout = [
+      [0, 1, 2],
+      [3, 4, 5],
+      [6, 7, 8],
+    ];
+
     return (
       <div>
-        <div className="board-row">
-          {this.renderSquare(0)}
-          {this.renderSquare(1)}
-          {this.renderSquare(2)}
-        </div>
-        <div className="board-row">
-          {this.renderSquare(3)}
-          {this.renderSquare(4)}
-          {this.renderSquare(5)}
-        </div>
-        <div className="board-row">
-          {this.renderSquare(6)}
-          {this.renderSquare(7)}
-          {this.renderSquare(8)}
-        </div>
+        {layout.map((el) => (
+          <div classNamee="board-row">
+            {el.map((num) => this.renderSquare(num))}
+          </div>
+        ))}
       </div>
     );
   }
@@ -55,6 +60,11 @@ class Game extends Component {
       stepNumber: 0,
       xIsNext: true,
     };
+  }
+
+  componentDidUpdate(prevProps) {
+    console.log('updated!');
+    
   }
 
   handleClick(i) {
@@ -79,6 +89,7 @@ class Game extends Component {
     };
 
     const coordinate = gps[`${i}`];
+    
 
     this.setState({
       history: history.concat([
@@ -110,17 +121,28 @@ class Game extends Component {
         : "Go to start";
       if (move === history.length - 1) {
         return (
-        <li key={move}>
-          <button onClick={() => this.jumpTo(move)}><strong>{desc}</strong></button>
-        </li>
-        )} else {
-          return (
-            <li key={move}>
-              <button onClick={() => this.jumpTo(move)}>{desc}</button>
-            </li>
-          );
+          <li key={move}>
+            <button onClick={() => this.jumpTo(move)}>
+              <strong>{desc}</strong>
+            </button>
+          </li>
+        );
+      } else {
+        return (
+          <li key={move}>
+            <button onClick={() => this.jumpTo(move)}>{desc}</button>
+          </li>
+        );
       }
     });
+
+    
+    let newMoves = moves;
+
+    const handleMoveSort = () => {
+      newMoves = newMoves.reverse();
+      console.log(newMoves);
+    };
 
     let status;
     if (winner) {
@@ -128,6 +150,9 @@ class Game extends Component {
     } else {
       status = "Next player: " + (this.state.xIsNext ? "X" : "O");
     }
+
+    
+
 
     return (
       <div className="game">
@@ -139,7 +164,8 @@ class Game extends Component {
         </div>
         <div className="game-info">
           <div>{status}</div>
-          <ol>{moves}</ol>
+          <button className='toggle' onClick={handleMoveSort}>Sort Moves</button>
+          <ol>{newMoves}</ol>
         </div>
       </div>
     );
