@@ -630,24 +630,31 @@ ___
 **\[B30WP\]**
 
 Up next:
-- Try to hit the empty boxes by Friday!
+- Finish up tic-tac-toe stories
+- Improve logic for 'c0dle'
+- Check out Levenshtein Distance
+- 
 
 ### Journal
 
-Today...
+Today was my final interview for a company I'm excited about. As always, trying to temper expectations. I feel a bit off - wasn't able to sleep at all last night from interview jitters I s'pose. Anyway, the first time can always be nerve wracking but I'm glad to have gotten the experience either way.
+
+Up next, I seriously need to fix my sleep hygiene and built a more structured routine lol. For now, I've been bingeing loads of docs and info to give the interviews at this company my all; however, it's not sustainable. I need to sprinkle in more small projects and little wins.
+
+Knowledge is compounding and sleep dedicates knowledge to memory. It's tough right now with so much changing, but surely a routine will help give a sense of order.
 
 **Link(s) to work:** 
-- [Complete later]()
+- [React Tic Tac Toe Project](https://github.com/alexownejazayeri/100-days-of-code/tree/master/projects/react-sandbox/intro-to-react)
 
-**Link to Tweet:** [@alexjazayeri d10]()
+**Link to Tweet:** [@alexjazayeri d20](https://twitter.com/alexjazayeri/status/1506172065316937728?s=20&t=8uaFzRU3J51M20iHcpOvfA)
 
 ### Daily Commitments
-- [ ] hacked on projects for ≥1hr 👾
-- [ ] update daily log 
-- [ ] update journal - important! share feelings 🌈
-- [ ] push work to github
-- [ ] post to
-  - [ ] twitter using #100DaysOfCode (w/ link to repo or commit)
-  - [ ] fcc discord
+- [x] hacked on projects for ≥1hr 👾
+- [x] update daily log 
+- [x] update journal - important! share feelings 🌈
+- [x] push work to github
+- [x] post to
+  - [x] twitter using #100DaysOfCode (w/ link to repo or commit)
+  - [x] fcc discord
   - [ ] linkedin in (starts day 30)
-- [ ] engaged with ≥2 challengers
+- [x] engaged with ≥2 challengers
