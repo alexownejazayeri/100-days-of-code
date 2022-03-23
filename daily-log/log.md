@@ -650,7 +650,7 @@ Knowledge is compounding and sleep dedicates knowledge to memory. It's tough rig
 
 ### Daily Commitments
 - [x] hacked on projects for ≥1hr 👾
-- [x] update daily log 
+- [x] update daily log
 - [x] update journal - important! share feelings 🌈
 - [x] push work to github
 - [x] post to
@@ -658,3 +658,154 @@ Knowledge is compounding and sleep dedicates knowledge to memory. It's tough rig
   - [x] fcc discord
   - [ ] linkedin in (starts day 30)
 - [x] engaged with ≥2 challengers
+
+___
+
+## Day 20: 21 March 2022
+
+### Daily Log
+
+**\[OFFER\]**
+- [x] Final frontend interview with events co. (woo!)
+- [x] Project and portfolio prep for Friday interview (LIDAR/Self-driving startup)
+
+**\[MERNG\]**
+- [ ] React Intro Tic-Tac-Toe (more)
+  - [x] Rewrite Board to use two loops to make the squares instead of hardcoding them
+  - [ ] Add a toggle button that lets you sort the moves in either ascending or descending order
+  - [ ] When someone wins, highlight the three squares that caused the win
+  - [ ] When no one wins, display a message about the result being a draw
+
+**\[FUJSK\]**
+- [ ] Code up a function that returns the Levenshtein (edit) Distance of a source and target string
+
+**\[LTSFD\]**
+- [ ] What is a type/interface?
+- [ ] How to use them?
+
+**\[B30WP\]**
+
+Up next:
+- Finish up tic-tac-toe stories
+- Improve logic for 'c0dle'
+- Check out Levenshtein Distance
+
+### Journal
+
+Today was my final interview for a company I'm excited about. As always, trying to temper expectations. I feel a bit off - wasn't able to sleep at all last night from interview jitters I s'pose. Anyway, the first time can always be nerve wracking but I'm glad to have gotten the experience either way.
+
+Up next, I seriously need to fix my sleep hygiene and built a more structured routine lol. For now, I've been bingeing loads of docs and info to give the interviews at this company my all; however, it's not sustainable. I need to sprinkle in more small projects and little wins.
+
+Knowledge is compounding and sleep dedicates knowledge to memory. It's tough right now with so much changing, but surely a routine will help give a sense of order.
+
+**Link(s) to work:** 
+- [React Tic Tac Toe Project](https://github.com/alexownejazayeri/100-days-of-code/tree/master/projects/react-sandbox/intro-to-react)
+
+**Link to Tweet:** [@alexjazayeri d20](https://twitter.com/alexjazayeri/status/1506172065316937728?s=20&t=8uaFzRU3J51M20iHcpOvfA)
+
+### Daily Commitments
+- [x] hacked on projects for ≥1hr 👾
+- [x] update daily log
+- [x] update journal - important! share feelings 🌈
+- [x] push work to github
+- [x] post to
+  - [x] twitter using #100DaysOfCode (w/ link to repo or commit)
+  - [x] fcc discord
+  - [ ] linkedin in (starts day 30)
+- [x] engaged with ≥2 challengers
+
+___
+
+## Day 21: 22 March 2022
+
+### Daily Log
+
+**\[OFFER\]**
+
+**\[MERNG\]**
+
+**\[FUJSK\]**
+- [...] Code up a function that returns the Levenshtein (edit) Distance of a source and target string
+- [x] Reference type behaviors (see: `Array()` constructor)
+- [x] Constructing matrices in js
+- [x] `.unshift()` for adding elements to the start of an array
+
+**\[LTSFD\]**
+
+
+**\[B30WP\]**
+
+Up next:
+- Finish up tic-tac-toe stories
+- Improve logic for 'c0dle'
+
+### Journal
+
+Spent the better part of the day digging into fuzzy string search and the underpinnings of Levenshtein Distance. Attempted an implementation of this algorithm in js and realized I still have a long ways to go. Tried to set up the matrix for the problem and ran into a bug where I built a matrix of matrices based on a variable pointing to a reference to the same array -- when tried to edit a row individually, all rows would change since they pointed to the same 'row' or array object. Going to work on debugging that tomorrow.
+
+I feel ecxited and nervous about whether or not this company will take me. Given that it's my first interview, I know the odds and that it's likely I'll have to keep hustling through interviews until someone takes a chance on me. Anyway, I'm stoked to hear back and learn from it all anyway.
+
+**Link(s) to work:** 
+- [Levenshtein Distance Algorithm](https://github.com/alexownejazayeri/100-days-of-code/blob/master/projects/vanilla-js-sandbox/algorithms/levenshtein.js)
+
+**Link to Tweet:** [@alexjazayeri d21](https://twitter.com/alexjazayeri/status/1506519031901143045?s=20&t=EV9K4jxeTl4gNPpPVCcktw)
+
+### Daily Commitments
+- [x] hacked on projects for ≥1hr 👾
+- [x] update daily log
+- [x] update journal - important! share feelings 🌈
+- [x] push work to github
+- [x] post to
+  - [x] twitter using #100DaysOfCode (w/ link to repo or commit)
+  - [x] fcc discord
+  - [ ] linkedin in (starts day 30)
+- [x] engaged with ≥2 challengers
+
+___
+
+## Day 22: 23 March 2022
+
+### Daily Log
+
+**\[OFFER\]**
+- [ ] Project and portfolio prep for Friday interview (LIDAR/Self-driving startup)
+
+**\[MERNG\]**
+- [ ] React Intro Tic-Tac-Toe (more)
+  - [ ] Add a toggle button that lets you sort the moves in either ascending or descending order
+  - [ ] When someone wins, highlight the three squares that caused the win
+  - [ ] When no one wins, display a message about the result being a draw
+
+**\[FUJSK\]**
+- [ ] Code up a function that returns the Levenshtein (edit) Distance of a source and target string
+
+**\[LTSFD\]**
+- [ ] What is a type/interface?
+- [ ] How to use them?
+
+**\[B30WP\]**
+
+Up next:
+- Finish up tic-tac-toe stories
+- Improve logic for 'c0dle'
+- Check out Levenshtein Distance
+
+### Journal
+
+
+
+**Link(s) to work:** 
+- [Levenshtein Distance]()
+
+**Link to Tweet:** [@alexjazayeri d22]()
+
+### Daily Commitments
+- [ ] hacked on projects for ≥1hr 👾
+- [ ] update daily log
+- [ ] update journal - important! share feelings 🌈
+- [ ] push work to github
+- [ ] post to
+  - [ ] twitter using #100DaysOfCode (w/ link to repo or commit)
+  - [ ] fcc discord
+  - [ ] linkedin in (starts day 30)
+- [ ] engaged with ≥2 challengers
