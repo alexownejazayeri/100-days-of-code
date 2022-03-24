@@ -777,7 +777,8 @@ ___
   - [ ] When no one wins, display a message about the result being a draw
 
 **\[FUJSK\]**
-- [ ] Code up a function that returns the Levenshtein (edit) Distance of a source and target string
+- [x] Code up a function that returns the Levenshtein (edit) Distance of a source and target string
+- [x] Implement in interview project 
 
 **\[LTSFD\]**
 - [ ] What is a type/interface?
@@ -792,20 +793,22 @@ Up next:
 
 ### Journal
 
+Still recovering from bad sleep the last couple (maybe few) weeks. It's clearly affecting my ability to focus and retain information, so hoping tonight's not another late one. As if I had a choice, I've just been laying there and staring at the back of my eyelids.
 
+Anyway, now that I scratched fuzzy search itch, it's time to dig into projects again! I've let these languish a bit, but learning this algorithm was well worth it.
 
 **Link(s) to work:** 
-- [Levenshtein Distance]()
+- [Levenshtein Distance](https://github.com/alexownejazayeri/100-days-of-code/blob/master/projects/vanilla-js-sandbox/algorithms/levenshtein.js)
 
-**Link to Tweet:** [@alexjazayeri d22]()
+**Link to Tweet:** [@alexjazayeri d22](https://twitter.com/alexjazayeri/status/1506891161624985601?s=20&t=LWTKVrhS_TRH_cZscf95bg)
 
 ### Daily Commitments
-- [ ] hacked on projects for ≥1hr 👾
-- [ ] update daily log
-- [ ] update journal - important! share feelings 🌈
-- [ ] push work to github
-- [ ] post to
-  - [ ] twitter using #100DaysOfCode (w/ link to repo or commit)
-  - [ ] fcc discord
+- [x] hacked on projects for ≥1hr 👾
+- [x] update daily log
+- [x] update journal - important! share feelings 🌈
+- [x] push work to github
+- [x] post to
+  - [x] twitter using #100DaysOfCode (w/ link to repo or commit)
+  - [x] fcc discord
   - [ ] linkedin in (starts day 30)
-- [ ] engaged with ≥2 challengers
+- [x] engaged with ≥2 challengers

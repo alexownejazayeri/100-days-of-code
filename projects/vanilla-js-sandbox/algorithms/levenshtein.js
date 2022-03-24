@@ -7,7 +7,7 @@ const levenshteinDistance = (s, t) => {
   const n = s.length;
   const m = t.length;
 
-  // If either string empty return len non-empty strin
+  // If either string empty return len non-empty string
   if (m === 0) {
     ld = n;
   }
