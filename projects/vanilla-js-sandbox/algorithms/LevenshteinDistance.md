@@ -10,4 +10,5 @@
 
 ## Resources
 - [Levenshtein Distance, in Three Flavors by Michael Gilleland, Merriam Park Software](https://people.cs.pitt.edu/~kirk/cs1501/Pruhs/Spring2006/assignments/editdistance/Levenshtein%20Distance.htm)
-- 
+- [Back To Back SWE - Edit Distance Between 2 Strings YT Video](https://www.youtube.com/watch?v=MiqoA-yF-0M)
+- [Photos of my GoodNotes](assets/levenshtein)
