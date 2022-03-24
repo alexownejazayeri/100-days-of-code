@@ -1,5 +1,5 @@
-const source = "Svetlana";
-const target = "Yelena";
+const source = "Deake";
+const target = "Drake";
 
 const levenshteinDistance = (s, t) => {
   let ld = 0;
