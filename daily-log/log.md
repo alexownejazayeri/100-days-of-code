@@ -768,21 +768,17 @@ ___
 ### Daily Log
 
 **\[OFFER\]**
-- [ ] Project and portfolio prep for Friday interview (LIDAR/Self-driving startup)
+
 
 **\[MERNG\]**
-- [ ] React Intro Tic-Tac-Toe (more)
-  - [ ] Add a toggle button that lets you sort the moves in either ascending or descending order
-  - [ ] When someone wins, highlight the three squares that caused the win
-  - [ ] When no one wins, display a message about the result being a draw
+
 
 **\[FUJSK\]**
 - [x] Code up a function that returns the Levenshtein (edit) Distance of a source and target string
 - [x] Implement in interview project 
 
 **\[LTSFD\]**
-- [ ] What is a type/interface?
-- [ ] How to use them?
+
 
 **\[B30WP\]**
 
@@ -812,3 +808,52 @@ Anyway, now that I scratched fuzzy search itch, it's time to dig into projects a
   - [x] fcc discord
   - [ ] linkedin in (starts day 30)
 - [x] engaged with ≥2 challengers
+
+___
+
+## Day 23: 24 March 2022
+
+### Daily Log
+
+**\[OFFER\]**
+- [ ] Project and portfolio prep for Friday interview (LIDAR/Self-driving startup)
+
+**\[MERNG\]**
+- [x] React Intro Tic-Tac-Toe (more)
+  - [x] Add a toggle button that lets you sort the moves in either ascending or descending order
+  - [x] When someone wins, highlight the three squares that caused the win
+  - [x] When no one wins, display a message about the result being a draw
+
+**\[FUJSK\]**
+- [ ] 
+
+**\[LTSFD\]**
+- [ ] What is a type/interface?
+- [ ] How to use them?
+
+**\[B30WP\]**
+
+Up next:
+- Improve logic for 'c0dle'
+- Investigate animal adoption APIs to make Tinfur
+
+
+### Journal
+
+
+
+**Link(s) to work:** 
+- [Tic-Tac-Toe]()
+
+**Link to Tweet:** [@alexjazayeri d23]()
+
+### Daily Commitments
+- [ ] hacked on projects for ≥1hr 👾
+- [ ] update daily log
+- [ ] update journal - important! share feelings 🌈
+- [ ] push work to github
+- [ ] post to
+  - [ ] twitter using #100DaysOfCode (w/ link to repo or commit)
+  - [ ] fcc discord
+  - [ ] linkedin in (starts day 30)
+- [ ] engaged with ≥2 challengers

@@ -22,7 +22,7 @@ body {
   }
   
   .square {
-    background: rgb(127, 239, 253);
+    background: rgb(235, 235, 235);
     border: 2px solid rgb(255, 255, 255);
     float: left;
     font-size: 32px;
@@ -36,6 +36,21 @@ body {
     width: 75px;
   }
   
+  .square-winner {
+    background: rgb(127, 253, 144);
+    border: 2px solid rgb(255, 255, 255);
+    float: left;
+    font-size: 32px;
+    font-weight: bold;
+    line-height: 34px;
+    height: 75px;
+    margin-right: -1px;
+    margin-top: -1px;
+    padding: 0;
+    text-align: center;
+    width: 75px;
+  }
+
   .square:focus {
     outline: none;
   }
