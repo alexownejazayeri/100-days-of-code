@@ -840,20 +840,24 @@ Up next:
 
 ### Journal
 
+Finishing up the tic-tac-toe tutorial was a good way to gain an appreciation for a) how much work game development is b) the non-trivial work it take to make trivial things happen on a computer screen.
 
+Slept a bit better last night and feel like I'm getting a little caught up after several hellish weeks of all-nighters, deadlines, and high-stakes interviewing. Now it's up to me to keep on growing my skills and interviewing while I wait to hear back from this events company that shall remain nameless for now. There are other companies I'd like to work with/for of course, but I really like this team and tech stack, so hoping they decide to go with me.
+
+Either way, I'm trying to keep busy in the meantime and not build my expectations too high. Feel like part of that battle is adopting a stoic disregard for the outcomes and keep moving. Will see where that stoicism takes me and look forward to continued learning. Until tomorrow...
 
 **Link(s) to work:** 
-- [Tic-Tac-Toe]()
+- [Tic-Tac-Toe](https://github.com/alexownejazayeri/100-days-of-code/tree/master/projects/react-sandbox/intro-to-react)
 
-**Link to Tweet:** [@alexjazayeri d23]()
+**Link to Tweet:** [@alexjazayeri d23](https://twitter.com/alexjazayeri/status/1507260044802342913?s=20&t=BAaXX1Pz_K-HlD-YSbT0Ng)
 
 ### Daily Commitments
-- [ ] hacked on projects for ≥1hr 👾
-- [ ] update daily log
-- [ ] update journal - important! share feelings 🌈
-- [ ] push work to github
-- [ ] post to
-  - [ ] twitter using #100DaysOfCode (w/ link to repo or commit)
-  - [ ] fcc discord
+- [x] hacked on projects for ≥1hr 👾
+- [x] update daily log
+- [x] update journal - important! share feelings 🌈
+- [x] push work to github
+- [x] post to
+  - [x] twitter using #100DaysOfCode (w/ link to repo or commit)
+  - [x] fcc discord
   - [ ] linkedin in (starts day 30)
-- [ ] engaged with ≥2 challengers
+- [x] engaged with ≥2 challengers
