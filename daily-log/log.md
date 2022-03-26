@@ -861,3 +861,65 @@ Either way, I'm trying to keep busy in the meantime and not build my expectation
   - [x] fcc discord
   - [ ] linkedin in (starts day 30)
 - [x] engaged with ≥2 challengers
+
+___
+
+## Day 24: 25 March 2022
+
+### Daily Log
+
+**\[OFFER\]**
+- [-] Project and portfolio prep for Friday interview (LIDAR/Self-driving startup)
+  - Made good progress toward codle
+
+**\[MERNG\]**
+- [x] C0dle
+  - [x] Update 'Enter' logic for keydown and key click
+  - [x] Validate answer against codle of the day (hardcoded for now)
+  - [x] Tile highlighting based on whether character is correct, present, or incorrect 
+
+**\[FUJSK\]**
+- [x] Review .split(), .splice(), and array destructuring
+
+**\[LTSFD\]**
+
+**\[B30WP\]**
+
+Up next:
+- Improve logic for 'c0dle'
+  - Conduct an analysis of the most popular javascript, html, and css keyword, terms, syntax, etc.
+    - What are the most used terms?
+    - What's the average length or mode?
+    - If !5, edit the app
+    - Write a backend that stores a library of entries
+  - Add:
+    - Styling for the keyboard based on whether the characters have been used blah blah
+    - Hamburger menu
+    - help modal
+    - stats feature (store data locally?)
+- Investigate animal adoption APIs to make Tinfur
+
+
+### Journal
+
+Today was good! Felt nice to spend so much time working in the project. I felt a bit slow to pick it back up again, but it's amazing how quickly it comes back when things are modular and you can focus on one bit over another. I'm really starting to see how much time can get burnt just trying to wrap your head around what some code is doing.
+
+Got the core functionality of C0dle done tonight. Excited to share it around even though worlde has almost definitely died. Cheers to doing it anyway...still waiting to hear back about that job, but things take time and I must press on.
+
+Gonna keep writing portfolio projects and things.
+
+**Link(s) to work:** 
+- [Codle](https://github.com/alexownejazayeri/c0dle)
+
+**Link to Tweet:** [@alexjazayeri d24](https://twitter.com/alexjazayeri/status/1507622819953209344?s=20&t=kv4lsvdskdnZJDxr5IW-vA)
+
+### Daily Commitments
+- [x] hacked on projects for ≥1hr 👾
+- [x] update daily log
+- [x] update journal - important! share feelings 🌈
+- [x] push work to github
+- [ ] post to
+  - [x] twitter using #100DaysOfCode (w/ link to repo or commit)
+  - [x] fcc discord
+  - [ ] linkedin in (starts day 30)
+- [x] engaged with ≥2 challengers
