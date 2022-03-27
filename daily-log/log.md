@@ -923,3 +923,61 @@ Gonna keep writing portfolio projects and things.
   - [x] fcc discord
   - [ ] linkedin in (starts day 30)
 - [x] engaged with ≥2 challengers
+
+___
+
+## Day 25: 26 March 2022
+
+### Daily Log
+
+**\[OFFER\]**
+- [-] Project and portfolio prep for Friday interview (LIDAR/Self-driving startup)
+  - Slow progress and mistake-ridden work tonight
+
+**\[MERNG\]**
+- [x] C0dle
+  - [x] Work on keyboard higlighting feature
+
+**\[FUJSK\]**
+
+
+**\[LTSFD\]**
+
+**\[B30WP\]**
+
+Up next:
+- Improve logic for 'c0dle'
+  - Conduct an analysis of the most popular javascript, html, and css keyword, terms, syntax, etc.
+    - What are the most used terms?
+    - What's the average length or mode?
+    - If !5, edit the app
+    - Write a backend that stores a library of entries
+  - Add:
+    - Styling for the keyboard based on whether the characters have been used blah blah
+    - Hamburger menu
+    - help modal
+    - stats feature (store data locally?)
+- Investigate animal adoption APIs to make Tinfur
+
+
+### Journal
+
+Was a bit tired and groggy today. My heart wasn't totally in this session, but I guess that can happen from time to time. Can feel that I need to get better at committing to rapidly failing and attempting new solutions to things instead of thinking the first "big idea" is going to address the problem at hand instantly.
+
+Feels good though, feels like there's a ton of growth ahead. Excited to look back on today's problems and think they're small in comparison.
+
+**Link(s) to work:** 
+- [Codle](https://github.com/alexownejazayeri/c0dle)
+
+**Link to Tweet:** [@alexjazayeri d25](https://twitter.com/alexjazayeri/status/1507992770945773568?s=20&t=o1jRxudyKeJuJA2dv-ewJw)
+
+### Daily Commitments
+- [x] hacked on projects for ≥1hr 👾
+- [x] update daily log
+- [x] update journal - important! share feelings 🌈
+- [x] push work to github
+- [x] post to
+  - [x] twitter using #100DaysOfCode (w/ link to repo or commit)
+  - [x] fcc discord
+  - [ ] linkedin in (starts day 30)
+- [x] engaged with ≥2 challengers
