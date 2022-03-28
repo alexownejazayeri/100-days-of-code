@@ -981,3 +981,59 @@ Feels good though, feels like there's a ton of growth ahead. Excited to look bac
   - [x] fcc discord
   - [ ] linkedin in (starts day 30)
 - [x] engaged with ≥2 challengers
+
+___
+
+## Day 26: 27 March 2022
+
+### Daily Log
+
+**\[OFFER\]**
+- [-] Project and portfolio prep for Friday interview (LIDAR/Self-driving startup)
+  - Slow progress and mistake-ridden work tonight
+
+**\[MERNG\]**
+- [x] C0dle
+  - [x] Work on keyboard higlighting feature
+
+**\[FUJSK\]**
+
+
+**\[LTSFD\]**
+
+**\[B30WP\]**
+
+Up next:
+- Improve logic for 'c0dle'
+  - Conduct an analysis of the most popular javascript, html, and css keyword, terms, syntax, etc.
+    - What are the most used terms?
+    - What's the average length or mode?
+    - If !5, edit the app
+    - Write a backend that stores a library of entries
+  - Add:
+    - Styling for the keyboard based on whether the characters have been used blah blah
+    - Hamburger menu
+    - help modal
+    - stats feature (store data locally?)
+- Investigate animal adoption APIs to make Tinfur
+
+
+### Journal
+
+Decided to take today a bit slower and catch up on sleep / recalibrate. Went for a hike out in Santa Cruz with a friend and going to bed early. Felt a bit slow working on C0dle today, but I'm honestly fine with it. Have been burning the candle at both ends and it's clear that the clarity that comes with good rest and a routine outshine caffeine-fueled nights of hacking at stuff until it just works.
+
+**Link(s) to work:** 
+- [Codle](https://github.com/alexownejazayeri/c0dle)
+
+**Link to Tweet:** [@alexjazayeri d26](https://twitter.com/alexjazayeri/status/1508327706567479299?s=20&t=qkEJpVSpxiHjBavyShwiHQ)
+
+### Daily Commitments
+- [x] hacked on projects for ≥1hr 👾
+- [x] update daily log
+- [x] update journal - important! share feelings 🌈
+- [x] push work to github
+- [x] post to
+  - [x] twitter using #100DaysOfCode (w/ link to repo or commit)
+  - [x] fcc discord
+  - [ ] linkedin in (starts day 30)
+- [x] engaged with ≥2 challengers
