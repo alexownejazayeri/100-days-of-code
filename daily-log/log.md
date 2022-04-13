@@ -1071,29 +1071,26 @@ ___
 ### Daily Log
 
 **\[OFFER\]**
-- [ ] LinkedIn
-  - [ ] Apply to 100 jobs
 - [ ] Create a list of 10 dream companies
   - [ ] Contact 2-5 technical recruiters at each of them
   - [ ] Tell them about myself and what I'm looking for
+- [ ] LinkedIn
+  - [ ] Apply to 100 jobs
 
 **\[MERNG\]**
-- [ ] C0dle
-  - [ ] validation logic against list of possible guesses
-  - [ ] hamburger menu
+- [x] C0dle
+  - [x] validation logic against list of possible guesses
+  - [x] hamburger menu
+  - [ ] add to portfolio site
 
 **\[FUJSK\]**
 
-
 **\[LTSFD\]**
-
 
 **\[B30WP\]**
 
 Up next:
-- Add:
-  - Styling for the keyboard based on whether the characters have been used blah blah
-  - Hamburger menu
+- Keep developing and improving on CODE-LE
 - Investigate animal adoption APIs to make Tinfur
 
 
@@ -1108,12 +1105,12 @@ Up next:
 
 ### Daily Commitments
 - [x] hacked on projects for ≥1hr 👾
-- [x] update daily log
-- [x] update journal - important! share feelings 🌈
-- [x] push work to github
-- [x] post to
+- [ ] update daily log
+- [ ] update journal - important! share feelings 🌈
+- [ ] push work to github
+- [ ] post to
   - [x] twitter using #100DaysOfCode (w/ link to repo or commit)
   - [x] fcc discord
   - [ ] linkedin in (starts day 30)
-- [x] engaged with ≥2 challengers
+- [ ] engaged with ≥2 challengers
 
