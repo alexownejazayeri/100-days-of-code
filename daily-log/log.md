@@ -1071,17 +1071,13 @@ ___
 ### Daily Log
 
 **\[OFFER\]**
-- [ ] Create a list of 10 dream companies
-  - [ ] Contact 2-5 technical recruiters at each of them
-  - [ ] Tell them about myself and what I'm looking for
-- [ ] LinkedIn
-  - [ ] Apply to 100 jobs
+
 
 **\[MERNG\]**
 - [x] C0dle
   - [x] validation logic against list of possible guesses
   - [x] hamburger menu
-  - [ ] add to portfolio site
+  - [x] add to portfolio site
 
 **\[FUJSK\]**
 
@@ -1090,27 +1086,39 @@ ___
 **\[B30WP\]**
 
 Up next:
-- Keep developing and improving on CODE-LE
+- Keep developing and improving CODE-LE
 - Investigate animal adoption APIs to make Tinfur
-
+- Start building practice webpages to hit B30WP goal
+- Ramp up daily job applications and recruiter network building
+- Jose's recommendation: build a CI/CD pipeline to handle automatically testing and deploying changes
+- 
 
 ### Journal
 
-...
+Been feeling a bit up and down. Today I fellt a simultaneous sense of overwhelm and excitement since Code-le is now live (and buggy). A reminder that everything is a constant work in progress and can always stand to be made faster, more performant, more useable, prettier, more accessible, more easily maintained, easier to deploy, more relevant, and so on.
+
+Learning to relish in having something somewhat done and keep pressing on anyway. Things are never "done". They might be "good for now", but not "done" -- and definitely not perfect.
+
+Looking forward to building a bit more structured learning as my self-guided curriculum feels out of balance. Cheers to another day of progress.
+
+That said, I'm really grateful for the communityt that's formed around this #100DaysOfCode. Inspiring to see folks flocking to software from all walks of life and -- equally moving -- folks who've already broken into tech working with us "freshies" to get up to speed an into work.
+
+Hope to be a beacon this way and help others along the way. Think I'm honestly too deep in my own head.
 
 **Link(s) to work:** 
-- [Codle](https://github.com/alexownejazayeri/c0dle)
+- [Code-le - Code](https://github.com/alexownejazayeri/c0dle)
+- [Code-le - Site](https://www.code-le.com)
 
-**Link to Tweet:** [@alexjazayeri d26](https://twitter.com/alexjazayeri/status/1508327706567479299?s=20&t=qkEJpVSpxiHjBavyShwiHQ)
+**Link to Tweet:** [@alexjazayeri d42](https://twitter.com/alexjazayeri/status/1513974456003170306?s=20&t=CEFJfTsPeDPB5xeUlXDJTw)
 
 ### Daily Commitments
 - [x] hacked on projects for ≥1hr 👾
-- [ ] update daily log
-- [ ] update journal - important! share feelings 🌈
-- [ ] push work to github
-- [ ] post to
+- [x] update daily log
+- [x] update journal - important! share feelings 🌈
+- [x] push work to github
+- [x] post to
   - [x] twitter using #100DaysOfCode (w/ link to repo or commit)
   - [x] fcc discord
   - [ ] linkedin in (starts day 30)
-- [ ] engaged with ≥2 challengers
+- [x] engaged with ≥2 challengers
 
