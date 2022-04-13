@@ -76,7 +76,7 @@ I came across the #100DaysOfCode recently - hard to miss when you're connected t
 
 As of 1 March 2022, I'm comitted to the rules. As of 3.14, I'm committed to coding and applying to jobs full-time with the 'reach' goal of getting hired by the end of 100 days.
 
-With tempered expecations, I'm excited to: 
+With tempered expectations, I'm excited to: 
 
 - connect with and support challengers
 - join a community 
