@@ -1122,3 +1122,57 @@ Hope to be a beacon this way and help others along the way. Think I'm honestly t
   - [ ] linkedin in (starts day 30)
 - [x] engaged with ≥2 challengers
 
+___
+
+## Day 43: 13 April 2022
+
+### Daily Log
+
+**\[OFFER\]**
+- [x] Apply to all Otta recommendations
+  - [x] Spend extra time on the Asana apprenticeship application, seems awesome
+
+**\[MERNG\]**
+- [x] CI/CD Pipeline
+  - [x] Researched
+    - [x] CircleCI
+    - [x] GitHub Actions
+    - [x] Unit Testing w/ Jest
+
+
+**\[FUJSK\]**
+  
+
+**\[LTSFD\]**
+
+
+**\[B30WP\]**
+
+
+Up next:
+- [ ] Connect req. to 10/100 2nd degree recruiters
+- [ ] Connect with software engineers at all the companies you applied to
+
+### Journal
+
+Today I found out I'm Covid positive, so was a bit of a roller coaster but managed to focus up and devote the better part of the evening to learning some intro CI/CD. Felt good about learning this -- was interested to find out Yarn and Jest are also open source Facebook. It's really sort of amazing how much big tech has accomplished in such a short period of time, and they've been so open about sharing those learnings with the community. I used to have a blanket feeling that big tech was brooding and bad for being accelerationist, but my opinions are shifting there.
+
+It's complicated.
+
+Anyway, it's been a bit of a day but we press on and do good things!
+
+**Link(s) to work:** 
+- [Code-le - Code](https://github.com/alexownejazayeri/c0dle)
+
+**Link to Tweet:** [@alexjazayeri d43]()
+
+### Daily Commitments
+- [x] hacked on projects for ≥1hr 👾
+- [x] update daily log
+- [x] update journal - important! share feelings 🌈
+- [x] push work to github
+- [x] post to
+  - [x] twitter using #100DaysOfCode (w/ link to repo or commit)
+  - [x] fcc discord
+  - [ ] linkedin in (starts day 30)
+- [x] engaged with ≥2 challengers

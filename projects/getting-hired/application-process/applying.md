@@ -53,3 +53,13 @@ I'm going to try to compile a list of notes from different resources here and ac
     - apply the steps above
     - continue for improvement
     - be systematic!
+
+
+### Ujjwal Chadha
+
+- Easiest way to get an interview (esp. in big tech)
+  - Contact technical recruiters on LinkedIn
+    - Tell them about yourself and what you're looking for
+    - They're looking for candidates as much as candidates are looking for jobs
+  - Reach out tons, you'll connect with some
+    - Personalize the note
