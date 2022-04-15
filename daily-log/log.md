@@ -1176,3 +1176,71 @@ Anyway, it's been a bit of a day but we press on and do good things!
   - [x] fcc discord
   - [ ] linkedin in (starts day 30)
 - [x] engaged with ≥2 challengers
+
+___
+
+## Day 44: 14 April 2022
+
+### Daily Log
+
+**\[OFFER\]**
+- [ ] Connect with 10/100 2nd Degree Recruiters on LinkedIn
+- [ ] Connect with software engineers at the companies I've applied to
+
+**\[MERNG\]**
+- [-] CI/CD Pipeline
+  - [x] Research testing methods
+    - [x] Unit
+    - [x] Integration
+    - [x] E2E
+    - [x] Acceptance
+    - [x] White/Gray/Black box
+    - [x] Manual
+    - [x] Static
+    - [x] Dynamic
+    - [x] Smoke
+    - [x] Regression
+    - [x] Load
+    - [x] Penetration
+  - [x] Implement a simple CI/CD pipeline with Github Actions
+
+**\[FUJSK\]**
+
+
+**\[LTSFD\]**
+
+
+**\[B30WP\]**
+
+
+Up next:
+- [ ] Connect req. to 10/100 2nd degree recruiters
+- [ ] Connect with software engineers at all the companies you applied to
+- [ ] Review all FCC JavaScript basics
+  - [ ] Create supplementary materials for each module in this project
+    - [ ] Additional problems or examples
+    - [ ] Explanations
+    - [ ] Links to resources and docs
+- [ ] Complete Leetcode's intro problems [here]()
+
+### Journal
+
+Learned a lot about CI/CD and testing today. Realized how big this world is and that there's virtually endless stuff to learn. Learning to cope with the overwhelm of realizing I'll truly never feel like I know enough and that things are constantly changing -- instead of trying to learn it all I'm going to focus on fundamentals and really nailing down the basics.
+
+Glad to have mentors and folks looking out and guiding me through this because otherwise I'd feel very lost. I'm a lucky person for that.
+
+**Link(s) to work:** 
+- [Github Actions - Code-le Repo](https://github.com/alexownejazayeri/c0dle/actions)
+
+**Link to Tweet:** [@alexjazayeri d44](https://twitter.com/alexjazayeri/status/1514895248534609921?s=20&t=azpDGVURpQx2c6xKWdklIQ)
+
+### Daily Commitments
+- [x] hacked on projects for ≥1hr 👾
+- [x] update daily log
+- [x] update journal - important! share feelings 🌈
+- [x] push work to github
+- [x] post to
+  - [x] twitter using #100DaysOfCode (w/ link to repo or commit)
+  - [ ] fcc discord
+  - [ ] linkedin in (starts day 30)
+- [x] engaged with ≥2 challengers
