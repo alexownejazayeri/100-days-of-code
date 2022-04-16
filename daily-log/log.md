@@ -1244,3 +1244,66 @@ Glad to have mentors and folks looking out and guiding me through this because o
   - [ ] fcc discord
   - [ ] linkedin in (starts day 30)
 - [x] engaged with ≥2 challengers
+
+___
+
+## Day 45: 15 April 2022
+
+### Daily Log
+
+**\[OFFER\]**
+- [ ] Connect with 10/100 2nd Degree Recruiters on LinkedIn
+- [ ] Connect with software engineers at the companies I've applied to
+
+**\[MERNG\]**
+- [-] CI/CD Pipeline
+  - [x] Write a test in Jest
+  - [x] Learn Firebase
+    - [x] Migrate Code-le to Firebase
+    - [x] Set up CD through Github Actions
+    - [x] Point DNS to Firebase
+    - [x] Set up Codacy + Imgbot from Github marketplace
+
+**\[FUJSK\]**
+
+
+**\[LTSFD\]**
+
+
+**\[B30WP\]**
+
+
+Up next:
+- Learn more about Firebase hosting and staging url options
+- Get familiar with other Firebase features (BaaS; DB options)
+- [ ] Review all FCC JavaScript basics
+  - [ ] Create supplementary materials for each module in this project
+    - [ ] Additional problems or examples
+    - [ ] Explanations
+    - [ ] Links to resources and docs
+- [ ] Complete Leetcode's intro problems [here](https://leetcode.com/problem-list/challenges-for-new-users/)
+- [ ] Ujjwal's advice resume updates
+
+### Journal
+
+Today was a good day. Learned a lot about CI/CD and Github Actions. Also took the dive into Firebase and I'm realizing I actually enjoy learning about new backend technology.
+
+BaaS is a cool concept and I'm excited to understand more about AWS, CircleCI, testing, Typescript, and good coding patterns. Still feel like I'm only scratching the surface with what I'm actually capable of with JavaScript and want to keep pushing there, but learning the SWDLC is just as important since you're unlikely to jump straight into algorithms and super technical stuff.
+
+Also really grateful to have mentors and a be networking in such a chill space. People have been so willing to help and point me in the right directions, my faith in humanity is restored from the level of mentorship in the dev community alone. I hope to be as cool as the people I'm asking questions from some day. Let's be honest, that's what I'm really doing this for.
+
+**Link(s) to work:** 
+- [Github Actions - Code-le Repo](https://github.com/alexownejazayeri/c0dle/actions)
+
+**Link to Tweet:** [@alexjazayeri d46](https://twitter.com/alexjazayeri/status/1515259287878078467?s=20&t=nGxwgSIxXMBt-mQ4xad52Q)
+
+### Daily Commitments
+- [x] hacked on projects for ≥1hr 👾
+- [x] update daily log
+- [x] update journal - important! share feelings 🌈
+- [x] push work to github
+- [x] post to
+  - [x] twitter using #100DaysOfCode (w/ link to repo or commit)
+  - [ ] fcc discord
+  - [ ] linkedin in (starts day 30)
+- [x] engaged with ≥2 challengers
