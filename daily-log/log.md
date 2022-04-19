@@ -1295,7 +1295,7 @@ Also really grateful to have mentors and a be networking in such a chill space. 
 **Link(s) to work:** 
 - [Github Actions - Code-le Repo](https://github.com/alexownejazayeri/c0dle/actions)
 
-**Link to Tweet:** [@alexjazayeri d46](https://twitter.com/alexjazayeri/status/1515259287878078467?s=20&t=nGxwgSIxXMBt-mQ4xad52Q)
+**Link to Tweet:** [@alexjazayeri d45](https://twitter.com/alexjazayeri/status/1515259287878078467?s=20&t=nGxwgSIxXMBt-mQ4xad52Q)
 
 ### Daily Commitments
 - [x] hacked on projects for ≥1hr 👾
@@ -1307,3 +1307,195 @@ Also really grateful to have mentors and a be networking in such a chill space. 
   - [ ] fcc discord
   - [ ] linkedin in (starts day 30)
 - [x] engaged with ≥2 challengers
+
+___
+
+## Day 48: 18 April 2022
+
+### Daily Log
+
+**\[OFFER\]**
+- [x] Update resume with Ujjwal's recommendations
+
+**\[MERNG\]**
+
+
+**\[FUJSK\]**
+
+
+**\[LTSFD\]**
+
+
+**\[B30WP\]**
+
+
+Up next:
+- Learn more about Firebase hosting and staging url options
+- Get familiar with other Firebase features (BaaS; DB options)
+- [ ] Review all FCC JavaScript basics
+  - [ ] Create supplementary materials for each module in this project
+    - [ ] Additional problems or examples
+    - [ ] Explanations
+    - [ ] Links to resources and docs
+
+### Journal
+
+Today was very okay. I'm not sure how else to say it; I'm overwhelmed by how much there is to learn. Early on, I thought that studying hard and contacting my network for open opportunities would be enough to make the transition speedy, but after looking at the types of folks who're getting hired out there, I can see that there's just...so much work that I have to do.
+
+I'd say I'm inspired to work hard. I'd also say that I'm combatting imposter syndrome today. This stuff is hard and -- all things considered -- the #100DaysOfCode community is getting me through it.
+
+I'm confident things will work out in their own time. For now I'm trying to strike that special balance between rushing and being too lax. I think the best gauge is whether or not I'm able to produce or demonstrate knowledge against certain core ideas in JavaScript, HTML/CSS, React, etc., etc., which is what's causing the most stress right now. I somehow feel like I've been able to get through projects, but the stress of wanting that first position makes it hard for me to commit knowledge to memory.
+
+It's this sort of ironic, backwards psychological effect of feeling like you need the thing to calm down and needing to calm down to learn the thing well enough to get it (and retain it).
+
+For the rest of this #100DaysOfCode, I'm promising to be patient with myself so I can reap the actual rewards of learning -- to get the compound effects of daily consistency vs. rushing through sprints.
+
+I'll be ready when I am, but rushing will leave gaps in the critical foundational ideas I need to succeed and that'll cause problems down the road, so I'm going to assess my skills for gaps and work on strengthening my JavaScript foundations every day. Will still focus on projects, but want to balance better between learning and doing.
+
+Cheers to the 2nd half of this experience. It also goes without saying that I've done much more than I was capable of before starting the process. I think I'm just recognizing halfway through that this is a process -- a long one that people struggle with, go to school to get degrees for, and spend a lifetime building a career around. I really shouldn't think that I'm special enough to inhale everything I need to get a job faster than anyone else doing the challenge.
+
+Best to refocus on:
+1. Consistency
+2. Helping those around me
+3. Practice, practice, practice
+4. Apply, apply, apply
+5. Firm up basics/fundamentals before advanced topics
+
+
+Anyway, long entry today. Excited for what tomorrow has in store!
+
+**Link(s) to work:** 
+- [No Link - Resume Development]()
+
+**Link to Tweet:** [@alexjazayeri d48](https://twitter.com/alexjazayeri/status/1516515018430242819?s=20&t=iDe8ZQLZZE9XmTzZm8C-vg)
+
+### Daily Commitments
+- [x] hacked on projects for ≥1hr 👾
+- [x] update daily log
+- [x] update journal - important! share feelings 🌈
+- [x] push work to github
+- [x] post to
+  - [x] twitter using #100DaysOfCode (w/ link to repo or commit)
+  - [ ] fcc discord
+  - [ ] linkedin in (starts day 30)
+- [x] engaged with ≥2 challengers
+
+___
+
+## Day 49: 19 April 2022
+
+### Daily Log
+
+**\[OFFER\]**
+- [x] Update resume with Ujjwal's recommendations
+- [x] Apply to BoomTown
+- [x] Connect with software engineers at the companies I've applied to
+  - [x] Quantum Metric
+  - [x] Shortcut
+  - [-] Asana (ran out of free people searches; connect with more folks tomorrow)
+- [x] Connect with 2 2nd Degree Recruiters on LinkedIn
+
+**\[MERNG\]**
+- [ ] Code-le
+  - [ ] Write up a good README for Jose
+- [-] CI/CD Pipeline
+  - [ ] Improve unit tests in Jest
+    - [ ] Test for correct tile and keyboard highlighting
+
+**\[FUJSK\]**
+- [ ] Review all FCC JavaScript basics
+  - [ ] Create supplementary materials for each module in this project
+    - [ ] Additional problems or examples
+    - [ ] Explanations
+    - [ ] Links to resources and docs
+- [ ] Complete Leetcode's intro problems [here](https://leetcode.com/problem-list/challenges-for-new-users/)
+
+**\[LTSFD\]**
+
+
+**\[B30WP\]**
+- [ ] Code up 5/30 pages for Computer Scientists in the FCC playing card deck
+
+
+Up next:
+- [ ] Follow up on Ujjwal's 2nd round of resume iterations and start another round of applications
+- [ ] Learn more about Firebase hosting and staging url options
+- [ ] Get familiar with other Firebase features (BaaS; DB options)
+
+### Journal
+
+
+
+**Link(s) to work:** 
+- [N/A](https://github.com/alexownejazayeri/c0dle/actions)
+
+**Link to Tweet:** [@alexjazayeri d48]()
+
+### Daily Commitments
+- [ ] hacked on projects for ≥1hr 👾
+- [ ] update daily log
+- [ ] update journal - important! share feelings 🌈
+- [ ] push work to github
+- [ ] post to
+  - [ ] twitter using #100DaysOfCode (w/ link to repo or commit)
+  - [ ] fcc discord
+  - [ ] linkedin in (starts day 30)
+- [ ] engaged with ≥2 challengers
+
+___
+
+## Day 50: 20 April 2022
+
+### Daily Log
+
+**\[OFFER\]**
+- [ ] Follow up on Ujjwal's 2nd round of resume iterations and start another round of applications
+- [ ] Connect with software engineers at the companies I've applied to
+  - [ ] Asana
+  - [ ] Notion
+  - [ ] Substack
+  - [ ] Causal
+  - [ ] Neeva
+  - [ ] Waabi Innovation, Inc.
+- [ ] Connect with 18 2nd Degree Recruiters on LinkedIn
+
+**\[MERNG\]**
+
+
+**\[FUJSK\]**
+- [ ] Review all FCC JavaScript basics
+  - [ ] Create supplementary materials for each module in this project
+    - [ ] Additional problems or examples
+    - [ ] Explanations
+    - [ ] Links to resources and docs
+- [ ] Complete Leetcode's intro problems [here](https://leetcode.com/problem-list/challenges-for-new-users/)
+
+**\[LTSFD\]**
+
+
+**\[B30WP\]**
+
+
+Up next:
+- Learn more about Firebase hosting and staging url options
+- Get familiar with other Firebase features (BaaS; DB options)
+
+### Journal
+
+
+
+**Link(s) to work:** 
+- [N/A](https://github.com/alexownejazayeri/c0dle/actions)
+
+**Link to Tweet:** [@alexjazayeri d48]()
+
+### Daily Commitments
+- [ ] hacked on projects for ≥1hr 👾
+- [ ] update daily log
+- [ ] update journal - important! share feelings 🌈
+- [ ] push work to github
+- [ ] post to
+  - [ ] twitter using #100DaysOfCode (w/ link to repo or commit)
+  - [ ] fcc discord
+  - [ ] linkedin in (starts day 30)
+- [ ] engaged with ≥2 challengers
