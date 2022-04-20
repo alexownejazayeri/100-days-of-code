@@ -466,7 +466,7 @@ Today was productive, I'm starting to feel a little less like an imposter. It's 
 Lots of exciting changes coming down the pike.
 
 **Link(s) to work:** 
-- [c0dle](https://github.com/alexownejazayeri/c0dle)
+- [c0dle](https://github.com/alexownejazayeri/code-le)
 
 **Link to Tweet:** [@alexjazayeri d9](https://twitter.com/alexjazayeri/status/1502525101048172545?s=20&t=oTpTJXNqyNFqfMkG4snVeQ)
 
@@ -512,7 +512,7 @@ Up next:
 Today was a great day! Had my first proper interview and got some great feedback. Moved on to the next phase of the process -- psyched to dig into the take-home project. 
 
 **Link(s) to work:** 
-- [C0dle 0.0.3](https://github.com/alexownejazayeri/c0dle)
+- [C0dle 0.0.3](https://github.com/alexownejazayeri/code-le)
 
 **Link to Tweet:** [@alexjazayeri d10](https://twitter.com/alexjazayeri/status/1502564460023623680?s=20&t=S4fr4Bl1kZ4EmWmwLNjg9g)
 
@@ -909,7 +909,7 @@ Got the core functionality of C0dle done tonight. Excited to share it around eve
 Gonna keep writing portfolio projects and things.
 
 **Link(s) to work:** 
-- [Codle](https://github.com/alexownejazayeri/c0dle)
+- [Codle](https://github.com/alexownejazayeri/code-le)
 
 **Link to Tweet:** [@alexjazayeri d24](https://twitter.com/alexjazayeri/status/1507622819953209344?s=20&t=kv4lsvdskdnZJDxr5IW-vA)
 
@@ -967,7 +967,7 @@ Was a bit tired and groggy today. My heart wasn't totally in this session, but I
 Feels good though, feels like there's a ton of growth ahead. Excited to look back on today's problems and think they're small in comparison.
 
 **Link(s) to work:** 
-- [Codle](https://github.com/alexownejazayeri/c0dle)
+- [Codle](https://github.com/alexownejazayeri/code-le)
 
 **Link to Tweet:** [@alexjazayeri d25](https://twitter.com/alexjazayeri/status/1507992770945773568?s=20&t=o1jRxudyKeJuJA2dv-ewJw)
 
@@ -1023,7 +1023,7 @@ Up next:
 Decided to take today a bit slower and catch up on sleep / recalibrate. Went for a hike out in Santa Cruz with a friend and going to bed early. Felt a bit slow working on C0dle today, but I'm honestly fine with it. Have been burning the candle at both ends and it's clear that the clarity that comes with good rest and a routine outshine caffeine-fueled nights of hacking at stuff until it just works.
 
 **Link(s) to work:** 
-- [Codle](https://github.com/alexownejazayeri/c0dle)
+- [Codle](https://github.com/alexownejazayeri/code-le)
 
 **Link to Tweet:** [@alexjazayeri d26](https://twitter.com/alexjazayeri/status/1508327706567479299?s=20&t=qkEJpVSpxiHjBavyShwiHQ)
 
@@ -1106,7 +1106,7 @@ That said, I'm really grateful for the communityt that's formed around this #100
 Hope to be a beacon this way and help others along the way. Think I'm honestly too deep in my own head.
 
 **Link(s) to work:** 
-- [Code-le - Code](https://github.com/alexownejazayeri/c0dle)
+- [Code-le - Code](https://github.com/alexownejazayeri/code-le)
 - [Code-le - Site](https://www.code-le.com)
 
 **Link to Tweet:** [@alexjazayeri d42](https://twitter.com/alexjazayeri/status/1513974456003170306?s=20&t=CEFJfTsPeDPB5xeUlXDJTw)
@@ -1162,7 +1162,7 @@ It's complicated.
 Anyway, it's been a bit of a day but we press on and do good things!
 
 **Link(s) to work:** 
-- [Code-le - Code](https://github.com/alexownejazayeri/c0dle)
+- [Code-le - Code](https://github.com/alexownejazayeri/code-le)
 
 **Link to Tweet:** [@alexjazayeri d43]()
 
@@ -1230,7 +1230,7 @@ Learned a lot about CI/CD and testing today. Realized how big this world is and 
 Glad to have mentors and folks looking out and guiding me through this because otherwise I'd feel very lost. I'm a lucky person for that.
 
 **Link(s) to work:** 
-- [Github Actions - Code-le Repo](https://github.com/alexownejazayeri/c0dle/actions)
+- [Github Actions - Code-le Repo](https://github.com/alexownejazayeri/code-le/actions)
 
 **Link to Tweet:** [@alexjazayeri d44](https://twitter.com/alexjazayeri/status/1514895248534609921?s=20&t=azpDGVURpQx2c6xKWdklIQ)
 
@@ -1293,7 +1293,7 @@ BaaS is a cool concept and I'm excited to understand more about AWS, CircleCI, t
 Also really grateful to have mentors and a be networking in such a chill space. People have been so willing to help and point me in the right directions, my faith in humanity is restored from the level of mentorship in the dev community alone. I hope to be as cool as the people I'm asking questions from some day. Let's be honest, that's what I'm really doing this for.
 
 **Link(s) to work:** 
-- [Github Actions - Code-le Repo](https://github.com/alexownejazayeri/c0dle/actions)
+- [Github Actions - Code-le Repo](https://github.com/alexownejazayeri/code-le/actions)
 
 **Link to Tweet:** [@alexjazayeri d45](https://twitter.com/alexjazayeri/status/1515259287878078467?s=20&t=nGxwgSIxXMBt-mQ4xad52Q)
 
@@ -1402,48 +1402,62 @@ ___
   - [x] Add Code of Conduct
   - [x] Add License
   - [x] Rename repo to 'code-le'
-- [-] CI/CD Pipeline
-  - [ ] Improve unit tests in Jest
-    - [ ] Test for correct tile and keyboard highlighting
 
 **\[FUJSK\]**
-- [ ] Review all FCC JavaScript basics
-  - [ ] Create supplementary materials for each module in this project
-    - [ ] Additional problems or examples
-    - [ ] Explanations
-    - [ ] Links to resources and docs
-- [ ] Complete Leetcode's intro problems [here](https://leetcode.com/problem-list/challenges-for-new-users/)
+
 
 **\[LTSFD\]**
 
 
 **\[B30WP\]**
-- [ ] Code up 5/30 pages for Computer Scientists in the FCC playing card deck
 
 
 Up next:
 - [ ] Follow up on Ujjwal'es 2nd round of resume iterations and start another round of applications
 - [ ] Learn more about Firebase hosting and staging url options
 - [ ] Get familiar with other Firebase features (BaaS; DB options)
+- [ ] Research [GitHub Issues](https://docs.github.com/en/issues)
+  - [ ] Start using in the Code-le project
+- [ ] Code up 5/30 pages for Computer Scientists in the FCC playing card deck
+- [ ] Complete Leetcode's intro problems [here](https://leetcode.com/problem-list/challenges-for-new-users/)
+- [ ] CI/CD Pipeline
+  - [ ] Write unit tests in Jest
+    - [ ] Test for correct tile highlighting
+    - [ ] Test for correct keyboard highlighting
+  - [ ] Write integration tests in Jest
+  - [ ] Learn some best practices [here](https://github.com/goldbergyoni/javascript-testing-best-practices#section-0%EF%B8%8F%E2%83%A3-the-golden-rule)
 
 ### Journal
 
+Today was rough. I had another call with a recruiter who seemed excited until we got to chatting about my college experience. He said something to the effect of, "I hate to break it to ya, but if you're in competition with someone who has a degree, 9 times out of 10 they'll go with the person with the degree", which wasn't exactly confidence-inspiring.
+
+I wonder if, even though I'm learning all this stuff and putting in the hours that I'll continue to fight an uphill battle. It begs the question: is it worth it to go back to school and just get the technical education? If anything, to avoid the nuisance and frustration of dealing with these types? Or is that giving in?
+
+Trying to prove a point feels like a terrible, practically spiteful reason to get an education -- a way to practically ensure failure.
+
+The alternative is to become an amazing coder without it and prove the point that way. There are loads of people stuck in the belief that you have to have a technical education from a top university to create value as a programmer. While it doesn't come without massive effort and time invested, I don't believe the college degree is necessary.
+
+It does, however, seem to be a barrier for the first job. Just need to keep applying and applying until I can land something I guess.
+
+Going to focus on strengthening my skills and becoming undeniably valuable instead of "going back to school to prove a point", which...ya know...is not smart.
+
+I guess it's getting tough and I'm finding out if this is something I'm really cut out for. Again. I'm grateful for the network around the #100DaysOfCode challenge and hope to keep growing and making connections through this process.
 
 
 **Link(s) to work:** 
-- [N/A](https://github.com/alexownejazayeri/c0dle/actions)
+- [Code-le](https://github.com/alexownejazayeri/code-le)
 
-**Link to Tweet:** [@alexjazayeri d48]()
+**Link to Tweet:** [@alexjazayeri d49](https://twitter.com/alexjazayeri/status/1516684408647913476?s=20&t=liil3EIS7kHO_nmMhXI-4g)
 
 ### Daily Commitments
-- [ ] hacked on projects for ≥1hr 👾
-- [ ] update daily log
-- [ ] update journal - important! share feelings 🌈
-- [ ] push work to github
-- [ ] post to
-  - [ ] twitter using #100DaysOfCode (w/ link to repo or commit)
-  - [ ] fcc discord
-  - [ ] linkedin in (starts day 30)
+- [x] hacked on projects for ≥1hr 👾
+- [x] update daily log
+- [x] update journal - important! share feelings 🌈
+- [x] push work to github
+- [x] post to
+  - [x] twitter using #100DaysOfCode (w/ link to repo or commit)
+  - [x] fcc discord
+  - [-] linkedin in (starts day 50)
 - [x] engaged with ≥2 challengers
 
 ___
@@ -1489,7 +1503,7 @@ Up next:
 
 
 **Link(s) to work:** 
-- [N/A](https://github.com/alexownejazayeri/c0dle/actions)
+- [N/A](https://github.com/alexownejazayeri/code-le)
 
 **Link to Tweet:** [@alexjazayeri d48]()
 
