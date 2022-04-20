@@ -1396,8 +1396,12 @@ ___
 - [x] Connect with 2 2nd Degree Recruiters on LinkedIn
 
 **\[MERNG\]**
-- [ ] Code-le
-  - [ ] Write up a good README for Jose
+- [x] Code-le
+  - [x] Improve the readme.md
+  - [x] Move component helper functions into export modules
+  - [x] Add Code of Conduct
+  - [x] Add License
+  - [x] Rename repo to 'code-le'
 - [-] CI/CD Pipeline
   - [ ] Improve unit tests in Jest
     - [ ] Test for correct tile and keyboard highlighting
@@ -1418,7 +1422,7 @@ ___
 
 
 Up next:
-- [ ] Follow up on Ujjwal's 2nd round of resume iterations and start another round of applications
+- [ ] Follow up on Ujjwal'es 2nd round of resume iterations and start another round of applications
 - [ ] Learn more about Firebase hosting and staging url options
 - [ ] Get familiar with other Firebase features (BaaS; DB options)
 
@@ -1440,7 +1444,7 @@ Up next:
   - [ ] twitter using #100DaysOfCode (w/ link to repo or commit)
   - [ ] fcc discord
   - [ ] linkedin in (starts day 30)
-- [ ] engaged with ≥2 challengers
+- [x] engaged with ≥2 challengers
 
 ___
 
