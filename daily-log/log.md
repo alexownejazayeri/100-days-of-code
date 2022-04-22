@@ -1413,7 +1413,6 @@ ___
 
 
 Up next:
-- [ ] Follow up on Ujjwal'es 2nd round of resume iterations and start another round of applications
 - [ ] Learn more about Firebase hosting and staging url options
 - [ ] Get familiar with other Firebase features (BaaS; DB options)
 - [ ] Research [GitHub Issues](https://docs.github.com/en/issues)
@@ -1467,18 +1466,64 @@ ___
 ### Daily Log
 
 **\[OFFER\]**
-- [ ] Follow up on Ujjwal's 2nd round of resume iterations and start another round of applications
-- [ ] Connect with software engineers at the companies I've applied to
-  - [ ] Asana
-  - [ ] Notion
-  - [ ] Substack
-  - [ ] Causal
-  - [ ] Neeva
-  - [ ] Waabi Innovation, Inc.
-- [ ] Connect with 18 2nd Degree Recruiters on LinkedIn
+
 
 **\[MERNG\]**
 
+
+**\[FUJSK\]**
+- [x] Review JavaScript basics
+
+**\[LTSFD\]**
+
+
+**\[B30WP\]**
+
+
+Up next:
+
+### Journal
+
+Oof, I've been having a tough time getting motivated because I feel like I'm not retaining things as well. To be honest, I don't think I'm being systematic enough about the time that I'm spending on this each day. I'm also not being intentional about taking time away during the day.
+
+On the one hand, I really love what I'm learning. On the other, I feel like I'm burning out without having started because I'm getting overwhelmed by how much there is to learn.
+
+All that said, this reminds me of when I first started learning how to play instruments. I always wanted to have all these ideas and innate ability...how nice it 
+
+**Link(s) to work:** 
+- [N/A](https://github.com/alexownejazayeri/code-le)
+
+**Link to Tweet:** [@alexjazayeri d50]()
+
+### Daily Commitments
+- [x] hacked on projects for ≥1hr 👾
+- [x] update daily log
+- [x] update journal - important! share feelings 🌈
+- [-] push work to github
+- [-] post to
+  - [ ] twitter using #100DaysOfCode (w/ link to repo or commit)
+  - [ ] fcc discord
+  - [ ] linkedin in (starts day 30)
+- [x] engaged with ≥2 challengers
+
+___
+
+## Day 51: 21 April 2022
+
+### Daily Log
+
+**\[OFFER\]**
+
+
+**\[MERNG\]**
+- [x] Research [GitHub Issues](https://docs.github.com/en/issues)
+  - [x] Start using in the Code-le project
+- [ ] CI/CD Pipeline
+  - [ ] Write unit tests in Jest
+    - [ ] Test for correct tile highlighting
+    - [ ] Test for correct keyboard highlighting
+  - [ ] Write integration tests in Jest
+  - [ ] Learn some best practices [here](https://github.com/goldbergyoni/javascript-testing-best-practices#section-0%EF%B8%8F%E2%83%A3-the-golden-rule)
 
 **\[FUJSK\]**
 - [ ] Review all FCC JavaScript basics
@@ -1489,23 +1534,35 @@ ___
 - [ ] Complete Leetcode's intro problems [here](https://leetcode.com/problem-list/challenges-for-new-users/)
 
 **\[LTSFD\]**
-
+- [ ] Start learning TypeScript (spend ≥15m in the docs)
 
 **\[B30WP\]**
-
+- [ ] Code up 5/30 pages for Computer Scientists in the FCC playing card deck
 
 Up next:
-- Learn more about Firebase hosting and staging url options
-- Get familiar with other Firebase features (BaaS; DB options)
+- [ ] Follow up on Ujjwal's 2nd round of resume iterations and start another round of applications
+- [ ] Look into GitHub Projects (beta) and set one up for CODE-LE
+  - [ ] Research Agile 101 and Alpha/Beta testing
+- [ ] Learn more about Firebase hosting and staging url options
+- [ ] Get familiar with other Firebase features (BaaS; DB options)
+- [ ] Upgrade LinkedIn and start expanding network.
+  - [ ] Connect with software engineers at the companies I've applied to
+    - [ ] Asana
+    - [ ] Notion
+    - [ ] Substack
+    - [ ] Causal
+    - [ ] Neeva
+    - [ ] Waabi Innovation, Inc.
+  - [ ] Connect with 18 2nd Degree Recruiters on LinkedIn
 
 ### Journal
 
-
+Today I 
 
 **Link(s) to work:** 
 - [N/A](https://github.com/alexownejazayeri/code-le)
 
-**Link to Tweet:** [@alexjazayeri d48]()
+**Link to Tweet:** [@alexjazayeri d50]()
 
 ### Daily Commitments
 - [ ] hacked on projects for ≥1hr 👾

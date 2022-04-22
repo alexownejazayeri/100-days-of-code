@@ -80,7 +80,7 @@
       - optimization
       - profiling
       - concurrency and determinism
-      - test-drive and API-driven development methodologies
+      - test-driven and API-driven development methodologies
       - system design/architecture
       - algorithms
       - data structure design

@@ -19,7 +19,7 @@ I'm going to try to compile a list of notes from different resources here and ac
 
 
 ### Scott Moss
-  
+
 - Paths into software engineering roles
   - Self Study
     - This is my path; going to take rejection until someone hires me!
