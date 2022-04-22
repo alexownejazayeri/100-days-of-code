@@ -1518,29 +1518,27 @@ ___
 **\[MERNG\]**
 - [x] Research [GitHub Issues](https://docs.github.com/en/issues)
   - [x] Start using in the Code-le project
-- [ ] CI/CD Pipeline
-  - [ ] Write unit tests in Jest
-    - [ ] Test for correct tile highlighting
-    - [ ] Test for correct keyboard highlighting
-  - [ ] Write integration tests in Jest
-  - [ ] Learn some best practices [here](https://github.com/goldbergyoni/javascript-testing-best-practices#section-0%EF%B8%8F%E2%83%A3-the-golden-rule)
+- [x] CI/CD Pipeline
+  - [x] Start writing unit tests in Jest for code-le modules
 
 **\[FUJSK\]**
+
+**\[LTSFD\]**
+
+**\[B30WP\]**
+
+Up next:
 - [ ] Review all FCC JavaScript basics
   - [ ] Create supplementary materials for each module in this project
     - [ ] Additional problems or examples
     - [ ] Explanations
     - [ ] Links to resources and docs
-- [ ] Complete Leetcode's intro problems [here](https://leetcode.com/problem-list/challenges-for-new-users/)
-
-**\[LTSFD\]**
 - [ ] Start learning TypeScript (spend ≥15m in the docs)
-
-**\[B30WP\]**
 - [ ] Code up 5/30 pages for Computer Scientists in the FCC playing card deck
-
-Up next:
 - [ ] Follow up on Ujjwal's 2nd round of resume iterations and start another round of applications
+- [ ] Write tests for code-le
+  - [ ] Finish unit tests for modules
+  - [ ] Research best practice for integration testing wit jest
 - [ ] Look into GitHub Projects (beta) and set one up for CODE-LE
   - [ ] Research Agile 101 and Alpha/Beta testing
 - [ ] Learn more about Firebase hosting and staging url options
@@ -1554,23 +1552,34 @@ Up next:
     - [ ] Neeva
     - [ ] Waabi Innovation, Inc.
   - [ ] Connect with 18 2nd Degree Recruiters on LinkedIn
+- [ ] Complete Leetcode's intro problems [here](https://leetcode.com/problem-list/challenges-for-new-users/)
 
 ### Journal
 
-Today I 
+Had a relaxing day. I realized, after some advice from a recruiter, that I've been pushing too hard. To be more accurate, It's not that I'm pushing too hard, but that I'm letting myself get overwhelmed and am not being systematic enough in this process.
+
+> "Obstacles are detours in the right direction." - Gabby Bernstein
+
+She sent me that quote too, which I've now written up on my whiteboard.
+
+I think it's a case of not tracking progress in a more quantitative, logical way to gauge whether things are working or not. The same could be said for whether or not I'm retaining information well e.g., if I were tracking progress against a course or had concepts that I was studying against in a structured way.
+
+Think I'm going to use FCC's curriculum and try to do more advanced research on the concepts. Will try to test / demonstrate my knowledge in public too and see what comes of that.
+
+All that said, I only have 24 hours in a day and need to be systematic about building study time, application time, content creation time, and so on into a day without getting overwhelmed or burnt out before even starting.
 
 **Link(s) to work:** 
-- [N/A](https://github.com/alexownejazayeri/code-le)
+- [Code-le - Unit test](https://github.com/alexownejazayeri/code-le/blob/master/src/modules/game-mgmt.unit.test.js)
 
-**Link to Tweet:** [@alexjazayeri d50]()
+**Link to Tweet:** [@alexjazayeri d51](https://twitter.com/alexjazayeri/status/1517414136971288576?s=20&t=WuPhXrKeHIzFDKWHPMt5uA)
 
 ### Daily Commitments
-- [ ] hacked on projects for ≥1hr 👾
-- [ ] update daily log
-- [ ] update journal - important! share feelings 🌈
-- [ ] push work to github
-- [ ] post to
-  - [ ] twitter using #100DaysOfCode (w/ link to repo or commit)
-  - [ ] fcc discord
-  - [ ] linkedin in (starts day 30)
-- [ ] engaged with ≥2 challengers
+- [x] hacked on projects for ≥1hr 👾
+- [x] update daily log
+- [x] update journal - important! share feelings 🌈
+- [x] push work to github
+- [x] post to
+  - [x] twitter using #100DaysOfCode (w/ link to repo or commit)
+  - [x] fcc discord
+  - [ ] linkedin in (starts day 52)
+- [x] engaged with ≥2 challengers
