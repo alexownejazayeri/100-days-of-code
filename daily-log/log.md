@@ -1536,9 +1536,6 @@ Up next:
 - [ ] Start learning TypeScript (spend ≥15m in the docs)
 - [ ] Code up 5/30 pages for Computer Scientists in the FCC playing card deck
 - [ ] Follow up on Ujjwal's 2nd round of resume iterations and start another round of applications
-- [ ] Write tests for code-le
-  - [ ] Finish unit tests for modules
-  - [ ] Research best practice for integration testing wit jest
 - [ ] Look into GitHub Projects (beta) and set one up for CODE-LE
   - [ ] Research Agile 101 and Alpha/Beta testing
 - [ ] Learn more about Firebase hosting and staging url options
@@ -1583,3 +1580,81 @@ All that said, I only have 24 hours in a day and need to be systematic about bui
   - [x] fcc discord
   - [ ] linkedin in (starts day 52)
 - [x] engaged with ≥2 challengers
+
+___
+
+## Day 52: 22 April 2022
+
+### Daily Log
+
+**\[OFFER\]**
+
+**\[MERNG\]**
+- [x] Squash keyboard highlighting bug
+- [-] Write tests for code-le
+  - [-] Finish unit tests for modules
+  - [-] Research best practice for integration testing wit jest
+- [x] Add issues for each of the items in Notion doc for code-le
+
+**\[FUJSK\]**
+
+**\[LTSFD\]**
+
+**\[B30WP\]**
+
+Up next:
+- [ ] Write tests for code-le
+  - [ ] Finish unit tests for modules
+  - [ ] Research best practice for integration testing with jest
+> Re: unit tests - this is a much more involved process that's goint to need to be spread out over a week. I'm realizing I may have been going to too deep
+> or low-level and need some outside optinions about test coverage and best practice before writing a unit test for every single function.
+- [ ] Review all FCC JavaScript basics
+  - [ ] Create supplementary materials for each module in this project
+    - [ ] Additional problems or examples
+    - [ ] Explanations
+    - [ ] Links to resources and docs
+- [ ] Start learning TypeScript (spend ≥15m in the docs)
+- [ ] Code up 5/30 pages for Computer Scientists in the FCC playing card deck
+- [ ] Follow up on Ujjwal's 2nd round of resume iterations and start another round of applications
+- [ ] Look into GitHub Projects (beta) and set one up for CODE-LE
+  - [ ] Research Agile 101 and Alpha/Beta testing
+- [ ] Learn more about Firebase hosting and staging url options
+- [ ] Get familiar with other Firebase features (BaaS; DB options)
+- [ ] Upgrade LinkedIn and start expanding network.
+  - [ ] Connect with software engineers at the companies I've applied to
+    - [ ] Asana
+    - [ ] Notion
+    - [ ] Substack
+    - [ ] Causal
+    - [ ] Neeva
+    - [ ] Waabi Innovation, Inc.
+  - [ ] Connect with 18 2nd Degree Recruiters on LinkedIn
+- [ ] Complete Leetcode's intro problems [here](https://leetcode.com/problem-list/challenges-for-new-users/)
+
+### Journal
+
+Felt focused today! I'm still so new, so the code doesn't exactly pour out of my fingertips and sometimes I get stuck on things like config and set-up (see: Jest for React). With each step forward, the various technologies and software practices e.g.(TDD, CI/CD, UX/UI, etc.) seem deeper and more cavernous than before, but I'm realizing that's all the more reason to take the common advice of focusing on projects and learning what's directly applicable vs. trying to read every single word of the docs.
+
+I will say though, that it feels less punishing and more exciting to uncover a new practice, technology, paradigm, etc. with each passing day of the challenge. I've settled into having fun with the challenge of it all because -- while my code will never be "perfect" -- I can get closer to building things that are useful and even approach being professional.
+
+As always, the road is long but I'm less daunted by it. I've picked my adventure and am coming to terms with being new and having a lot to learn.
+
+Now the trick is to stay focused and consistent. Also to get paid for this, coz...you know...gotta make a living.
+
+More tomorrow.
+
+**Link(s) to work:** 
+- [Code-le - Closed Bug Issue](https://github.com/alexownejazayeri/100-days-of-code/tree/master/projects/vanilla-js-sanbox)
+
+**Link to Tweet:** [@alexjazayeri d52](https://github.com/alexownejazayeri/code-le/issues/10)
+
+### Daily Commitments
+- [x] hacked on projects for ≥1hr 👾
+- [x] update daily log 
+- [x] update journal - important! share feelings 🌈
+- [ ] push work to github
+- [ ] post to
+  - [ ] twitter using #100DaysOfCode (w/ link to repo or commit)
+  - [ ] fcc discord
+  - [ ] linkedin in (starts day 30)
+- [ ] engaged with ≥2 challengers
