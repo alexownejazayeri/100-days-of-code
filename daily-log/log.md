@@ -1669,43 +1669,48 @@ ___
 
 - [x] Follow up on Ujjwal's 2nd round of resume iterations and start another round of applications
   - [x] Add dates to work experience / project section
-- [ ] Coping with rejection ("apply emotional first aid")
-  - [ ] Make a list of 5 qualities/attributes that you (actually) believe are valuable in whatever the domain is
-  - [ ] Write a brief essay (1-2 paragraphs) about these list items; elaborate on its importance
-- [ ] Check resume against the module in the tech interview handbook
+- [x] Coping with rejection ("apply emotional first aid")
+  - [x] Make a list of 5 qualities/attributes that you (actually) believe are valuable in whatever the domain is
+  - [x] Write a brief essay (1-2 paragraphs) about these list items; elaborate on its importance
 
 **\[MERNG\]**
 
-- [ ] Write tests for code-le
-  - [x] Research unit, integration, and e2e testing in React
+- [x] Write tests for code-le
+  - [x] Research unit, integration
     - [x] Go through Udemy module
     - [x] Watch Traversy tutorial
     - [x] Take notes on both
-  - [ ] Implement basic testing in code-le
-- [ ] Handle Dependabot security alerts
-- [ ] Set up a security policy
-- [ ] Set up code scanning alerts (CodeQL)
+  - [x] Implement basic testing in code-le
+- [x] Handle Dependabot security alerts
+- [x] Set up a security policy
+- [x] Set up code scanning alerts (CodeQL)
 
 **\[FUJSK\]**
 
+
+**\[LTSFD\]**
+
+
+**\[B30WP\]**
+
+
+Up next:
+- [ ] Resume
+  - [ ] Check resume against the module in the tech interview handbook
+  - [ ] A/B test
+    - [ ] The version Ujjwal and I worked on
+    - [ ] The version that comes out of the module above
 - [ ] Review all FCC JavaScript basics
   - [ ] Create supplementary materials for each module in this project
     - [ ] Additional problems or examples
     - [ ] Explanations
     - [ ] Links to resources and docs
 - [ ] Complete Leetcode's intro problems [here](https://leetcode.com/problem-list/challenges-for-new-users/)
-
-**\[LTSFD\]**
-
 - [ ] Start learning TypeScript (spend ≥15m in the docs)
-
-**\[B30WP\]**
-
 - [ ] Code up 5/30 pages for Computer Scientists in the FCC playing card deck
-
-Up next:
 - [ ] Look into GitHub Projects (beta) and set one up for CODE-LE
   - [ ] Research Agile 101 and Alpha/Beta testing
+- [ ] Consider writing up a wiki as part of my #100DaysOfCode progress tracking - a "what I've learned so far" journey tracker sorta deal
 - [ ] Learn more about Firebase hosting and staging url options
 - [ ] Get familiar with other Firebase features (BaaS; DB options)
   - [ ] Add Google Analytics to track usage and data
@@ -1721,17 +1726,31 @@ Up next:
 
 ### Journal
 
+Spending a lot of time studying testing and very curious about whether or not there's a true north for unit vs. integration testing. Seems like the line is very blurry and -- to be honest -- I think I'm spending too much time on it, but now that I've gotten this far, I feel close to having a basic understanding.
 
+After this week, I want to shift focus from the logistics and CI/CD-type tasks back into **interview prep**, **javscript fundamentals**, **project planning**, and **job applications**.
+
+I was feeling nervous about interviewing again and I think that's why I've been bikeshedding so hard with testing. You know you're bikeshedding when you're looking into how to get certified as an ethical hacker just to prove that you know pen testing.
+
+Think the much more valuable skill as an entry-level dev is actually understanding how JavaScript works and maybe having a working understanding of TypeScript fundamentals too.
+
+Probably React hooks and some projects that show you know a bit of Git with testing sprinkled on top to stand out, but not full on QA engineer CI/CD mastery, obviously.
+
+Was talking to a mentor today and had a good reminder that it's a marathon and not a sprint. Anyway, I feel good about how much I've learned and think the next step is to tie up testing in a neat bow by getting some decent test coverage (80% - 100%) on code-le and moving on to a new project.
+
+I don't want to ship bad code and I'm learning a lot of helpful things about what Git/GitHub can do, but don't want to stall out on this project. I'm falling behind on my MERNG goals and am feeling that I'm beyond the mid-way mark on this challenge.
+
+Less than two months to get 3 MERNG projects, a job, 30 web pages, and a working knowledge of TypeScript under my belt...I've got my work cut out for me!
 
 **Link(s) to work:** 
-- [tbd]()
+- [none]()
 
 **Link to Tweet:** [@alexjazayeri d54]()
 
 ### Daily Commitments
 
-- [ ] hacked on projects for ≥1hr 👾
-- [ ] update daily log 
+- [x] hacked on projects for ≥1hr 👾
+- [x] update daily log 
 - [ ] update journal - important! share feelings 🌈
 - [ ] push work to github
 - [ ] post to
