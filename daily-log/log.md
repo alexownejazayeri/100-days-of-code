@@ -1658,3 +1658,84 @@ More tomorrow.
   - [x] fcc discord
   - [ ] linkedin in (starts day 30)
 - [x] engaged with ≥2 challengers
+
+___
+
+## Day 54: 24 April 2022
+
+### Daily Log
+
+**\[OFFER\]**
+
+- [x] Follow up on Ujjwal's 2nd round of resume iterations and start another round of applications
+  - [x] Add dates to work experience / project section
+- [ ] Coping with rejection ("apply emotional first aid")
+  - [ ] Make a list of 5 qualities/attributes that you (actually) believe are valuable in whatever the domain is
+  - [ ] Write a brief essay (1-2 paragraphs) about these list items; elaborate on its importance
+- [ ] Check resume against the module in the tech interview handbook
+
+**\[MERNG\]**
+
+- [ ] Write tests for code-le
+  - [ ] Research unit, integration, and e2e testing in React
+    - [ ] Go through Udemy module
+    - [ ] Watch Traversy tutorial
+    - [ ] Take notes on both
+  - [ ] Implement basic testing in code-le
+- [ ] Handle Dependabot security alerts
+- [ ] Set up a security policy
+- [ ] Set up code scanning alerts (CodeQL)
+
+**\[FUJSK\]**
+
+- [ ] Review all FCC JavaScript basics
+  - [ ] Create supplementary materials for each module in this project
+    - [ ] Additional problems or examples
+    - [ ] Explanations
+    - [ ] Links to resources and docs
+- [ ] Complete Leetcode's intro problems [here](https://leetcode.com/problem-list/challenges-for-new-users/)
+
+**\[LTSFD\]**
+
+- [ ] Start learning TypeScript (spend ≥15m in the docs)
+
+**\[B30WP\]**
+
+- [ ] Code up 5/30 pages for Computer Scientists in the FCC playing card deck
+
+Up next:
+- [ ] Look into GitHub Projects (beta) and set one up for CODE-LE
+  - [ ] Research Agile 101 and Alpha/Beta testing
+- [ ] Learn more about Firebase hosting and staging url options
+- [ ] Get familiar with other Firebase features (BaaS; DB options)
+  - [ ] Add Google Analytics to track usage and data
+- [ ] Upgrade LinkedIn and start expanding network.
+  - [ ] Connect with software engineers at the companies I've applied to
+    - [ ] Asana
+    - [ ] Notion
+    - [ ] Substack
+    - [ ] Causal
+    - [ ] Neeva
+    - [ ] Waabi Innovation, Inc.
+  - [ ] Connect with 18 2nd Degree Recruiters on LinkedIn
+
+### Journal
+
+
+
+**Link(s) to work:** 
+- [tbd]()
+
+**Link to Tweet:** [@alexjazayeri d54]()
+
+### Daily Commitments
+
+- [ ] hacked on projects for ≥1hr 👾
+- [ ] update daily log 
+- [ ] update journal - important! share feelings 🌈
+- [ ] push work to github
+- [ ] post to
+  - [ ] twitter using #100DaysOfCode (w/ link to repo or commit)
+  - [ ] fcc discord
+  - [ ] linkedin in (starts day 30)
+- [ ] engaged with ≥2 challengers
