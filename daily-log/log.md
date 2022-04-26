@@ -1677,10 +1677,10 @@ ___
 **\[MERNG\]**
 
 - [ ] Write tests for code-le
-  - [ ] Research unit, integration, and e2e testing in React
-    - [ ] Go through Udemy module
-    - [ ] Watch Traversy tutorial
-    - [ ] Take notes on both
+  - [x] Research unit, integration, and e2e testing in React
+    - [x] Go through Udemy module
+    - [x] Watch Traversy tutorial
+    - [x] Take notes on both
   - [ ] Implement basic testing in code-le
 - [ ] Handle Dependabot security alerts
 - [ ] Set up a security policy
