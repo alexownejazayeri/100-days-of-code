@@ -2067,17 +2067,15 @@ ___
 
 **\[MERNG\]**
 
-- [ ] Tick code-le [Testing Issue](https://github.com/alexownejazayeri/code-le/issues/11)
+- [-] Tick code-le [Testing Issue](https://github.com/alexownejazayeri/code-le/issues/11)
+  - Still tons to do. Will address tomorrow.
 
 **\[FUJSK\]**
 
-- [ ] Review all FCC JavaScript basics
-  - [ ] Create supplementary materials for each module in this project
-    - [ ] Additional problems or examples
-    - [ ] Explanations
-    - [ ] Links to resources and docs
-- [ ] Spend 15 minutes researching open source ESLint config rules: [netlify/eslint-config-node](https://github.com/netlify/eslint-config-node/blob/main/.eslintrc.cjs)
-  - [ ] Ended on: {update when done}
+- [-] Review all FCC JavaScript basics
+  - [x] Reviewed through 'golf code' challenge -- finishing the rest tomorrow
+- [-] Spend 15 minutes researching open source ESLint config rules: [netlify/eslint-config-node](https://github.com/netlify/eslint-config-node/blob/main/.eslintrc.cjs)
+  - [-] Ended on: {no updated}
 
 **\[LTSFD\]**
 
@@ -2087,9 +2085,14 @@ ___
 #### Learn and do things and stuff
 
 - [ ] Complete Leetcode's intro problems [here](https://leetcode.com/problem-list/challenges-for-new-users/)
+- [ ] Code up pages for Computer Scientists in the FCC playing card deck
 - [ ] Research Agile 101 and Alpha/Beta testing + SemVer for releases
+- [ ] Consider writing up a wiki as part of my #100DaysOfCode progress tracking - a "what I've learned so far" journey tracker sorta deal
+  - [ ] For example: deciding on an ESLint config
+    - [ ] Going through rules that open source projects use
 
-#### Get hired and stuff
+#### Be more hireable
+
 - [ ] Resume
   - [ ] Check resume against the module in the TIH
   - [ ] A/B test
@@ -2112,12 +2115,78 @@ Worked on consolidating knowledge and practicing JavaScript skills from reviewin
 
 I can tell I still have a ton to learn...and always will if I continue down this path. That said, I'm here for it and enjoying the journey now. I was rushing because I'd set some arbitrary expectation that I'd get hired after only a few referral-based interviews, but the reality is that I wasn't ready and that's what this whole challenge is about. Preparing, experimenting, gathering results, optimizing and repeating until I'm hireable.
 
-I also applied to a job today, which I'd really slowed down on in the last week. I'm excited to tackle my TypeScript goals this weekend and hope to keep growing.
+I also applied to a job today, which I'd really slowed down on in the last week. I'm excited to tackle my TypeScript goals this weekend.
+
+**Link(s) to work:** 
+- Idk man, I don't really even know what I did today...
+
+**Link to Tweet:** [@alexjazayeri d59](https://twitter.com/alexjazayeri/status/1520445307758071808?s=20&t=HeCVdRUIf3p8xAv34bAl3A)
+
+### Daily Commitments
+
+- [x] hacked on projects for ≥1hr 👾
+- [x] update daily log 
+- [x] update journal - important! share feelings 🌈
+- [x] push work to github
+- [x] post to
+  - [x] twitter using #100DaysOfCode (w/ link to repo or commit)
+  - [x] fcc discord
+  - [-] linkedin in (starts day 60)
+- [x] engaged with ≥2 challengers
+
+___
+
+## Day 60: 30 April 2022
+
+### Daily Log
+
+**\[OFFER\]**
+
+
+
+**\[MERNG\]**
+
+
+
+**\[FUJSK\]**
+
+- [ ] Review rest of FCC JavaScript basics
+- [ ] Spend 15 minutes researching open source ESLint config rules: [netlify/eslint-config-node](https://github.com/netlify/eslint-config-node/blob/main/.eslintrc.cjs)
+  - [ ] Ended on: {no updated}
+
+**\[LTSFD\]**
+
+
+**\[B30WP\]**
+
+#### Learn and do things and stuff
+
+- [ ] Complete Leetcode's intro problems [here](https://leetcode.com/problem-list/challenges-for-new-users/)
+
+
+#### Get hired and stuff
+- [ ] Resume
+  - [ ] Check resume against the module in the TIH
+  - [ ] A/B test
+    - [ ] The version Ujjwal and I worked on
+    - [ ] The version that comes out of the module above
+- [ ] Applications
+  - [ ] Apply to 5 frontend || fullstack dev jobs
+- [ ] Upgrade LinkedIn and start expanding network.
+  - [ ] Connect with software engineers at the companies I'd eventually like to work at
+    - [ ] Asana
+    - [ ] Notion
+    - [ ] Substack
+  - [ ] Connect with 2nd Degree Recruiters on LinkedIn
+
+### Journal
+
+Write those feels; tell it straight...
 
 **Link(s) to work:** 
 - [TBD]()
 
-**Link to Tweet:** [@alexjazayeri d59]()
+**Link to Tweet:** [@alexjazayeri d60]()
 
 ### Daily Commitments
 
