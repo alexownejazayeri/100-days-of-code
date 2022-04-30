@@ -1987,21 +1987,15 @@ ___
 
 **\[MERNG\]**
 
-- [ ] [Tick Testing Issue](https://github.com/alexownejazayeri/code-le/issues/11)
+- [-] Tick code-le [Testing Issue](https://github.com/alexownejazayeri/code-le/issues/11)
 
 **\[FUJSK\]**
 
 - [x] Spend 15 minutes researching open source ESLint config rules: [netlify/eslint-config-node](https://github.com/netlify/eslint-config-node/blob/main/.eslintrc.cjs)
   - [x] Ended on: block-scoped-var
-- [ ] Review all FCC JavaScript basics
-  - [ ] Create supplementary materials for each module in this project
-    - [ ] Additional problems or examples
-    - [ ] Explanations
-    - [ ] Links to resources and docs
 
 **\[LTSFD\]**
 
-- [ ] Start learning TypeScript (Max Schwarz React + TS module)
 
 **\[B30WP\]**
 
@@ -2014,6 +2008,12 @@ ___
 - [ ] Consider writing up a wiki as part of my #100DaysOfCode progress tracking - a "what I've learned so far" journey tracker sorta deal
   - [ ] For example: deciding on an ESLint config
     - [ ] Going through rules that open source projects use
+- [ ] Review all FCC JavaScript basics
+  - [ ] Create supplementary materials for each module in this project
+    - [ ] Additional problems or examples
+    - [ ] Explanations
+    - [ ] Links to resources and docs
+- [ ] Start learning TypeScript (Max Schwarz React + TS module)
 
 #### Get hired and stuff
 - [ ] Resume
@@ -2038,7 +2038,7 @@ ___
 Not much to report on from today. Just plugging along and trying to get a little better every day.
 
 **Link(s) to work:** 
-- [TBD]()
+- [Testing Issue](https://github.com/alexownejazayeri/code-le/issues/11)
 
 **Link to Tweet:** [@alexjazayeri d58](https://twitter.com/alexjazayeri/status/1519528865361657857?s=20&t=wMIQfdI-PGRb7Uln5M_yZA)
 
@@ -2049,7 +2049,84 @@ Not much to report on from today. Just plugging along and trying to get a little
 - [x] update journal - important! share feelings 🌈
 - [x] push work to github
 - [x] post to
+  - [x] twitter using #100DaysOfCode (w/ link to repo or commit)
+  - [x] fcc discord
+  - [-] linkedin in (starts day 60)
+- [x] engaged with ≥2 challengers
+
+___
+
+## Day 59: 29 April 2022
+
+### Daily Log
+
+**\[OFFER\]**
+
+- [x] Look into GitHub Projects (beta) and set one up for my personal account
+- [x] Research wikis and decide on whether to pick this up now or later
+
+**\[MERNG\]**
+
+- [ ] Tick code-le [Testing Issue](https://github.com/alexownejazayeri/code-le/issues/11)
+
+**\[FUJSK\]**
+
+- [ ] Review all FCC JavaScript basics
+  - [ ] Create supplementary materials for each module in this project
+    - [ ] Additional problems or examples
+    - [ ] Explanations
+    - [ ] Links to resources and docs
+- [ ] Spend 15 minutes researching open source ESLint config rules: [netlify/eslint-config-node](https://github.com/netlify/eslint-config-node/blob/main/.eslintrc.cjs)
+  - [ ] Ended on: {update when done}
+
+**\[LTSFD\]**
+
+
+**\[B30WP\]**
+
+#### Learn and do things and stuff
+
+- [ ] Complete Leetcode's intro problems [here](https://leetcode.com/problem-list/challenges-for-new-users/)
+- [ ] Research Agile 101 and Alpha/Beta testing + SemVer for releases
+
+#### Get hired and stuff
+- [ ] Resume
+  - [ ] Check resume against the module in the TIH
+  - [ ] A/B test
+    - [ ] The version Ujjwal and I worked on
+    - [ ] The version that comes out of the module above
+- [ ] Applications
+  - [ ] Apply to 5 frontend || fullstack dev jobs
+- [ ] Upgrade LinkedIn and start expanding network.
+  - [ ] Connect with software engineers at the companies I'd eventually like to work at
+    - [ ] Asana
+    - [ ] Notion
+    - [ ] Substack
+  - [ ] Connect with 2nd Degree Recruiters on LinkedIn
+
+### Journal
+
+I feel like I'm finally in it. Had a moment today when I realized everything I see on Twitter, LinkedIn, and YouTube is related to programming. I'm immersed!
+
+Worked on consolidating knowledge and practicing JavaScript skills from reviewing the basics w/ var, let, const and simple functions to writing up a comprehensive test suite and setting up project management tools with GitHub Issues and Projects (beta).
+
+I can tell I still have a ton to learn...and always will if I continue down this path. That said, I'm here for it and enjoying the journey now. I was rushing because I'd set some arbitrary expectation that I'd get hired after only a few referral-based interviews, but the reality is that I wasn't ready and that's what this whole challenge is about. Preparing, experimenting, gathering results, optimizing and repeating until I'm hireable.
+
+I also applied to a job today, which I'd really slowed down on in the last week. I'm excited to tackle my TypeScript goals this weekend and hope to keep growing.
+
+**Link(s) to work:** 
+- [TBD]()
+
+**Link to Tweet:** [@alexjazayeri d59]()
+
+### Daily Commitments
+
+- [ ] hacked on projects for ≥1hr 👾
+- [ ] update daily log 
+- [ ] update journal - important! share feelings 🌈
+- [ ] push work to github
+- [ ] post to
   - [ ] twitter using #100DaysOfCode (w/ link to repo or commit)
   - [ ] fcc discord
   - [ ] linkedin in (starts day 60)
-- [x] engaged with ≥2 challengers
+- [ ] engaged with ≥2 challengers
