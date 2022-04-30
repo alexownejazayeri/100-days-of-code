@@ -64,6 +64,7 @@ gameSaveHandler
 - [JavaScript testing best practices](https://github.com/goldbergyoni/javascript-testing-best-practices#section-0%EF%B8%8F%E2%83%A3-the-golden-rule)
 - [Jest tutorial for beginners](https://www.valentinog.com/blog/jest/)
 - [HTML Roles List](https://www.w3.org/TR/html-aria/#docconformance)
+- [The Primagen Talks Unit Testing](https://youtu.be/pvBHyip4peo)
 
 ## Read later
 - [8 Factors Influencing Your Approach to Code Coverage](https://about.codecov.io/blog/8-factors-influencing-your-approach-to-code-coverage/)
@@ -71,3 +72,4 @@ gameSaveHandler
 - [When to Unit Test your React App](https://bonniedotdev.medium.com/when-to-unit-test-your-react-app-f5b211eb41c9)
 - [Testing Functions within Functional React Components](https://medium.com/nerd-for-tech/testing-functions-within-functional-react-components-fd2dc125f47c)
 - [React component testing with Jest and React Testing Library](https://jdlt.co.uk/blog/testing-react-components-with-jest-and-react-testing-library/)
+- [Test-Driven Development w/ Fireship](https://www.youtube.com/watch?v=Jv2uxzhPFl4)

@@ -1669,9 +1669,6 @@ ___
 
 - [x] Follow up on Ujjwal's 2nd round of resume iterations and start another round of applications
   - [x] Add dates to work experience / project section
-- [x] Coping with rejection ("apply emotional first aid")
-  - [x] Make a list of 5 qualities/attributes that you (actually) believe are valuable in whatever the domain is
-  - [x] Write a brief essay (1-2 paragraphs) about these list items; elaborate on its importance
 
 **\[MERNG\]**
 
@@ -1751,10 +1748,308 @@ Less than two months to get 3 MERNG projects, a job, 30 web pages, and a working
 
 - [x] hacked on projects for ≥1hr 👾
 - [x] update daily log 
-- [ ] update journal - important! share feelings 🌈
-- [ ] push work to github
-- [ ] post to
+- [x] update journal - important! share feelings 🌈
+- [x] push work to github
+- [-] post to
   - [ ] twitter using #100DaysOfCode (w/ link to repo or commit)
   - [ ] fcc discord
   - [ ] linkedin in (starts day 30)
-- [ ] engaged with ≥2 challengers
+- [-] engaged with ≥2 challengers
+
+
+___
+
+## Day 55: 25 April 2022
+
+### Daily Log
+
+**\[OFFER\]**
+
+- [x] Coping with rejection ("apply emotional first aid")
+  - [x] Make a list of 5 qualities/attributes that you (actually) believe are valuable in whatever the domain is
+  - [x] Write a brief essay (1-2 paragraphs) about these list items; elaborate on its importance
+
+**\[MERNG\]**
+
+- [x] Write tests for code-le
+  - [x] Research unit, integration
+    - [x] Go through Udemy module
+    - [x] Watch Traversy tutorial
+    - [x] Take notes on both
+  - [x] Implement basic testing in code-le
+- [x] Handle Dependabot security alerts
+- [x] Set up a security policy
+- [x] Set up code scanning alerts (CodeQL)
+
+**\[FUJSK\]**
+
+
+**\[LTSFD\]**
+
+
+**\[B30WP\]**
+
+
+Up next:
+- [ ] Resume
+  - [ ] Check resume against the module in the TIH
+  - [ ] A/B test
+    - [ ] The version Ujjwal and I worked on
+    - [ ] The version that comes out of the module above
+- [ ] Review all FCC JavaScript basics
+  - [ ] Create supplementary materials for each module in this project
+    - [ ] Additional problems or examples
+    - [ ] Explanations
+    - [ ] Links to resources and docs
+- [ ] Complete Leetcode's intro problems [here](https://leetcode.com/problem-list/challenges-for-new-users/)
+- [ ] Start learning TypeScript (spend ≥15m in the docs)
+- [ ] Code up 5/30 pages for Computer Scientists in the FCC playing card deck
+- [ ] Look into GitHub Projects (beta) and set one up for CODE-LE
+  - [ ] Research Agile 101 and Alpha/Beta testing
+- [ ] Consider writing up a wiki as part of my #100DaysOfCode progress tracking - a "what I've learned so far" journey tracker sorta deal
+- [ ] Learn more about Firebase hosting and staging url options
+- [ ] Get familiar with other Firebase features (BaaS; DB options)
+  - [ ] Add Google Analytics to track usage and data
+- [ ] Upgrade LinkedIn and start expanding network.
+  - [ ] Connect with software engineers at the companies I've applied to
+    - [ ] Asana
+    - [ ] Notion
+    - [ ] Substack
+    - [ ] Causal
+    - [ ] Neeva
+    - [ ] Waabi Innovation, Inc.
+  - [ ] Connect with 18 2nd Degree Recruiters on LinkedIn
+
+### Journal
+
+
+
+**Link(s) to work:** 
+- [none]()
+
+**Link to Tweet:** [@alexjazayeri d54]()
+
+### Daily Commitments
+
+- [x] hacked on projects for ≥1hr 👾
+- [x] update daily log 
+- [x] update journal - important! share feelings 🌈
+- [x] push work to github
+- [x] post to
+  - [x] twitter using #100DaysOfCode (w/ link to repo or commit)
+  - [x] fcc discord
+  - [ ] linkedin in (starts day 60)
+- [x] engaged with ≥2 challengers
+
+___
+
+## Day 56: 26 April 2022
+
+### Daily Log
+
+**\[OFFER\]**
+
+
+**\[MERNG\]**
+- [x] Set up static testing tools
+  - [x] prettier
+  - [x] eslint 
+
+**\[FUJSK\]**
+
+
+**\[LTSFD\]**
+
+
+**\[B30WP\]**
+
+
+
+Up next:
+
+- [ ] Complete Leetcode's intro problems [here](https://leetcode.com/problem-list/challenges-for-new-users/)
+- [ ] Code up 5/30 pages for Computer Scientists in the FCC playing card deck
+- [ ] Look into GitHub Projects (beta) and set one up for CODE-LE
+  - [ ] Research Agile 101 and Alpha/Beta testing
+- [ ] Consider writing up a wiki as part of my #100DaysOfCode progress tracking - a "what I've learned so far" journey tracker sorta deal
+- [ ] Upgrade LinkedIn and start expanding network.
+  - [ ] Connect with software engineers at the companies I'd eventually like to work at
+    - [ ] Asana
+    - [ ] Notion
+    - [ ] Substack
+  - [ ] Connect with 18 2nd Degree Recruiters on LinkedIn
+
+### Journal
+
+This was a long process and there's still so much configuration to do. I'm learning that testing, while it's worthwhile and rewarding to understand, is taking a lot longer than I had planned. It's a force to be reckoned with, not a thing you pick up in a weekend of hacking.
+
+As far as my ~feels~ I'm doing a lot better than I was last week. I think it finally happened; I feel like a dev. Something about writing code that manages your code so you can code faster makes you confront that you're "in it". And all of this after a few months.
+
+I feel good about progress and better about spending so much time on implementing CI/CD in code-le. Worth it to go beyond a browser-based IDE solving one-off JS problems and digging into how code sorta gets built in a more "real-world" setting. Also seems like you learn once and then manage configs unless there's some big update to how things get done. Anyway, I'm excited to kick off another project, but feel good about spending this time on code-le, because I can start off so much stronger for the next portfolio sprint. 
+
+**Link(s) to work:** 
+- [Prettier & ESLint Code-le Implementation - Issue 15](https://github.com/alexownejazayeri/code-le/issues/15)
+
+**Link to Tweet:** [@alexjazayeri d56](https://twitter.com/alexjazayeri/status/1519187210309804032?s=20&t=cGM506_0gsyOjvvu5R3aIQ)
+
+### Daily Commitments
+
+- [x] hacked on projects for ≥1hr 👾
+- [x] update daily log 
+- [x] update journal - important! share feelings 🌈
+- [x] push work to github
+- [x] post to
+  - [x] twitter using #100DaysOfCode (w/ link to repo or commit)
+  - [x] fcc discord
+  - [x] linkedin in (starts day 60)
+- [x] engaged with ≥2 challengers
+
+___
+
+## Day 57: 27 April 2022
+
+### Daily Log
+
+**\[OFFER\]**
+
+
+**\[MERNG\]**
+
+- [x] Tests
+    - [x] Set up codecov (if free / easyish + 100% coverage can be a misleading goal, so take it with a grain of salt)
+    - Decided to stick to using the `--coverage` flag in react test (needed --watchAll=false to work)
+  - [x] Unit
+    - [x] Review notes and set up a few rendering tests to see if the thing paints to the screen or nah 
+  - [x] Integration
+    - [x] Review notes
+  - [x] e2e
+    - [x] Research Cypress
+
+**\[FUJSK\]**
+
+- [x] Spend 30 minutes learning and practicing open source ESLint config rules: [netlify/eslint-config-node](https://github.com/netlify/eslint-config-node/blob/main/.eslintrc.cjs)
+  - [x] Ended on: block-scoped-var
+
+**\[LTSFD\]**
+
+
+**\[B30WP\]**
+
+
+
+Up next:
+- [ ] Write an e2e test for:
+      - [ ] Playing the game to a win && lose state, copying stats successfully, exiting the stats modal, and hitting new game
+- [ ] Start converting code-le to TS using learnings
+- [ ] Complete Leetcode's intro problems [here](https://leetcode.com/problem-list/challenges-for-new-users/)
+- [ ] Code up pages for Computer Scientists in the FCC playing card deck
+- [ ] Look into GitHub Projects (beta) and set one up for CODE-LE
+  - [ ] Research Agile 101 and Alpha/Beta testing
+- [ ] Consider writing up a wiki as part of my #100DaysOfCode progress tracking - a "what I've learned so far" journey tracker sorta deal
+  - [ ] For example: deciding on an ESLint config
+    - [ ] Going through rules that open source projects use
+- [ ] Upgrade LinkedIn and start expanding network.
+  - [ ] Connect with software engineers at the companies I'd eventually like to work at
+    - [ ] Asana
+    - [ ] Notion
+    - [ ] Substack
+  - [ ] Connect with 2nd Degree Recruiters on LinkedIn
+
+### Journal
+
+Not much to report on from today. Just plugging along and trying to get a little better every day.
+
+**Link(s) to work:** 
+- [See: test files in code-le]()
+
+**Link to Tweet:** [@alexjazayeri d57](https://twitter.com/alexjazayeri/status/1519528865361657857?s=20&t=wMIQfdI-PGRb7Uln5M_yZA)
+
+### Daily Commitments
+
+- [x] hacked on projects for ≥1hr 👾
+- [x] update daily log 
+- [x] update journal - important! share feelings 🌈
+- [x] push work to github
+- [x] post to
+  - [x] twitter using #100DaysOfCode (w/ link to repo or commit)
+  - [x] fcc discord
+  - [ ] linkedin in (starts day 60)
+- [x] engaged with ≥2 challengers
+
+___
+
+## Day 58: 28 April 2022
+
+### Daily Log
+
+**\[OFFER\]**
+
+
+**\[MERNG\]**
+
+- [ ] [Tick Testing Issue](https://github.com/alexownejazayeri/code-le/issues/11)
+
+**\[FUJSK\]**
+
+- [x] Spend 15 minutes researching open source ESLint config rules: [netlify/eslint-config-node](https://github.com/netlify/eslint-config-node/blob/main/.eslintrc.cjs)
+  - [x] Ended on: block-scoped-var
+- [ ] Review all FCC JavaScript basics
+  - [ ] Create supplementary materials for each module in this project
+    - [ ] Additional problems or examples
+    - [ ] Explanations
+    - [ ] Links to resources and docs
+
+**\[LTSFD\]**
+
+- [ ] Start learning TypeScript (Max Schwarz React + TS module)
+
+**\[B30WP\]**
+
+#### Learn and do things and stuff
+- [ ] Start converting code-le to TS using learnings
+- [ ] Complete Leetcode's intro problems [here](https://leetcode.com/problem-list/challenges-for-new-users/)
+- [ ] Code up pages for Computer Scientists in the FCC playing card deck
+- [ ] Look into GitHub Projects (beta) and set one up for my personal account
+  - [ ] Research Agile 101 and Alpha/Beta testing + SemVer for releases
+- [ ] Consider writing up a wiki as part of my #100DaysOfCode progress tracking - a "what I've learned so far" journey tracker sorta deal
+  - [ ] For example: deciding on an ESLint config
+    - [ ] Going through rules that open source projects use
+
+#### Get hired and stuff
+- [ ] Resume
+  - [ ] Check resume against the module in the TIH
+  - [ ] A/B test
+    - [ ] The version Ujjwal and I worked on
+    - [ ] The version that comes out of the module above
+- [ ] Applications
+  - [ ] Apply to 5 frontend || fullstack dev jobs
+- [ ] Upgrade LinkedIn and start expanding network.
+  - [ ] Connect with software engineers at the companies I'd eventually like to work at
+    - [ ] Asana
+    - [ ] Notion
+    - [ ] Substack
+  - [ ] Connect with 2nd Degree Recruiters on LinkedIn
+- [ ] Learn more about Firebase hosting and staging url options
+- [ ] Get familiar with other Firebase features (BaaS; DB options)
+  - [ ] Add Google Analytics to track usage and data
+
+### Journal
+
+Not much to report on from today. Just plugging along and trying to get a little better every day.
+
+**Link(s) to work:** 
+- [TBD]()
+
+**Link to Tweet:** [@alexjazayeri d58](https://twitter.com/alexjazayeri/status/1519528865361657857?s=20&t=wMIQfdI-PGRb7Uln5M_yZA)
+
+### Daily Commitments
+
+- [x] hacked on projects for ≥1hr 👾
+- [x] update daily log 
+- [x] update journal - important! share feelings 🌈
+- [x] push work to github
+- [x] post to
+  - [ ] twitter using #100DaysOfCode (w/ link to repo or commit)
+  - [ ] fcc discord
+  - [ ] linkedin in (starts day 60)
+- [x] engaged with ≥2 challengers
