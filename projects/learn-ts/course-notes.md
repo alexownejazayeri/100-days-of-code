@@ -85,3 +85,46 @@ function Todo(props: { tasks: string[], children }) {
 
 ## Adding a data model
 
+### Consider how complicated our To-do object might get
+
+- unique to-do id
+- todo text
+- title
+- subtitle
+- author
+- time created
+- active or not active
+
+### Refining our types
+
+- Can create data models
+
+```
+// Store your models in a folder
+
+| my-react-ts-app
+| |- src
+| | |- components
+| | | |- Todos.tsx
+| | |- models
+| | | |- todos.ts
+```
+
+- Notice the models file is has a `.ts` extension
+- It's not a component, so don't use `.tsx`
+- In this file, we create a todo type to describe the shape of our data
+
+### Three ways to create a type
+1. `type` keyword
+2. `interface` keyword
+3. `class` keyword
+   1. We use this one in the course example
+   2. See: todos.ts for the work
+
+### The benefits of using a class
+
+- Can instantiate the class an object
+- Can also use the class name as a type
+  - See: Todos.tsx
+- TypeScript will know the types of the object from the class definition!
+- We're making it much harder to misues our components and data -- if we pass the incorrect todos, we get an error that prevents us from breaking our object shape etc.
