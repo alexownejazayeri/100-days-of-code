@@ -2140,21 +2140,19 @@ ___
 
 ### Lost this entry in a git mishap, oops.
 
+___
+
 ## Day 61 - 62: 1 - 2 May 2022
 
 ### Daily Log
 
 **\[OFFER\]**
-
 - [x] Look into GitHub Projects (beta) and set one up for my personal account
 
 **\[MERNG\]**
-
 - [-] Tick code-le [Testing Issue](https://github.com/alexownejazayeri/code-le/issues/11)
-  - Still tons to do. Will address tomorrow.
 
 **\[FUJSK\]**
-
 - [-] Review all FCC JavaScript basics
   - [x] Reviewed through 'golf code' challenge -- finishing the rest tomorrow
 - [-] Spend 15 minutes researching open source ESLint config rules: [netlify/eslint-config-node](https://github.com/netlify/eslint-config-node/blob/main/.eslintrc.cjs)
@@ -2162,8 +2160,8 @@ ___
 
 **\[LTSFD\]**
 
-- [ ] [Finish React + TS module](https://github.com/alexownejazayeri/100-days-of-code/issues/4)
-- [ ] [Convert code-le to TS](https://github.com/alexownejazayeri/code-le/issues/16)
+- [x] [Finish React + TS module](https://github.com/alexownejazayeri/100-days-of-code/issues/4)
+- [-] [Convert code-le to TS](https://github.com/alexownejazayeri/code-le/issues/16)
 
 **\[B30WP\]**
 
@@ -2200,12 +2198,12 @@ ___
 
 ### Daily Commitments
 
-- [ ] hacked on projects for ≥1hr 👾
-- [ ] update daily log 
-- [ ] update journal - important! share feelings 🌈
-- [ ] push work to github
-- [ ] post to
-  - [ ] twitter using #100DaysOfCode (w/ link to repo or commit)
-  - [ ] fcc discord
-  - [ ] linkedin in (starts day 60)
-- [ ] engaged with ≥2 challengers
+- [x] hacked on projects for ≥1hr 👾
+- [x] update daily log 
+- [x] update journal - important! share feelings 🌈
+- [x] push work to github
+- [x] post to
+  - [x] twitter using #100DaysOfCode (w/ link to repo or commit)
+  - [x] fcc discord
+  - [-] linkedin in (starts day 60)
+- [x] engaged with ≥2 challengers

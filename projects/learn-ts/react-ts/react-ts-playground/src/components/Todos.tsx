@@ -1,10 +1,20 @@
-import React from 'react';
+import React, {useContext} from 'react';
+import TodoItem from './TodoItem';
+import { TodosContext } from '../store/todos-context';
+import classes from './Todos.module.css';
 
-const Todos: React.FC<{items: string[]}> = (props) => {
+//==== Using props + TS ======
+// A functional component can be converted into a 'Generic Function'
+// This means in the end it will be clear it's a React component function
+// and that we can define our own custom props to 
+
+const Todos: React.FC = () => {
+    const todosCtx = useContext(TodosContext);
+
     return (
-        <ul>
-            {props.items.map((item) => (
-                <li key={item}>{item}</li>
+        <ul className={classes.todos} >
+            {todosCtx.items.map((item) => (
+                <TodoItem key={item.id} onRemoveTodo={todosCtx.removeTodo.bind(null, item.id)} text={item.text} />
             ))}
         </ul>
     );
