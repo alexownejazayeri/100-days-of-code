@@ -55,3 +55,44 @@ let people: {
     name: string;
     age: number;
 }[];
+
+//======= Type Aliases ================
+
+// Type alias - helps reduce repetition in code
+// Define your own base type in which a more complex type definition is stored and repeat it
+
+// Define a type alias with the 'type' keyword followed by your new type name
+// `=` isn't a js assignment operator, it's a TS type defintion assignment 
+type DunderMifflenite = {
+    name: string;
+    age: number;
+}
+
+// Instead of repeating the object type, use the alias now!
+
+let dwight: DunderMifflenite;
+
+dwight = {
+    name: 'dwight schrute',
+    age: 34,
+}
+
+let michael: DunderMifflenite;
+
+michael = {
+    name: 'michael scott',
+    age: 40,
+}
+
+let otherTeamMembers: DunderMifflenite[];
+
+otherTeamMembers = [
+    {
+        name: 'pam beasley',
+        age: 27,
+    },
+    {
+        name: 'creed ???',
+        age: 54,
+    }
+]
