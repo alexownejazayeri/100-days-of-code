@@ -2138,33 +2138,45 @@ ___
 
 ## Day 60: 30 April 2022
 
+### Lost this entry in a git mishap, oops.
+
+## Day 61 - 62: 1 - 2 May 2022
+
 ### Daily Log
 
 **\[OFFER\]**
 
-
+- [x] Look into GitHub Projects (beta) and set one up for my personal account
 
 **\[MERNG\]**
 
-
+- [-] Tick code-le [Testing Issue](https://github.com/alexownejazayeri/code-le/issues/11)
+  - Still tons to do. Will address tomorrow.
 
 **\[FUJSK\]**
 
-- [ ] Review rest of FCC JavaScript basics
-- [ ] Spend 15 minutes researching open source ESLint config rules: [netlify/eslint-config-node](https://github.com/netlify/eslint-config-node/blob/main/.eslintrc.cjs)
-  - [ ] Ended on: {no updated}
+- [-] Review all FCC JavaScript basics
+  - [x] Reviewed through 'golf code' challenge -- finishing the rest tomorrow
+- [-] Spend 15 minutes researching open source ESLint config rules: [netlify/eslint-config-node](https://github.com/netlify/eslint-config-node/blob/main/.eslintrc.cjs)
+  - [-] Ended on: {no updated}
 
 **\[LTSFD\]**
 
+- [ ] [Finish React + TS module](https://github.com/alexownejazayeri/100-days-of-code/issues/4)
+- [ ] [Convert code-le to TS](https://github.com/alexownejazayeri/code-le/issues/16)
 
 **\[B30WP\]**
 
 #### Learn and do things and stuff
 
 - [ ] Complete Leetcode's intro problems [here](https://leetcode.com/problem-list/challenges-for-new-users/)
+- [ ] Code up pages for Computer Scientists in the FCC playing card deck
+- [ ] Consider writing up a wiki as part of my #100DaysOfCode progress tracking - a "what I've learned so far" journey tracker sorta deal
+  - [ ] For example: deciding on an ESLint config
+    - [ ] Going through rules that open source projects use
 
+#### Get more hireable
 
-#### Get hired and stuff
 - [ ] Resume
   - [ ] Check resume against the module in the TIH
   - [ ] A/B test
@@ -2181,12 +2193,10 @@ ___
 
 ### Journal
 
-Write those feels; tell it straight...
 
 **Link(s) to work:** 
-- [TBD]()
 
-**Link to Tweet:** [@alexjazayeri d60]()
+**Link to Tweet:** [@alexjazayeri d61-62](https://twitter.com/alexjazayeri/status/1521339924078759936?s=20&t=SzWeKzzMsKEidQX0yAjpGw)
 
 ### Daily Commitments
 
