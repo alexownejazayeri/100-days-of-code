@@ -2150,20 +2150,16 @@ ___
 - [x] Look into GitHub Projects (beta) and set one up for my personal account
 
 **\[MERNG\]**
-- [-] Tick code-le [Testing Issue](https://github.com/alexownejazayeri/code-le/issues/11)
 
 **\[FUJSK\]**
-- [-] Review all FCC JavaScript basics
-  - [x] Reviewed through 'golf code' challenge -- finishing the rest tomorrow
-- [-] Spend 15 minutes researching open source ESLint config rules: [netlify/eslint-config-node](https://github.com/netlify/eslint-config-node/blob/main/.eslintrc.cjs)
-  - [-] Ended on: {no updated}
+- [x] Review all FCC JS ES6 content
 
 **\[LTSFD\]**
-
 - [x] [Finish React + TS module](https://github.com/alexownejazayeri/100-days-of-code/issues/4)
-- [-] [Convert code-le to TS](https://github.com/alexownejazayeri/code-le/issues/16)
+
 
 **\[B30WP\]**
+
 
 #### Learn and do things and stuff
 
@@ -2207,3 +2203,67 @@ ___
   - [x] fcc discord
   - [-] linkedin in (starts day 60)
 - [x] engaged with ≥2 challengers
+
+## Day 63 - 65: 3 - 5 May 2022
+
+### Daily Log
+
+**\[OFFER\]**
+
+
+**\[MERNG\]**
+- [ ] Tick code-le [Testing Issue](https://github.com/alexownejazayeri/code-le/issues/11)
+- [ ] [Convert code-le to TS](https://github.com/alexownejazayeri/code-le/issues/16)
+
+**\[FUJSK\]**
+- [x] Review 'Basic Data Structures'
+- [x] Review 'Basic Algorithm Scripting'
+
+**\[LTSFD\]**
+- [ ] [Plan Out & Start JS Course]()
+
+**\[B30WP\]**
+- [ ] 
+
+#### Learn and do things and stuff
+
+- [ ] Complete Leetcode's intro problems [here](https://leetcode.com/problem-list/challenges-for-new-users/)
+- [ ] Code up pages for Computer Scientists in the FCC playing card deck
+- [ ] Consider writing up a wiki as part of my #100DaysOfCode progress tracking - a "what I've learned so far" journey tracker sorta deal
+  - [ ] For example: deciding on an ESLint config
+    - [ ] Going through rules that open source projects use
+
+#### Get more hireable
+
+- [ ] Resumé
+  - [ ] Check resume against the module in the TIH
+  - [ ] A/B test
+    - [ ] The version Ujjwal and I worked on
+    - [ ] The version that comes out of the module above
+- [ ] Applications
+  - [ ] Apply to 5 frontend || fullstack dev jobs
+- [ ] Upgrade LinkedIn and start expanding network.
+  - [ ] Connect with software engineers at the companies I'd eventually like to work at
+    - [ ] Asana
+    - [ ] Notion
+    - [ ] Substack
+  - [ ] Connect with 2nd Degree Recruiters on LinkedIn
+
+### Journal
+
+
+**Link(s) to work:** 
+
+**Link to Tweet:** [@alexjazayeri d63-65]()
+
+### Daily Commitments
+
+- [ ] hacked on projects for ≥1hr 👾
+- [ ] update daily log 
+- [ ] update journal - important! share feelings 🌈
+- [ ] push work to github
+- [ ] post to
+  - [ ] twitter using #100DaysOfCode (w/ link to repo or commit)
+  - [ ] fcc discord
+  - [ ] linkedin in (starts day 60)
+- [ ] engaged with ≥2 challengers
