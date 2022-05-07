@@ -2213,6 +2213,18 @@ ___
 
 **\[MERNG\]**
 - [ ] Tick code-le [Testing Issue](https://github.com/alexownejazayeri/code-le/issues/11)
+  - [x] Module function tests
+    - [x] `getRandomVocab`
+    - [x] `statusHandler`
+    - [x] `constructMatrix`
+    - [x] `evaluateMatrix`
+    - [x] `handlePlayerData`
+    - [x] `gameSaveHandler`
+  - [ ] Gameplay s/f cases for state changes
+    - [ ] `newGameHandler`
+    - [ ] Filling a tile row
+    - [ ] Backspace (key or click)
+    - [ ] Enter (key or click)
 - [ ] [Convert code-le to TS](https://github.com/alexownejazayeri/code-le/issues/16)
 
 **\[FUJSK\]**
@@ -2220,13 +2232,15 @@ ___
 - [x] Review 'Basic Algorithm Scripting'
 
 **\[LTSFD\]**
-- [ ] [Plan Out & Start JS Course]()
+- [x] [Plan Out & Start TS Course](https://www.udemy.com/course/understanding-typescript/learn/lecture/17751414?start=15#overview)
 
 **\[B30WP\]**
 - [ ] 
 
 #### Learn and do things and stuff
 
+- [ ] Learn monorepos
+- [ ] Do the code thing with Jose
 - [ ] Complete Leetcode's intro problems [here](https://leetcode.com/problem-list/challenges-for-new-users/)
 - [ ] Code up pages for Computer Scientists in the FCC playing card deck
 - [ ] Consider writing up a wiki as part of my #100DaysOfCode progress tracking - a "what I've learned so far" journey tracker sorta deal
@@ -2243,18 +2257,22 @@ ___
 - [ ] Applications
   - [ ] Apply to 5 frontend || fullstack dev jobs
 - [ ] Upgrade LinkedIn and start expanding network.
+  - [ ] Connect with 2nd Degree Recruiters on LinkedIn
+  - [ ] Make a list of companies I'd want to work at
   - [ ] Connect with software engineers at the companies I'd eventually like to work at
     - [ ] Asana
     - [ ] Notion
     - [ ] Substack
-  - [ ] Connect with 2nd Degree Recruiters on LinkedIn
 
 ### Journal
 
 
 **Link(s) to work:** 
+- [TBD]()
+- [TBD]()
 
-**Link to Tweet:** [@alexjazayeri d63-65]()
+**Link to Tweet:** 
+[@alexjazayeri d63-65]()
 
 ### Daily Commitments
 
