@@ -2204,7 +2204,9 @@ ___
   - [-] linkedin in (starts day 60)
 - [x] engaged with ≥2 challengers
 
-## Day 63 - 65: 3 - 5 May 2022
+___
+
+## Day 63 - 66: 3 - 6 May 2022
 
 ### Daily Log
 
@@ -2212,7 +2214,7 @@ ___
 
 
 **\[MERNG\]**
-- [ ] Tick code-le [Testing Issue](https://github.com/alexownejazayeri/code-le/issues/11)
+- [x] Tick code-le [Testing Issue](https://github.com/alexownejazayeri/code-le/issues/11)
   - [x] Module function tests
     - [x] `getRandomVocab`
     - [x] `statusHandler`
@@ -2220,11 +2222,11 @@ ___
     - [x] `evaluateMatrix`
     - [x] `handlePlayerData`
     - [x] `gameSaveHandler`
-  - [ ] Gameplay s/f cases for state changes
-    - [ ] `newGameHandler`
-    - [ ] Filling a tile row
-    - [ ] Backspace (key or click)
-    - [ ] Enter (key or click)
+  - [x] Gameplay s/f cases for state changes
+    - [x] `newGameHandler`
+    - [x] Filling a tile row
+    - [x] Backspace (key or click)
+    - [x] Enter (key or click)
 - [ ] [Convert code-le to TS](https://github.com/alexownejazayeri/code-le/issues/16)
 
 **\[FUJSK\]**
@@ -2266,13 +2268,90 @@ ___
 
 ### Journal
 
+I've felt alright the last few days. I think I've just come to the realization that, while I've learned so much, I still want to accomplish so much during this challenge. At first, I felt a need to rush, but then I just felt focused.
+
+There's not a lot of time, so I'm going to keep these journals a bit lighter than usual. Feeling fine, but hoping that adding structured learning and portfolio sprints will help make up enough ground with the remaining time.
+
+**Link(s) to work:** 
+- [Testing Issue](https://github.com/alexownejazayeri/code-le/issues/11)
+- [TS Course Project](https://github.com/users/alexownejazayeri/projects/3)
+
+**Link to Tweet:** 
+[@alexjazayeri d63-66](https://twitter.com/alexjazayeri/status/1523019760232853504?s=20&t=oFGZFUFNl278JSdV7VkbVQ)
+
+### Daily Commitments
+
+- [x] hacked on projects for ≥1hr 👾
+- [x] update daily log 
+- [x] update journal - important! share feelings 🌈
+- [x] push work to github
+- [x] post to
+  - [x] twitter using #100DaysOfCode (w/ link to repo or commit)
+  - [x] fcc discord
+  - [-] linkedin in (starts day 60)
+- [x] engaged with ≥2 challengers
+
+___
+
+## Day 67: 7 May 2022
+
+### Daily Log
+
+**\[OFFER\]**
+
+
+**\[MERNG\]**
+
+- [ ] [Convert code-le to TS](https://github.com/alexownejazayeri/code-le/issues/16)
+  - Only use knowledge from React course for this to apply current knowledge
+  - Can come back later and Google things obv, but use as a way to solidify what just learned before binge-learning from the module
+
+**\[FUJSK\]**
+- [x] [Review FCC OOP Module](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/#object-oriented-programming)
+- [ ] [Review FCC FP Module](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/#functional-programming)
+
+**\[LTSFD\]**
+- [ ] [Binge Learn TypeScript](https://www.udemy.com/course/understanding-typescript/learn/lecture/17751414?start=15#overview)
+
+**\[B30WP\]**
+
+
+#### Learn and do things and stuff
+
+- [ ] Learn monorepos
+- [ ] Do the code thing with Jose
+- [ ] Complete Leetcode's intro problems [here](https://leetcode.com/problem-list/challenges-for-new-users/)
+- [ ] Code up pages for Computer Scientists in the FCC playing card deck
+- [ ] Consider writing up a wiki as part of my #100DaysOfCode progress tracking - a "what I've learned so far" journey tracker sorta deal
+  - [ ] For example: deciding on an ESLint config
+    - [ ] Going through rules that open source projects use
+
+#### Get more hireable
+
+- [ ] Resumé
+  - [ ] Check resume against the module in the TIH
+  - [ ] A/B test
+    - [ ] The version Ujjwal and I worked on
+    - [ ] The version that comes out of the module above
+- [ ] Applications
+  - [ ] Apply to 5 frontend || fullstack dev jobs
+- [ ] Upgrade LinkedIn and start expanding network.
+  - [ ] Connect with 2nd Degree Recruiters on LinkedIn
+  - [ ] Make a list of companies I'd want to work at
+  - [ ] Connect with software engineers at the companies I'd eventually like to work at
+    - [ ] Asana
+    - [ ] Notion
+    - [ ] Substack
+
+### Journal
+
 
 **Link(s) to work:** 
 - [TBD]()
-- [TBD]()
+
 
 **Link to Tweet:** 
-[@alexjazayeri d63-65]()
+[@alexjazayeri d67]()
 
 ### Daily Commitments
 
