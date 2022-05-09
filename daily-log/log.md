@@ -2302,13 +2302,93 @@ ___
 
 **\[MERNG\]**
 
+**\[FUJSK\]**
+- [x] [Review FCC OOP Module](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/#object-oriented-programming)
+
+**\[LTSFD\]**
+
+
+**\[B30WP\]**
+
+
+#### Learn and do things and stuff
+
+- [ ] Learn monorepos
+- [ ] Do the code thing with Jose
+- [ ] Complete Leetcode's intro problems [here](https://leetcode.com/problem-list/challenges-for-new-users/)
+- [ ] Code up pages for Computer Scientists in the FCC playing card deck
+- [ ] Consider writing up a wiki as part of my #100DaysOfCode progress tracking - a "what I've learned so far" journey tracker sorta deal
+  - [ ] For example: deciding on an ESLint config
+    - [ ] Going through rules that open source projects use
+
+#### Get more hireable
+
+- [ ] Resumé
+  - [ ] Check resume against the module in the TIH
+  - [ ] A/B test
+    - [ ] The version Ujjwal and I worked on
+    - [ ] The version that comes out of the module above
+- [ ] Applications
+  - [ ] Apply to 5 frontend || fullstack dev jobs
+- [ ] Upgrade LinkedIn and start expanding network.
+  - [ ] Connect with 2nd Degree Recruiters on LinkedIn
+  - [ ] Make a list of companies I'd want to work at
+  - [ ] Connect with software engineers at the companies I'd eventually like to work at
+    - [ ] Asana
+    - [ ] Notion
+    - [ ] Substack
+
+### Journal
+
+Today I had a tough time focusing because I haven't been feeling too great. That said, I've been tracking my resilience both in and out of the challenge -- the challenge is helping me. When I first started this challenge, I was worried that -- while I started it with good intentions and a pure joy for solving problems -- I may have been naive about what this job would be like.
+
+But with every new problem, thing to learn, idea to plan, and hour spent in this challenge I feel more and more confident that this is what I want to do as a career.
+
+Nothing quite brings together problem solving, visual art, business, science, and technology together this way. It sometimes feels as if this shouldn't be a job; that I'm waking up a playing a video game that could one day turn into a career.
+
+I'm really loving this. And being able to focus on solving problems for long bouts like this has improved my patience and problem solving in other parts of life too.
+
+I like how coding molds my thinking. It's helpful to be able to net out problems and solve them in more efficient ways. Part of why I want to get hired is so I can continue to develop in this way. I want a job that needs me to keep thinking critically and learning.
+
+**Link(s) to work:** 
+- N/A
+
+
+**Link to Tweet:** 
+[@alexjazayeri d67](https://twitter.com/alexjazayeri/status/1523406676153364481?s=20&t=lPNALoIBz_0kvUKO4Jw7_g)
+
+### Daily Commitments
+
+- [x] hacked on projects for ≥1hr 👾
+- [x] update daily log 
+- [x] update journal - important! share feelings 🌈
+- [x] push work to github
+- [x] post to
+  - [x] twitter using #100DaysOfCode (w/ link to repo or commit)
+  - [x] fcc discord
+  - [ ] linkedin in (starts day 60)
+- [x] engaged with ≥2 challengers
+
+___
+
+## Day 68: 8 May 2022
+
+### Daily Log
+
+**\[OFFER\]**
+
+
+**\[MERNG\]**
+
 - [ ] [Convert code-le to TS](https://github.com/alexownejazayeri/code-le/issues/16)
   - Only use knowledge from React course for this to apply current knowledge
   - Can come back later and Google things obv, but use as a way to solidify what just learned before binge-learning from the module
+- [ ] [Convert CSS to styled components](https://styled-components.com/)
 
 **\[FUJSK\]**
-- [x] [Review FCC OOP Module](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/#object-oriented-programming)
-- [ ] [Review FCC FP Module](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/#functional-programming)
+- [x] [Review FCC FP Module](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/#functional-programming)
+- [ ] [Review FCC Intermediate Algorithms Module](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/#intermediate-algorithm-scripting)
+  - Convert these to TypeScript
 
 **\[LTSFD\]**
 - [ ] [Binge Learn TypeScript](https://www.udemy.com/course/understanding-typescript/learn/lecture/17751414?start=15#overview)
@@ -2351,7 +2431,7 @@ ___
 
 
 **Link to Tweet:** 
-[@alexjazayeri d67]()
+[@alexjazayeri d68]()
 
 ### Daily Commitments
 
