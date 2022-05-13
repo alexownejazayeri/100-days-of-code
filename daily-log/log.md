@@ -2371,7 +2371,7 @@ I like how coding molds my thinking. It's helpful to be able to net out problems
 
 ___
 
-## Day 68: 8 May 2022
+## Day 68 - 71: 8 - 11 May 2022
 
 ### Daily Log
 
@@ -2382,13 +2382,12 @@ ___
 
 - [ ] [Convert code-le to TS](https://github.com/alexownejazayeri/code-le/issues/16)
   - Only use knowledge from React course for this to apply current knowledge
-  - Can come back later and Google things obv, but use as a way to solidify what just learned before binge-learning from the module
 - [ ] [Convert CSS to styled components](https://styled-components.com/)
 
 **\[FUJSK\]**
 - [x] [Review FCC FP Module](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/#functional-programming)
-- [ ] [Review FCC Intermediate Algorithms Module](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/#intermediate-algorithm-scripting)
-  - Convert these to TypeScript
+- [x] [Work on FCC RegEx module](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/#regular-expressions)
+- [x] [Work on FCC Intermediate Algorithms Module](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/#intermediate-algorithm-scripting)
 
 **\[LTSFD\]**
 - [ ] [Binge Learn TypeScript](https://www.udemy.com/course/understanding-typescript/learn/lecture/17751414?start=15#overview)
