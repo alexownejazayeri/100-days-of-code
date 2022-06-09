@@ -2407,20 +2407,18 @@ ___
 
 #### Get more hireable
 
-- [ ] Resumé
-  - [ ] Check resume against the module in the TIH
-  - [ ] A/B test
-    - [ ] The version Ujjwal and I worked on
-    - [ ] The version that comes out of the module above
-- [ ] Applications
-  - [ ] Apply to 5 frontend || fullstack dev jobs
-- [ ] Upgrade LinkedIn and start expanding network.
-  - [ ] Connect with 2nd Degree Recruiters on LinkedIn
-  - [ ] Make a list of companies I'd want to work at
-  - [ ] Connect with software engineers at the companies I'd eventually like to work at
-    - [ ] Asana
-    - [ ] Notion
-    - [ ] Substack
+- [x] Resumé
+  - [-] Check resume against the module in the TIH
+  - [-] A/B test
+    - [-] The version Ujjwal and I worked on
+    - [-] The version that comes out of the module above
+- [x] Upgrade LinkedIn and start expanding network.
+  - [-] Connect with 2nd Degree Recruiters on LinkedIn
+  - [-] Make a list of companies I'd want to work at
+  - [-] Connect with software engineers at the companies I'd eventually like to work at
+    - [-] Asana
+    - [-] Notion
+    - [-] Substack
 
 ### Journal
 
@@ -2430,6 +2428,33 @@ ___
 
 **Link to Tweet:** 
 [@alexjazayeri d100](https://twitter.com/alexjazayeri/status/1534762594518507520)
+
+I took a break from the challenge after feeling the beginning of burnout settling in -- needed to separate from screens and take time away from tech. The thing is, after 5 years of working behind a screen non-stop to make a career in social media marketing, I then went into overdrive to gain enough skills to be hireable as a dev.
+
+My pre-challenge routine of working 8-10hr days for a large agency client followed by moonlighting into the wee hours was a lot. Then, of course, after starting the challenge it was even more screen time because I actually enjoyed the work I was doing. That said, too much of anything can be unhealthy, and I started to feel the effects of overwork and interview fatigue setting in.
+
+1. Reduced interest in learning
+2. Slower rate of progress
+3. Fatigue
+4. Imposter syndrome
+
+Overdoing it was putting me at a disadvantage, so I needed to create some distance from the challenge and from this aggressive goal of learning, building, and teaching everything all the time while also trying to get hired and pay the bills. There's such a thing as too much and I discovered what that was for me around mid-May.
+
+This prompted a retreat into the wilderness; my partner and I planned to camp alongside a lake (not under giant Douglass Firs for obvious reasons) and later in the Redwood backcountry. But before we left something incredible happened: I got a message from a connection/mentor working at my first-pick company about an FullStack dev role and that -- if I was still interested -- he'd refer me.
+
+Of course, I said yes with the caveat that I'd be back in a week.
+
+Sure enough, after coming back my golden ticket was waiting in email! We set a meeting the next day and I'm excited to announce I start working as a 'FullStack Developer' on Monday(just in time to tick the 'OFFER' goal!).
+
+I can't describe how I feel; overjoyed, ecstatic, relieved, at-peace, and grateful approach the emotions. I guess I'm surprised too. I'm not saying there's causation here, but things started to fall in place once I eased up. It's less that I think everyone should go on vacations and expect offers in their inboxes when they return as much as I think -- while it's important to be dedicated and keep building & learning -- you may be working harder than what's healthy or productive and might benefit from a break.
+
+It's amazing how much clearer and more motivated I feel after a bit of separation from tech. Good to live a more primitive lifestyle to get some much needed perspective before jumping into accelerated, on-the-job learning.
+
+Having the #100DaysOfCode community to lean on for everything from interview prep to full-on resumé reviews got me through the tough bits and made me want to get better so I can quickly start to pay it forward to others. To all those who helped, thank you!
+
+My ~bit~ of advice is to try taking things one ~byte~ at a time instead of rushing. You'll retain more and feel more confident as you learn more advanced skills that build on the fundamentals. Knowledge compounds!
+
+Take care of yourselves and play the long game friends.
 
 ### Daily Commitments
 
@@ -2441,4 +2466,3 @@ ___
   - [-] twitter using #100DaysOfCode (w/ link to repo or commit)
   - [-] fcc discord
   - [-] linkedin in (starts day 60)
-- [-] engaged with ≥2 challengers
