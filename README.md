@@ -1,4 +1,4 @@
-# I've joined the #100DaysOfCode Challenge - *huzzah!* 🍻
+# I've completed R1 of the #100DaysOfCode Challenge - *huzzah!* 🍻
 
 ## Contents
 
@@ -9,18 +9,18 @@
 
 ## My commitment
 
-- [ ] **WIP: Code ≥ 1hr / day for the next 100 days.**
-- [ ] **WIP: Tweet my progress every day using #100DaysOfCode.**
-- [ ] **WIP: Encourage ≥2 other challengers on Twitter every day.**
-- [ ] **OPTIONAL: Submit a Pull Request and add helpful resources that others can benefit from to the repo. Alt: Tweet Alex Kallaway**
+- [-] **Code ≥ 1hr / day for the next 100 days.**
+- [-] **Tweet my progress every day using #100DaysOfCode.**
+- [-] **Encourage ≥2 other challengers on Twitter every day.**
+- [-] **OPTIONAL: Submit a Pull Request and add helpful resources that others can benefit from to the repo. Alt: Tweet Alex Kallaway**
 
 ## Hierarchy of Goals
 
-- [ ] \[Tag: OFFER\] Earn an offer as an frontend or fullstack dev / swe
-- [ ] \[Tag: MERNG\] Build 3 Portfolio projects using MERN(G)
-- [ ] \[Tag: FUSJK\] Firm up JavaScript knowledge by reading docs, taking courses, and applying concepts in projects
-- [ ] \[Tag: LTSFD\] Learn TypeScript from the docs and apply in personal projects
-- [ ] \[Tag: B30WP\] Build 30 static web pages i.e.(tech inspirations, friends, landing pages, etc.)
+- [x] \[Tag: OFFER\] Earn an offer as an frontend or fullstack dev / swe
+- [-] \[Tag: MERNG\] Build 3 Portfolio projects using MERN(G)
+- [x] \[Tag: FUSJK\] Firm up JavaScript knowledge by reading docs, taking courses, and applying concepts in projects
+- [x] \[Tag: LTSFD\] Learn TypeScript from the docs and apply in personal projects
+- [-] \[Tag: B30WP\] Build 30 static web pages i.e.(tech inspirations, friends, landing pages, etc.)
 
 ## Getting started
 

@@ -2371,12 +2371,12 @@ I like how coding molds my thinking. It's helpful to be able to net out problems
 
 ___
 
-## Day 68 - 96: 8 - 6 June 2022
+## Day 68 - 100: 8 May - 8 June 2022
 
 ### Daily Log
 
 **\[OFFER\]**
-- [x] GOAL COMPLETE! Received and accepted an offer :)
+!!!COMPLETE!!!
 
 **\[MERNG\]**
 
@@ -2398,6 +2398,7 @@ ___
 #### Learn and do things and stuff
 
 - [ ] Learn monorepos
+- [ ] Do the code algorithms thing with Jose
 - [ ] Complete Leetcode's intro problems [here](https://leetcode.com/problem-list/challenges-for-new-users/)
 - [ ] Code up pages for Computer Scientists in the FCC playing card deck
 - [ ] Consider writing up a wiki as part of my #100DaysOfCode progress tracking - a "what I've learned so far" journey tracker sorta deal
@@ -2420,6 +2421,13 @@ ___
     - [-] Substack
 
 ### Journal
+
+**Link(s) to work:** 
+- [100DaysOfCode - Projects](https://github.com/alexownejazayeri/100-days-of-code/tree/master/projects)
+
+
+**Link to Tweet:** 
+[@alexjazayeri d100](https://twitter.com/alexjazayeri/status/1534762594518507520)
 
 I took a break from the challenge after feeling the beginning of burnout settling in -- needed to separate from screens and take time away from tech. The thing is, after 5 years of working behind a screen non-stop to make a career in social media marketing, I then went into overdrive to gain enough skills to be hireable as a dev.
 
@@ -2448,20 +2456,13 @@ My ~bit~ of advice is to try taking things one ~byte~ at a time instead of rushi
 
 Take care of yourselves and play the long game friends.
 
-**Link(s) to work:** 
-- [N/A]()
-
-
-**Link to Tweet:** 
-[@alexjazayeri d68 - 96]()
-
 ### Daily Commitments
 
 - [-] hacked on projects for ≥1hr 👾
-- [x] update daily log 
-- [x] update journal - important! share feelings 🌈
-- [x] push work to github
-- [x] post to
-  - [x] twitter using #100DaysOfCode (w/ link to repo or commit)
-  - [x] fcc discord
-- [-] engaged with ≥2 challengers
+- [-] update daily log 
+- [-] update journal - important! share feelings 🌈
+- [-] push work to github
+- [-] post to
+  - [-] twitter using #100DaysOfCode (w/ link to repo or commit)
+  - [-] fcc discord
+  - [-] linkedin in (starts day 60)
