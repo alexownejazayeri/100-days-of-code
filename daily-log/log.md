@@ -2371,12 +2371,12 @@ I like how coding molds my thinking. It's helpful to be able to net out problems
 
 ___
 
-## Day 68 - 71: 8 - 11 May 2022
+## Day 68 - 100: 8 May - 8 June 2022
 
 ### Daily Log
 
 **\[OFFER\]**
-
+!!!COMPLETE!!!
 
 **\[MERNG\]**
 
@@ -2398,7 +2398,7 @@ ___
 #### Learn and do things and stuff
 
 - [ ] Learn monorepos
-- [ ] Do the code thing with Jose
+- [ ] Do the code algorithms thing with Jose
 - [ ] Complete Leetcode's intro problems [here](https://leetcode.com/problem-list/challenges-for-new-users/)
 - [ ] Code up pages for Computer Scientists in the FCC playing card deck
 - [ ] Consider writing up a wiki as part of my #100DaysOfCode progress tracking - a "what I've learned so far" journey tracker sorta deal
@@ -2430,16 +2430,16 @@ ___
 
 
 **Link to Tweet:** 
-[@alexjazayeri d68]()
+[@alexjazayeri d100]()
 
 ### Daily Commitments
 
-- [ ] hacked on projects for ≥1hr 👾
-- [ ] update daily log 
-- [ ] update journal - important! share feelings 🌈
-- [ ] push work to github
-- [ ] post to
-  - [ ] twitter using #100DaysOfCode (w/ link to repo or commit)
-  - [ ] fcc discord
-  - [ ] linkedin in (starts day 60)
-- [ ] engaged with ≥2 challengers
+- [-] hacked on projects for ≥1hr 👾
+- [-] update daily log 
+- [-] update journal - important! share feelings 🌈
+- [-] push work to github
+- [-] post to
+  - [-] twitter using #100DaysOfCode (w/ link to repo or commit)
+  - [-] fcc discord
+  - [-] linkedin in (starts day 60)
+- [-] engaged with ≥2 challengers
