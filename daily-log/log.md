@@ -2424,13 +2424,12 @@ ___
 
 ### Journal
 
-
 **Link(s) to work:** 
-- [TBD]()
+- [100DaysOfCode - Projects](https://github.com/alexownejazayeri/100-days-of-code/tree/master/projects)
 
 
 **Link to Tweet:** 
-[@alexjazayeri d100]()
+[@alexjazayeri d100](https://twitter.com/alexjazayeri/status/1534762594518507520)
 
 ### Daily Commitments
 
