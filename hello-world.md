@@ -6,7 +6,7 @@ ___
 
 ## Hello world
 
-I'm Alex, h e l l o. See that purple glory? The unpacked monitors? The mic stand, the RedBull (not glorifying this awful habit), the water (to feel less bad about the RedBull), and the headphones?
+I'm Alex, h e l l o. See that purple glory? The not-yet-unpacked speakers - the mic stand, the RedBull (not glorifying this awful habit), the water (to feel less bad about the RedBull), and the headphones?
 
 This is my workspace. 
 
